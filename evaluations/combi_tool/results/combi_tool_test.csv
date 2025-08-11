@@ -1,0 +1,163 @@
+test_type,query,expected_station,detected_station,response,correct,station,expected_count,extracted_count,missing_times,extra_times,completeness_score,current_time,expected_next,extracted_next
+station_recognition,horarios desde Campus UdeSA,Campus UdeSA,Campus UdeSA,"La próxima combi desde *Campus UdeSA* sale a las 14:10.
+Aquí están todos los horarios para hoy:
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40",True,,,,,,,,,
+station_recognition,combis del campus udesa,Campus UdeSA,Campus UdeSA,"La próxima combi desde *Campus UdeSA* sale a las 14:10.
+Aquí están todos los horarios para hoy:
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40",True,,,,,,,,,
+station_recognition,desde Estación Victoria,Estación Victoria,Estación Victoria,"La próxima combi desde *Estación Victoria* sale a las 14:20.
+Aquí están todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",True,,,,,,,,,
+station_recognition,estacion victoria horarios,Estación Victoria,,No entendí desde qué parada quieres el horario. Por favor menciona 'Estación Victoria' o 'Campus UdeSA' en tu pregunta.,False,,,,,,,,,
+station_recognition,horarios de combi,,,No entendí desde qué parada quieres el horario. Por favor menciona 'Estación Victoria' o 'Campus UdeSA' en tu pregunta.,True,,,,,,,,,
+station_recognition,desde el campus,Campus UdeSA,,No entendí desde qué parada quieres el horario. Por favor menciona 'Estación Victoria' o 'Campus UdeSA' en tu pregunta.,False,,,,,,,,,
+schedule_completeness,todos los horarios desde Campus UdeSA,,,"La próxima combi desde *Campus UdeSA* sale a las 10:45.
+Aquí están todos los horarios para hoy:
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40",True,Campus UdeSA,12.0,13.0,[],[],1.0,,,
+schedule_completeness,horarios completos Estación Victoria,,,"La próxima combi desde *Estación Victoria* sale a las 09:40.
+Aquí están todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",True,Estación Victoria,13.0,14.0,[],[],1.0,,,
+next_combi_logic,próxima combi Campus UdeSA,,,"La próxima combi desde *Campus UdeSA* sale a las 10:45.
+Aquí están todos los horarios para hoy:
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40",True,Campus UdeSA,,,,,,10:00,10:45,10:45
+next_combi_logic,próxima combi Campus UdeSA,,,"La próxima combi desde *Campus UdeSA* sale a las 12:40.
+Aquí están todos los horarios para hoy:
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40",True,Campus UdeSA,,,,,,12:30,12:40,12:40
+next_combi_logic,próxima combi Campus UdeSA,,,"No hay más combis programadas para hoy desde *Campus UdeSA* después de tu hora actual.
+Aquí están todos los horarios para hoy:
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40",True,Campus UdeSA,,,,,,21:00,No más combis,
+next_combi_logic,próxima combi Estación Victoria,,,"La próxima combi desde *Estación Victoria* sale a las 09:40.
+Aquí están todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",True,Estación Victoria,,,,,,09:00,09:40,09:40
+next_combi_logic,próxima combi Estación Victoria,,,"La próxima combi desde *Estación Victoria* sale a las 13:50.
+Aquí están todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",True,Estación Victoria,,,,,,13:30,13:50,13:50
+next_combi_logic,próxima combi Estación Victoria,,,"No hay más combis programadas para hoy desde *Estación Victoria* después de tu hora actual.
+Aquí están todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",True,Estación Victoria,,,,,,19:00,No más combis,

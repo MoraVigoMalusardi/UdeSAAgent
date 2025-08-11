@@ -1,0 +1,152 @@
+query,expected_answer,agent_response,LLMJudge_score,BERT_prec,BERT_rec,BERT_f1,test_type
+¿Cuáles son los feriados de 2025?,Aquí lo que encontré: feriados,"Los feriados de 2025 son los siguientes:
+
+**Primer semestre:**
+- 03/03/2025 al 04/03/2025 (Feriado nacional)
+- 24/03/2025 (Feriado nacional)
+- 02/04/2025 (Feriado nacional)
+- 17/04/2025 (Feriado puente)
+- 18/04/2025 (Feriado nacional)
+- 01/05/2025 (Feriado nacional)
+- 25/05/2025 (Feriado trasladable)
+- 16/06/2025 (Feriado trasladable)
+- 20/06/2025 (Feriado nacional)
+- 09/07/2025 (Feriado nacional)
+
+**Segundo semestre:**
+- 15/08/2025 (Feriado puente)
+- 17/08/2025 (Feriado trasladable)
+- 12/10/2025 (Feriado trasladable)
+- 21/11/2025 (Feriado puente)
+- 24/11/2025 (Feriado trasladable)
+- 08/12/2025 (Feriado nacional)
+- 25/12/2025 (Feriado nacional)
+
+Si necesitas más información, no dudes en preguntar.",1,0.42265641689300537,0.6477599740028381,0.5115390419960022,basic_holidays_request
+¿Cuándo son los parciales del primer semestre?,"parciales, semestre 1","Los parciales del primer semestre se realizaron del 19 de abril al 3 de mayo de 2025. Si necesitas información sobre otro semestre, no dudes en preguntar.",1,0.6194481253623962,0.7623593807220459,0.6835135221481323,semester_specific_request
+Fechas importantes del calendario académico,Aquí lo que encontré:,"Aquí tienes las fechas importantes del calendario académico de la Universidad de San Andrés:
+
+### Semestre 1:
+- **Acto de apertura**: 21/02/2025
+- **Comienzo del semestre académico**: 24/02/2025
+- **Feriado nacional**: 03/03/2025 al 04/03/2025
+- **Vence el plazo para agregar o abandonar materias**: 14/03/2025
+- **Feriado nacional**: 24/03/2025
+- **Feriado nacional**: 02/04/2025
+- **Último día para dar de baja un curso por Gestión**: 16/04/2025
+- **Feriado puente**: 17/04/2025
+- **Feriado nacional**: 18/04/2025
+- **Período de exámenes parciales**: 19/04/2025 al 03/05/2025
+- **Feriado nacional**: 01/05/2025
+- **Feriado trasladable**: 25/05/2025
+- **Feriado trasladable**: 16/06/2025
+- **Feriado nacional**: 20/06/2025
+- **Período de exámenes finales**: 21/06/2025 al 05/07/2025
+- **Recuperatorios y entrega de notas**: 07/07/2025 al 12/07/2025
+- **Feriado nacional**: 09/07/2025
+- **Vacaciones de invierno**: 14/07/2025 al 03/08/2025
+
+### Semestre 2:
+- **Comienzo del semestre académico**: 04/08/2025
+- **Feriado puente**: 15/08/2025
+- **Feriado trasladable**: 17/08/2025
+- **Vence el plazo para agregar o abandonar materias**: 22/08/2025
+- **Último día para dar de baja un curso por Gestión**: 26/09/2025
+- **Período de exámenes parciales**: 27/09/2025 al 11/10/2025
+- **Feriado trasladable**: 12/10/2025
+- **Feriado puente**: 21/11/2025
+- **Feriado trasladable**: 24/11/2025
+- **Período de exámenes finales**: 29/11/2025 al 13/12/2025
+- **Feriado nacional**: 08/12/2025
+- **Recuperatorios y entrega de notas**: 15/12/2025 al 20/12/2025
+- **Feriado nacional**: 25/12/2025
+
+Si necesitas más información sobre alguna de estas fechas, no dudes en preguntar.",1,0.37658026814460754,0.623246967792511,0.4694861173629761,general_calendar_request
+¿Cuál es el próximo feriado?,El próximo feriado,El próximo feriado es el 9 de julio de 2025.,0,0.7096096277236938,0.8164125680923462,0.7592736482620239,next_event_request
+¿Cuándo es el próximo evento académico importante?,El próximo evento,"El próximo evento académico importante es el ""Recuperatorios y entrega de notas"", que se llevará a cabo del 7 al 12 de julio de 2025. Además, habrá un feriado nacional el 9 de julio de 2025.",1,0.6008120179176331,0.7883739471435547,0.6819311380386353,next_academic_event
+¿Cuándo empiezan las vacaciones de invierno?,vacaciones,Las vacaciones de invierno en la Universidad de San Andrés comienzan el 14 de julio de 2025 y finalizan el 3 de agosto de 2025.,1,0.5765497088432312,0.7331575155258179,0.6454904675483704,vacation_timing
+¿Cuándo son los finales del segundo semestre?,"finales, semestre 2",Los finales del segundo semestre se llevarán a cabo del 29 de noviembre al 13 de diciembre de 2025.,0,0.6310619115829468,0.7475239038467407,0.6843736171722412,finals_timing
+Fecha de inicio de clases 2025,inicio,"Las fechas de inicio de clases para el año 2025 en la Universidad de San Andrés son las siguientes:
+
+- Acto de apertura del semestre 1: **21 de febrero de 2025**
+- Comienzo del semestre académico 1: **24 de febrero de 2025**
+- Comienzo del semestre académico 2: **04 de agosto de 2025**",1,0.4993933439254761,0.6976704001426697,0.5821109414100647,semester_start
+¿Hay feriados en abril?,abril,"En abril de 2025, hay dos feriados:
+
+- 2 de abril de 2025 (feriado nacional)
+- 17 de abril de 2025 (feriado puente)
+- 18 de abril de 2025 (feriado nacional)
+
+Si necesitas más información, no dudes en preguntar.",1,0.5282042026519775,0.6277621388435364,0.573695957660675,month_specific_query
+¿Qué eventos hay en marzo 2025?,marzo,,0,0.0,0.0,0.0,month_events_query
+¿Cuándo son los recuperatorios?,Los recuperatorios,"Los recuperatorios son:
+
+- Semestre 1: del 07/07/2025 al 12/07/2025.
+- Semestre 2: del 15/12/2025 al 20/12/2025.",0,0.5554523468017578,0.8561428785324097,0.673771858215332,makeup_exams_query
+calendario académico completo,Aquí lo que encontré:,"Aquí tienes el calendario académico completo para el año 2025 en la Universidad de San Andrés:
+
+### Semestre 1
+- **Acto de apertura (inicio)**: 21/02/2025
+- **Comienzo del semestre académico**: 24/02/2025
+- **Feriado nacional**: 03/03/2025 al 04/03/2025
+- **Vence el plazo para agregar o abandonar materias**: 14/03/2025
+- **Feriado nacional**: 24/03/2025
+- **Feriado nacional**: 02/04/2025
+- **Último día para dar de baja un curso por Gestión**: 16/04/2025
+- **Feriado puente**: 17/04/2025
+- **Feriado nacional**: 18/04/2025
+- **Período de exámenes parciales**: 19/04/2025 al 03/05/2025
+- **Feriado nacional**: 01/05/2025
+- **Feriado trasladable**: 25/05/2025
+- **Feriado trasladable**: 16/06/2025
+- **Feriado nacional**: 20/06/2025
+- **Período de exámenes finales**: 21/06/2025 al 05/07/2025
+- **Recuperatorios y entrega de notas**: 07/07/2025 al 12/07/2025
+- **Feriado nacional**: 09/07/2025
+- **Vacaciones de invierno**: 14/07/2025 al 03/08/2025
+
+### Semestre 2
+- **Comienzo del semestre académico**: 04/08/2025
+- **Feriado puente**: 15/08/2025
+- **Feriado trasladable**: 17/08/2025
+- **Vence el plazo para agregar o abandonar materias**: 22/08/2025
+- **Último día para dar de baja un curso por Gestión**: 26/09/2025
+- **Período de exámenes parciales**: 27/09/2025 al 11/10/2025
+- **Feriado trasladable**: 12/10/2025
+- **Feriado puente**: 21/11/2025
+- **Feriado trasladable**: 24/11/2025
+- **Período de exámenes finales**: 29/11/2025 al 13/12/2025
+- **Feriado nacional**: 08/12/2025
+- **Recuperatorios y entrega de notas**: 15/12/2025 al 20/12/2025
+- **Feriado nacional**: 25/12/2025
+
+Si necesitas más información sobre algún aspecto específico del calendario, no dudes en preguntar.",1,0.37606149911880493,0.6204502582550049,0.468288391828537,complete_calendar_request
+fechas importantes,Aquí lo que encontré:,"Aquí tienes las fechas importantes:
+
+### Feriados:
+- 03/03/2025 al 04/03/2025
+- 24/03/2025
+- 02/04/2025
+- 17/04/2025
+- 18/04/2025
+- 01/05/2025
+- 25/05/2025
+- 16/06/2025
+- 20/06/2025
+- 09/07/2025
+- 15/08/2025
+- 17/08/2025
+- 12/10/2025
+- 21/11/2025
+- 24/11/2025
+- 08/12/2025
+- 25/12/2025
+
+### Vacaciones:
+- Vacaciones de invierno: del 14/07/2025 al 03/08/2025.
+
+### Períodos de Exámenes Parciales:
+- 19/04/2025 al 03/05/2025
+- 27/09/2025 al 11/10/2025
+
+Si necesitas más información o detalles específicos sobre alguna fecha, no dudes en preguntar.",1,0.4330286383628845,0.6782102584838867,0.5285711884498596,ambiguous_dates_query

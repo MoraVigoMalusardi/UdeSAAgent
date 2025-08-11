@@ -1,0 +1,147 @@
+test_type,query,expected_type,detected_type,current_date,response,correct,expected_semester,expected_has_next,has_proximo_text,expected_events,extracted_events,events_found,events_missing,accuracy_score,dates_count
+event_type_recognition,¿Cuáles son los feriados de 2025?,feriado,feriado,01/03/2025,"Aquí lo que encontré:
+- Feriado nacional (feriado) — 03/03/2025 al 04/03/2025, semestre 1
+- Feriado nacional (feriado) — 24/03/2025, semestre 1
+- Feriado nacional (feriado) — 02/04/2025, semestre 1
+- Feriado puente (feriado) — 17/04/2025, semestre 1
+- Feriado nacional (feriado) — 18/04/2025, semestre 1
+- Feriado nacional (feriado) — 01/05/2025, semestre 1
+- Feriado trasladable (feriado) — 25/05/2025, semestre 1
+- Feriado trasladable (feriado) — 16/06/2025, semestre 1
+- Feriado nacional (feriado) — 20/06/2025, semestre 1
+- Feriado nacional (feriado) — 09/07/2025, semestre 1
+- Feriado puente (feriado) — 15/08/2025, semestre 2
+- Feriado trasladable (feriado) — 17/08/2025, semestre 2
+- Feriado trasladable (feriado) — 12/10/2025, semestre 2
+- Feriado puente (feriado) — 21/11/2025, semestre 2
+- Feriado trasladable (feriado) — 24/11/2025, semestre 2
+- Feriado nacional (feriado) — 08/12/2025, semestre 2
+- Feriado nacional (feriado) — 25/12/2025, semestre 2",True,,,,,,,,,
+event_type_recognition,fechas de parciales,parciales,parciales,01/03/2025,"Aquí lo que encontré:
+- Período de examenes parciales (parciales) — 19/04/2025 al 03/05/2025, semestre 1
+- Período de examenes parciales (parciales) — 27/09/2025 al 11/10/2025, semestre 2",True,,,,,,,,,
+event_type_recognition,cuándo son los finales,finales,finales,01/03/2025,"Aquí lo que encontré:
+- Período de examenes finales (finales) — 21/06/2025 al 05/07/2025, semestre 1
+- Período de examenes finales (finales) — 29/11/2025 al 13/12/2025, semestre 2",True,,,,,,,,,
+event_type_recognition,período de vacaciones,vacaciones,vacaciones,01/03/2025,"Aquí lo que encontré:
+- Vacaciones de invierno (vacaciones) — 14/07/2025 al 03/08/2025, semestre 1",True,,,,,,,,,
+event_type_recognition,inicio de clases,inicio,inicio,01/03/2025,"Aquí lo que encontré:
+- Acto de apertura (inicio) — 21/02/2025, semestre 1
+- Comienzo del semestre adadémico (inicio) — 24/02/2025, semestre 1
+- Comienzo del semestre adadémico (inicio) — 04/08/2025, semestre 2",True,,,,,,,,,
+event_type_recognition,recuperatorios cuando son,recuperatorios,recuperatorios,01/03/2025,"Aquí lo que encontré:
+- Recuperatorios y entrega de notas (recuperatorios) — 07/07/2025 al 12/07/2025, semestre 1
+- Recuperatorios y entrega de notas (recuperatorios) — 15/12/2025 al 20/12/2025, semestre 2",True,,,,,,,,,
+event_type_recognition,plazos importantes,plazo,plazo,01/03/2025,"Aquí lo que encontré:
+- Vence el plazo para agregar o abandonar materias (plazo) — 14/03/2025, semestre 1
+- Último día para dar de baja un curso por Gestión (plazo) — 16/04/2025, semestre 1
+- Vence el plazo para agregar o abandonar materias (plazo) — 22/08/2025, semestre 2
+- Último día para dar de baja un curso por Gestión (plazo) — 26/09/2025, semestre 2",True,,,,,,,,,
+semester_filtering,eventos del semestre 1,,,01/03/2025,"Aquí lo que encontré:
+- Acto de apertura (inicio) — 21/02/2025, semestre 1
+- Comienzo del semestre adadémico (inicio) — 24/02/2025, semestre 1
+- Feriado nacional (feriado) — 03/03/2025 al 04/03/2025, semestre 1
+- Vence el plazo para agregar o abandonar materias (plazo) — 14/03/2025, semestre 1
+- Feriado nacional (feriado) — 24/03/2025, semestre 1
+- Feriado nacional (feriado) — 02/04/2025, semestre 1
+- Último día para dar de baja un curso por Gestión (plazo) — 16/04/2025, semestre 1
+- Feriado puente (feriado) — 17/04/2025, semestre 1
+- Feriado nacional (feriado) — 18/04/2025, semestre 1
+- Período de examenes parciales (parciales) — 19/04/2025 al 03/05/2025, semestre 1
+- Feriado nacional (feriado) — 01/05/2025, semestre 1
+- Feriado trasladable (feriado) — 25/05/2025, semestre 1
+- Feriado trasladable (feriado) — 16/06/2025, semestre 1
+- Feriado nacional (feriado) — 20/06/2025, semestre 1
+- Período de examenes finales (finales) — 21/06/2025 al 05/07/2025, semestre 1
+- Recuperatorios y entrega de notas (recuperatorios) — 07/07/2025 al 12/07/2025, semestre 1
+- Feriado nacional (feriado) — 09/07/2025, semestre 1
+- Vacaciones de invierno (vacaciones) — 14/07/2025 al 03/08/2025, semestre 1",True,1.0,,,,,,,,
+semester_filtering,fechas importantes semestre 2,,,01/03/2025,"Aquí lo que encontré:
+- Comienzo del semestre adadémico (inicio) — 04/08/2025, semestre 2
+- Feriado puente (feriado) — 15/08/2025, semestre 2
+- Feriado trasladable (feriado) — 17/08/2025, semestre 2
+- Vence el plazo para agregar o abandonar materias (plazo) — 22/08/2025, semestre 2
+- Último día para dar de baja un curso por Gestión (plazo) — 26/09/2025, semestre 2
+- Período de examenes parciales (parciales) — 27/09/2025 al 11/10/2025, semestre 2
+- Feriado trasladable (feriado) — 12/10/2025, semestre 2
+- Feriado puente (feriado) — 21/11/2025, semestre 2
+- Feriado trasladable (feriado) — 24/11/2025, semestre 2
+- Período de examenes finales (finales) — 29/11/2025 al 13/12/2025, semestre 2
+- Feriado nacional (feriado) — 08/12/2025, semestre 2
+- Recuperatorios y entrega de notas (recuperatorios) — 15/12/2025 al 20/12/2025, semestre 2
+- Feriado nacional (feriado) — 25/12/2025, semestre 2",True,2.0,,,,,,,,
+semester_filtering,feriados primer semestre,,,01/03/2025,"Aquí lo que encontré:
+- Feriado nacional (feriado) — 03/03/2025 al 04/03/2025, semestre 1
+- Feriado nacional (feriado) — 24/03/2025, semestre 1
+- Feriado nacional (feriado) — 02/04/2025, semestre 1
+- Feriado puente (feriado) — 17/04/2025, semestre 1
+- Feriado nacional (feriado) — 18/04/2025, semestre 1
+- Feriado nacional (feriado) — 01/05/2025, semestre 1
+- Feriado trasladable (feriado) — 25/05/2025, semestre 1
+- Feriado trasladable (feriado) — 16/06/2025, semestre 1
+- Feriado nacional (feriado) — 20/06/2025, semestre 1
+- Feriado nacional (feriado) — 09/07/2025, semestre 1
+- Feriado puente (feriado) — 15/08/2025, semestre 2
+- Feriado trasladable (feriado) — 17/08/2025, semestre 2
+- Feriado trasladable (feriado) — 12/10/2025, semestre 2
+- Feriado puente (feriado) — 21/11/2025, semestre 2
+- Feriado trasladable (feriado) — 24/11/2025, semestre 2
+- Feriado nacional (feriado) — 08/12/2025, semestre 2
+- Feriado nacional (feriado) — 25/12/2025, semestre 2",True,1.0,,,,,,,,
+semester_filtering,parciales segundo semestre,,,01/03/2025,"Aquí lo que encontré:
+- Período de examenes parciales (parciales) — 19/04/2025 al 03/05/2025, semestre 1
+- Período de examenes parciales (parciales) — 27/09/2025 al 11/10/2025, semestre 2",True,2.0,,,,,,,,
+semester_filtering,todos los eventos,,,01/03/2025,"Aquí lo que encontré:
+- Acto de apertura (inicio) — 21/02/2025, semestre 1
+- Comienzo del semestre adadémico (inicio) — 24/02/2025, semestre 1
+- Feriado nacional (feriado) — 03/03/2025 al 04/03/2025, semestre 1
+- Vence el plazo para agregar o abandonar materias (plazo) — 14/03/2025, semestre 1
+- Feriado nacional (feriado) — 24/03/2025, semestre 1
+- Feriado nacional (feriado) — 02/04/2025, semestre 1
+- Último día para dar de baja un curso por Gestión (plazo) — 16/04/2025, semestre 1
+- Feriado puente (feriado) — 17/04/2025, semestre 1
+- Feriado nacional (feriado) — 18/04/2025, semestre 1
+- Período de examenes parciales (parciales) — 19/04/2025 al 03/05/2025, semestre 1
+- Feriado nacional (feriado) — 01/05/2025, semestre 1
+- Feriado trasladable (feriado) — 25/05/2025, semestre 1
+- Feriado trasladable (feriado) — 16/06/2025, semestre 1
+- Feriado nacional (feriado) — 20/06/2025, semestre 1
+- Período de examenes finales (finales) — 21/06/2025 al 05/07/2025, semestre 1
+- Recuperatorios y entrega de notas (recuperatorios) — 07/07/2025 al 12/07/2025, semestre 1
+- Feriado nacional (feriado) — 09/07/2025, semestre 1
+- Vacaciones de invierno (vacaciones) — 14/07/2025 al 03/08/2025, semestre 1
+- Comienzo del semestre adadémico (inicio) — 04/08/2025, semestre 2
+- Feriado puente (feriado) — 15/08/2025, semestre 2
+- Feriado trasladable (feriado) — 17/08/2025, semestre 2
+- Vence el plazo para agregar o abandonar materias (plazo) — 22/08/2025, semestre 2
+- Último día para dar de baja un curso por Gestión (plazo) — 26/09/2025, semestre 2
+- Período de examenes parciales (parciales) — 27/09/2025 al 11/10/2025, semestre 2
+- Feriado trasladable (feriado) — 12/10/2025, semestre 2
+- Feriado puente (feriado) — 21/11/2025, semestre 2
+- Feriado trasladable (feriado) — 24/11/2025, semestre 2
+- Período de examenes finales (finales) — 29/11/2025 al 13/12/2025, semestre 2
+- Feriado nacional (feriado) — 08/12/2025, semestre 2
+- Recuperatorios y entrega de notas (recuperatorios) — 15/12/2025 al 20/12/2025, semestre 2
+- Feriado nacional (feriado) — 25/12/2025, semestre 2",True,,,,,,,,,
+next_event_logic,próximo feriado,,,01/03/2025,El próximo evento (Feriado nacional) es 03/03/2025 (semestre 1).,True,,True,True,,,,,,
+next_event_logic,próximo evento académico,,,01/03/2025,El próximo evento (Feriado nacional) es 03/03/2025 (semestre 1).,True,,True,True,,,,,,
+date_accuracy,feriados de abril 2025,,,,"Aquí lo que encontré:
+- Feriado nacional (feriado) — 03/03/2025 al 04/03/2025, semestre 1
+- Feriado nacional (feriado) — 24/03/2025, semestre 1
+- Feriado nacional (feriado) — 02/04/2025, semestre 1
+- Feriado puente (feriado) — 17/04/2025, semestre 1
+- Feriado nacional (feriado) — 18/04/2025, semestre 1
+- Feriado nacional (feriado) — 01/05/2025, semestre 1
+- Feriado trasladable (feriado) — 25/05/2025, semestre 1
+- Feriado trasladable (feriado) — 16/06/2025, semestre 1
+- Feriado nacional (feriado) — 20/06/2025, semestre 1
+- Feriado nacional (feriado) — 09/07/2025, semestre 1
+- Feriado puente (feriado) — 15/08/2025, semestre 2
+- Feriado trasladable (feriado) — 17/08/2025, semestre 2
+- Feriado trasladable (feriado) — 12/10/2025, semestre 2
+- Feriado puente (feriado) — 21/11/2025, semestre 2
+- Feriado trasladable (feriado) — 24/11/2025, semestre 2
+- Feriado nacional (feriado) — 08/12/2025, semestre 2
+- Feriado nacional (feriado) — 25/12/2025, semestre 2",True,,,,"['Feriado nacional', 'Feriado trasladable', 'Feriado puente']","['Feriado nacional', 'Feriado nacional', 'Feriado nacional', 'Feriado puente', 'Feriado nacional', 'Feriado nacional', 'Feriado trasladable', 'Feriado trasladable', 'Feriado nacional', 'Feriado nacional', 'Feriado puente', 'Feriado trasladable', 'Feriado trasladable', 'Feriado puente', 'Feriado trasladable', 'Feriado nacional', 'Feriado nacional']","['Feriado nacional', 'Feriado trasladable', 'Feriado puente']",[],1.0,18.0
+date_accuracy,fechas de parciales semestre 1,,,,"Aquí lo que encontré:
+- Período de examenes parciales (parciales) — 19/04/2025 al 03/05/2025, semestre 1",True,,,,['Parciales'],['Período de examenes parciales'],['Parciales'],[],1.0,2.0

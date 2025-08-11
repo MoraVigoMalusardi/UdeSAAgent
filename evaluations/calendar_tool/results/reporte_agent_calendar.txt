@@ -1,0 +1,19 @@
+=== MÉTRICAS PROMEDIO ===
+LLM Judge: 0.6923
+BERT F1: 0.5586
+BERT Precision: 0.4868
+BERT Recall: 0.6615
+=== ANÁLISIS POR TIPO DE TEST ===
+ambiguous_dates_query: LLM_Judge=1.000, BERT_F1=0.529
+basic_holidays_request: LLM_Judge=1.000, BERT_F1=0.512
+complete_calendar_request: LLM_Judge=1.000, BERT_F1=0.468
+finals_timing: LLM_Judge=0.000, BERT_F1=0.684
+general_calendar_request: LLM_Judge=1.000, BERT_F1=0.469
+makeup_exams_query: LLM_Judge=0.000, BERT_F1=0.674
+month_events_query: LLM_Judge=0.000, BERT_F1=0.000
+month_specific_query: LLM_Judge=1.000, BERT_F1=0.574
+next_academic_event: LLM_Judge=1.000, BERT_F1=0.682
+next_event_request: LLM_Judge=0.000, BERT_F1=0.759
+semester_specific_request: LLM_Judge=1.000, BERT_F1=0.684
+semester_start: LLM_Judge=1.000, BERT_F1=0.582
+vacation_timing: LLM_Judge=1.000, BERT_F1=0.645

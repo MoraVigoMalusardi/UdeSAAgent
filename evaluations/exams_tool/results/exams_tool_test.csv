@@ -1,0 +1,651 @@
+test_type,query,expected_subject,expected_code,subject_recognized,response,correct,expected_modality,detected_modality,expected_info,extracted_info,fecha_correct,hora_correct,aula_correct,accuracy_score
+subject_recognition,examen de Fundamentos de Administración,Fundamentos de Administración,A016,True,"Examen de A016 — Fundamentos de Administración:
+- Fecha: 30/04/2025
+- Horario: 9hs
+- Aula: HAM
+- Modalidad: presencial",True,,,,,,,,
+subject_recognition,parcial de Matemática I,Matemática I,C030,True,"Fechas de parciales:
+- A024 (Fundamentos de Contabilidad): 22/04/2025 a las 17hs en HAM / H005 / H011
+- A024 (Fundamentos de Contabilidad): 22/04/2025 a las 17hs en nan
+- A024 (Fundamentos de Contabilidad): 22/04/2025 a las 17hs en nan
+- A121 (Contabilidad Gerencial): 22/04/2025 a las 9hs en HAM / H005
+- A121 (Contabilidad Gerencial): 22/04/2025 a las 9hs en nan
+- A121 (Contabilidad Gerencial): 22/04/2025 a las 12hs en C02
+- A322 (Contabilidad Financiera I): 22/04/2025 a las 9hs en B109
+- C021 (Didáctica de la Matemática): 22/04/2025 a las 17hs en G003
+- C441 (Procesos y sistemas de información): 22/04/2025 a las 8hs en 101
+- E120 (Macroeconomía II): 22/04/2025 a las 9hs en H125 / H124
+- F311 (Política Macroeconómica): 22/04/2025 a las 9hs en H117
+- F400 (Instrumentos Financieros): 22/04/2025 a las 18hs en S002 / S001
+- H030 (Introducción a la Apreciacion Artistica): 22/04/2025 a las 9hs en G001/G003
+- H202 (Historia Sociopolítica- Actores y Procesos S.XVI al XX): 22/04/2025 a las 9hs en N004
+- H204 (Historia Sociopolítica B): 22/04/2025 a las 8hs en 102
+- H221 (Teoría y crítica de las Humanidades I): 22/04/2025 a las 13hs en G004
+- I204 (Fundamentos de la Inteligencia Artificial): 22/04/2025 a las 13hs en G001
+- P130 (Teoría de las Relaciones Internacionales): 22/04/2025 a las 13hs en H011
+- P139 (Teoría Sociológica Contemporánea): 22/04/2025 a las 15:40hs en -
+- A016 (Fundamentos de Administración): 23/04/2025 a las 8hs en 201
+- A163 (Teoría y Técnica Impositiva II): 23/04/2025 a las 9hs en H122
+- A512 (Gestión y arquitectura de datos): 23/04/2025 a las 9hs en H118 / H117
+- A512 (Gestión y arquitectura de datos): 23/04/2025 a las 8hs en C02 / C03
+- C029 (Introducción al Razonamiento Matemático): 23/04/2025 a las 9hs en HAM / H005 / H011
+- C029 (Introducción al Razonamiento Matemático): 23/04/2025 a las 9hs en nan
+- C029 (Introducción al Razonamiento Matemático): 23/04/2025 a las 9hs en nan
+- C030 (Matemática I): 23/04/2025 a las 17hs en H118 / H117
+- C030 (Matemática I): 23/04/2025 a las 17hs en nan
+- C030 (Matemática I): 23/04/2025 a las 17hs en nan
+- C138 (Estadística II): 23/04/2025 a las 13hs en H118 / H117
+- C138 (Estadística II): 23/04/2025 a las 13hs en nan
+- CC138 (Estadística II): 23/04/2025 a las 13hs en H125
+- CC400 (Diseños experimentales y cuasi experimentales): 23/04/2025 a las 17hs en G002
+- D402 (Delitos en particular): 23/04/2025 a las 17hs en M112
+- E010 (Economía I): 23/04/2025 a las 17hs en HAM / H005 / H011
+- E010 (Economía I): 23/04/2025 a las 17hs en nan
+- E015 (Microeconomía I): 23/04/2025 a las 8hs en C05
+- H039 (Arte Moderno y Contemporáneo Internacional, Siglo XX y XXI): 23/04/2025 a las 17hs en H122 / H124
+- H203 (La invención de la democracia. Una historia de la modernidad occidental): 23/04/2025 a las 13hs en HAM / H005 / H011
+- H203 (La invención de la democracia. Una historia de la modernidad occidental): 23/04/2025 a las 13hs en nan
+- K152 (Comunicación Política): 23/04/2025 a las 13hs en V006
+- K440 (Usabilidad y Factores Humanos): 23/04/2025 a las 13hs en M112
+- P042 (Filosofía Política Clásica): 23/04/2025 a las 9hs en H125 / H124 
+- P163 (Seguridad Internacional): 23/04/2025 a las 17hs en M001 
+- A140 (Marketing): 24/04/2025 a las 8hs en C05
+- A162 (Teoría y Técnica Impositiva I): 24/04/2025 a las 9hs en M001 / M112
+- A337 (Big Data): 24/04/2025 a las 8hs en C03
+- C020 (Introducción a los métodos cuantitativos): 24/04/2025 a las 13hs en G001 / G002 / G003
+- C020 (Introducción a los métodos cuantitativos): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en H125 / H124 / H118 / H117
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en HAM / H005
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 9hs en H122 / H118 / H117
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 9hs en nan
+- C030 (Matemática I): 24/04/2025 a las 17hs en H125 / H124 / H122
+- C030 (Matemática I): 24/04/2025 a las 17hs en nan
+- C030 (Matemática I): 24/04/2025 a las 12hs en 102
+- C052 (Análisis Matemático I): 24/04/2025 a las 9hs en HAM / H005 / H011
+- C052 (Análisis Matemático I): 24/04/2025 a las 9hs en nan
+- C052 (Análisis Matemático I): 24/04/2025 a las 9hs en nan
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 24/04/2025 a las 12hs en C05
+- C131 (Matemática II): 24/04/2025 a las 13hs en M001 / M112
+- C131 (Matemática II): 24/04/2025 a las 13hs en nan
+- C131 (Matemática II): 24/04/2025 a las 17hs en HAM / H005
+- C131 (Matemática II): 24/04/2025 a las 17hs en nan
+- C152 (Análisis Matemático II): 24/04/2025 a las 17hs en H117
+- D470 (Propiedad Intelectual y nuevas tecnologías): 24/04/2025 a las 17hs en M112
+- E020 (Macroeconomía I): 24/04/2025 a las 9hs en G001 / G002
+- F402 (Pronósticos Financieros): 24/04/2025 a las 18hs en S001 / S003 
+- H036 (Arte en América Latina: Temas y Prob. de la Modernidad): 24/04/2025 a las 14hs en nan
+- H053 (Teorías del aprendizaje): 24/04/2025 a las 9hs en G004
+- H063 (Derechos Fundamentales): 24/04/2025 a las 9hs en H125 / H124
+- H205 (Literatura Comparada): 24/04/2025 a las 9hs en G003
+- H365 (Derecho del Trabajo y la Seguridad Social): 24/04/2025 a las 13hs en V006
+- I306 (Física II): 24/04/2025 a las 17hs en G002
+- K402 (Industrias Culturales): 24/04/2025 a las 13hs en nan
+- A016 (Fundamentos de Administración): 25/04/2025 a las 9hs en H125
+- A406 (Política y Estrategia de Empresas): 25/04/2025 a las 13:30hs en RAUD
+- A460 (Analítica de Datos): 25/04/2025 a las 13hs en H117/H118
+- C029 (Introducción al Razonamiento Matemático): 25/04/2025 a las 8hs en S002
+- C029 (Introducción al Razonamiento Matemático): 25/04/2025 a las 8hs en 201 / 202
+- C038 (Estadística I): 25/04/2025 a las 13hs en HAM / H005
+- C038 (Estadística I): 25/04/2025 a las 13hs en nan
+- C056 (Fundamentos de la Probabilidad y Estadística): 25/04/2025 a las 17hs en HAM / H005
+- C056 (Fundamentos de la Probabilidad y Estadística): 25/04/2025 a las 17hs en nan
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 25/04/2025 a las 9hs en HAM / H005 / H011
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 25/04/2025 a las 9hs en nan
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 25/04/2025 a las 9hs en nan
+- C095 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia.): 25/04/2025 a las 13hs en H125 / H124
+- C095 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia.): 25/04/2025 a las 13hs en nan
+- D514 (Finanzas públicas y derecho tributario): 25/04/2025 a las 15hs en G004
+- E015 (Microeconomía I): 25/04/2025 a las 9hs en M001
+- E115 (Microeconomía II): 25/04/2025 a las 9hs en H117/H118
+- E413 (Tópicos de Microeconomía): 25/04/2025 a las 13hs en G004
+- F210 (Programación aplicada a Finanzas): 25/04/2025 a las 9hs en IBM + Blaquier
+- H031 (Arte y Cultura Visual en Argentina): 25/04/2025 a las 13hs en G001/G002 
+- H396 (Teorías de la enseñanza): 25/04/2025 a las 9hs en M112
+- A325 (Comportamiento en las organizaciones y liderazgo): 26/04/2025 a las 8hs en C02
+- A326 (Gestión de las operaciones y servicios): 26/04/2025 a las 17hs en H118 / H117
+- A326 (Gestión de las operaciones y servicios): 26/04/2025 a las 17hs en nan
+- C022 (Estadística para las Ciencias Sociales): 26/04/2025 a las 17hs en B107/ B109
+- C054 (Matemática Discreta): 26/04/2025 a las 17hs en G004 / G005
+- CC200 (Neuroanatomía y Neurofisiología): 26/04/2025 a las 17hs en HAM / H005
+- CC200 (Neuroanatomía y Neurofisiología): 26/04/2025 a las 17hs en nan
+- CC404 (Psicología social): 26/04/2025 a las 17hs en H125
+- D404 (Sociedades y otras formas asociativas): 26/04/2025 a las 13hs en H118
+- E406 (Pronósticos): 26/04/2025 a las 17hs en V006
+- F324 (Derivados): 26/04/2025 a las 9hs en M001
+- H010 (Filosofía): 26/04/2025 a las 17hs en G002 / G003
+- H063 (Derechos Fundamentales): 26/04/2025 a las 9hs en M112
+- H063 (Derechos Fundamentales): 26/04/2025 a las 9hs en H118 / H117
+- H063 (Derechos Fundamentales): 26/04/2025 a las 9hs en HAM
+- H063 (Derechos Fundamentales): 26/04/2025 a las 8hs en 201
+- H196 (Literatura Mundial Moderna): 26/04/2025 a las 13hs en H011
+- H250 (Política): 26/04/2025 a las 13hs en HAM
+- I111 (Introducción al Pensamiento Computacional): 26/04/2025 a las 9hs en H124 / H125
+- I202 (Métodos Numéricos y Optimización): 26/04/2025 a las 17hs en H124 / H122
+- I202 (Métodos Numéricos y Optimización): 26/04/2025 a las 17hs en H011
+- K315 (Comunicación Digital): 26/04/2025 a las 13hs en G004 
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 8hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 8hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en N001
+- ND300 (Diseño y Experiencia de Usuario): 26/04/2025 a las 14:30hs en Digital House
+- ND300 (Diseño y Experiencia de Usuario): 26/04/2025 a las 14:30hs en Digital House
+- ND300 (Diseño y Experiencia de Usuario): 26/04/2025 a las 14:30hs en Digital House
+- ND310 (Marketing Digital): 26/04/2025 a las 14:30hs en Digital House
+- ND310 (Marketing Digital): 26/04/2025 a las 14:30hs en Digital House
+- P115 (Sistemas Políticos Comparados): 26/04/2025 a las 17hs en H118
+- C050 (Álgebra lineal): 27/04/2025 a las 13:30hs en H122 / H118 / H117 
+- C050 (Álgebra lineal): 27/04/2025 a las 13:30hs en nan
+- C050 (Álgebra lineal): 27/04/2025 a las 13:30hs en G001 / G002
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en HAM / H005 / H011
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en nan
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en nan
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en RAUD
+- H209 (Escritura y Oratoria): 27/04/2025 a las 9hs en HAM / H005 / H011
+- H209 (Escritura y Oratoria): 27/04/2025 a las 9hs en nan
+- H209 (Escritura y Oratoria): 27/04/2025 a las 9hs en nan
+- A016 (Fundamentos de Administración): 29/04/2025 a las 13hs en G001 / G003
+- A125 (Auditoría): 29/04/2025 a las 9hs en B108
+- A162 (Teoría y Técnica Impositiva I): 29/04/2025 a las 12hs en RAUD / S001
+- A350 (Administración Financiera): 29/04/2025 a las 17hs en G004
+- A460 (Analítica de Datos): 29/04/2025 a las 13hs en M001
+- C031 (Matemática II): 29/04/2025 a las 17hs en H125 / H124 / H118 / H117
+- C031 (Matemática II): 29/04/2025 a las 17hs en nan
+- C031 (Matemática II): 29/04/2025 a las 17hs en nan
+- C252 (Análisis Matemático III): 29/04/2025 a las 17hs en M112
+- C441 (Procesos y sistemas de información): 29/04/2025 a las 17hs en HAM 
+- CC100 (Psicología General): 29/04/2025 a las 9hs en HAM / H005
+- CC100 (Psicología General): 29/04/2025 a las 9hs en nan
+- D360 (Derecho de los negocios): 29/04/2025 a las 9hs en B107
+- D512 (Derecho de familia y sucesiones): 29/04/2025 a las 14hs en V006
+- E010 (Economía I): 29/04/2025 a las 9hs en H125 / H124 / H122 / H118 / H117
+- E010 (Economía I): 29/04/2025 a las 9hs en H125 / H124 / H122 / H118 / H117
+- E010 (Economía I): 29/04/2025 a las 12hs en C02 / C03
+- E010 (Economía I): 29/04/2025 a las 12hs en nan
+- E137 (Econometría): 29/04/2025 a las 9hs en G001 / G003
+- E184 (Economía Monetaria): 29/04/2025 a las 13hs en H125
+- H043 (Recorridos del Arte Argentino: Aproximaciones Teóricas y Plásticas): 29/04/2025 a las 9hs en N001
+- H162 (Derecho Constitucional): 29/04/2025 a las 9hs en M112
+- H202 (Historia Sociopolítica- Actores y Procesos S.XVI al XX): 29/04/2025 a las 13hs en HAM
+- H203 (La invención de la democracia. Una historia de la modernidad occidental): 29/04/2025 a las 13hs en H117/H118
+- H204 (Historia Sociopolítica B): 29/04/2025 a las 17hs en G001 / G003
+- H363 (Obligaciones, Contratos , Sociedades): 29/04/2025 a las 9hs en M001
+- H363 (Obligaciones, Contratos , Sociedades): 29/04/2025 a las 8hs en 101
+- I102 (Paradigmas de Programación): 29/04/2025 a las 17hs en B107
+- I111 (Introducción al Pensamiento Computacional): 29/04/2025 a las 8hs en C04
+- I302 (Aprendizaje Automático y Aprendizaje Profundo): 29/04/2025 a las 13hs en M112
+- K231 (Taller de Proyectos: Sustentabilidad): 29/04/2025 a las 13hs en H124
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND410 (Gestión de Productos Digitales II): 29/04/2025 a las 9hs en Digital House
+- A016 (Fundamentos de Administración): 30/04/2025 a las 9hs en HAM
+- A016 (Fundamentos de Administración): 30/04/2025 a las 9hs en HAM
+- A128 (Juegos y Comportamiento Estratégico): 30/04/2025 a las 9hs en H117 / H118
+- A325 (Comportamiento en las organizaciones y liderazgo): 30/04/2025 a las 17hs en HAM / H005 / H011
+- A325 (Comportamiento en las organizaciones y liderazgo): 30/04/2025 a las 17hs en nan
+- A325 (Comportamiento en las organizaciones y liderazgo): 30/04/2025 a las 17hs en nan
+- A354 (Finanzas I): 30/04/2025 a las 9hs en M112
+- A510 (Operaciones y Sistemas): 30/04/2025 a las 9hs en M001
+- C029 (Introducción al Razonamiento Matemático): 30/04/2025 a las 9hs en H124 / H125
+- C029 (Introducción al Razonamiento Matemático): 30/04/2025 a las 9hs en nan
+- C038 (Estadística I): 30/04/2025 a las 13hs en HAM/ H005
+- C038 (Estadística I): 30/04/2025 a las 13hs en nan
+- C131 (Matemática II): 30/04/2025 a las 12hs en C002 / C003
+- C150 (Investigación Operativa): 30/04/2025 a las 9hs en H011 
+- C150 (Investigación Operativa): 30/04/2025 a las 17hs en G002
+- CC102 (Programación): 30/04/2025 a las 13hs en H124 / H125
+- CC102 (Programación): 30/04/2025 a las 13hs en nan
+- D220 (Obligaciones): 30/04/2025 a las 17hs en G003
+- E016 (Microeconomía I): 30/04/2025 a las 13hs en G005
+- E182 (Economía Internacional Monetaria): 30/04/2025 a las 9hs en B108
+- F405 (Finanzas corporativas avanzadas): 30/04/2025 a las 18hs en S001 / S003 
+- H010 (Filosofía): 30/04/2025 a las 13hs en G001 / G002
+- H010 (Filosofía): 30/04/2025 a las 13hs en H117 / H118
+- H197 (Literatura Mundial Contemporánea): 30/04/2025 a las 9hs en G001 / G003
+- H209 (Escritura y Oratoria): 30/04/2025 a las 17hs en N004
+- H303 (Historia de Estados Unidos): 30/04/2025 a las 17hs en H124
+- H364 (Concursos y Quiebras): 30/04/2025 a las 13hs en B109
+- I111 (Introducción al Pensamiento Computacional): 30/04/2025 a las 13hs en M001 / M112
+- I200 (Algoritmos y Estructura de Datos): 30/04/2025 a las 17hs en M001 / M112
+- I200 (Algoritmos y Estructura de Datos): 30/04/2025 a las 17hs en H117 / H118
+- I206 (Inferencia y Estimación): 30/04/2025 a las 13hs en G004
+- K569 (Diseño, género y desigualdad): 30/04/2025 a las 9hs en H122
+- A128 (Juegos y Comportamiento Estratégico): 02/05/2025 a las 17hs en H118 / H117
+- A128 (Juegos y Comportamiento Estratégico): 02/05/2025 a las 17hs en HAM 
+- A128 (Juegos y Comportamiento Estratégico): 02/05/2025 a las 8hs en C02 / C03
+- A140 (Marketing): 02/05/2025 a las 9hs en H125
+- A147 (Entrepreneurship): 02/05/2025 a las 8hs en C01
+- A162 (Teoría y Técnica Impositiva I): 02/05/2025 a las 9hs en M112
+- A354 (Finanzas I): 02/05/2025 a las 9hs en H011 
+- A454 (Finanzas II): 02/05/2025 a las 13hs en H124
+- A454 (Finanzas II): 02/05/2025 a las 9hs en H005
+- A510 (Operaciones y Sistemas): 02/05/2025 a las 8hs en C05
+- A512 (Gestión y arquitectura de datos): 02/05/2025 a las 13hs en H118 / H117
+- C032 (Matemática III): 02/05/2025 a las 9hs en H124 / H122
+- C038 (Estadística I): 02/05/2025 a las 12hs en 201
+- CC202 (Evolución del Comportamiento): 02/05/2025 a las 9hs en G001
+- CC300 (Procesos Cognitivos básicos): 02/05/2025 a las 9hs en H118 / H117
+- CC600 (Ciencias sensoriales y comportamiento del consumidor): 02/05/2025 a las 17hs en nan
+- D408 (Derecho procesal penal): 02/05/2025 a las 17hs en H125
+- E040 (Historia Económica I): 02/05/2025 a las 17hs en B107
+- E165 (Organización Industrial): 02/05/2025 a las 9hs en B108
+- F414 (Ingeniería Financiera): 02/05/2025 a las 18hs en S002 / S001
+- H010 (Filosofía): 02/05/2025 a las 9hs en N001
+- H010 (Filosofía): 02/05/2025 a las 9hs en HAM 
+- H063 (Derechos Fundamentales): 02/05/2025 a las 9hs en G002 / G003
+- H063 (Derechos Fundamentales): 02/05/2025 a las 13hs en HAM 
+- I110 (Introducción al Pensamiento Computacional): 02/05/2025 a las 17hs en G001 / G003
+- I110 (Introducción al Pensamiento Computacional): 02/05/2025 a las 8hs en 201
+- I304 (Arquitectura de computadoras y Sistemas Operativos): 02/05/2025 a las 13hs en G001 / G002
+- P310 (Diseños de Investigación): 02/05/2025 a las 9hs en M001
+- A147 (Entrepreneurship): 03/05/2025 a las 13hs en G003
+- A147 (Entrepreneurship): 03/05/2025 a las 13hs en nan
+- A166 (Control de Gestión): 03/05/2025 a las 17hs en H118
+- A406 (Política y Estrategia de Empresas): 03/05/2025 a las 9hs en Edist
+- A406 (Política y Estrategia de Empresas): 03/05/2025 a las 9hs en nan
+- C027 (Fundamentos Matemáticos para las Ciencias Sociales): 03/05/2025 a las 9hs en H118 / H117
+- C027 (Fundamentos Matemáticos para las Ciencias Sociales): 03/05/2025 a las 9hs en nan
+- CC302 (Técnicas de análisis y modificación de la conducta): 03/05/2025 a las 13hs en H011 / H005
+- E010 (Economía I): 03/05/2025 a las 9hs en HAM
+- E010 (Economía I): 03/05/2025 a las 9hs en nan
+- F210 (Programación aplicada a Finanzas): 03/05/2025 a las 13hs en IBM + Blaquier
+- H010 (Filosofía): 03/05/2025 a las 8hs en RAUD / S001
+- H063 (Derechos Fundamentales): 03/05/2025 a las 9hs en G001 / G003
+- H106 (Literatura Argentina): 03/05/2025 a las 9hs en B107
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en HAM / H005 / H011
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en nan
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en H125/ H124/H122
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en nan
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en H124
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en H011
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en H011 / Vergez
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en N004
+- I110 (Introducción al Pensamiento Computacional): 03/05/2025 a las 13hs en H125
+- I110 (Introducción al Pensamiento Computacional): 03/05/2025 a las 13hs en H124 / H122
+- I111 (Introducción al Pensamiento Computacional): 03/05/2025 a las 13hs en H118 / H117
+- I208 (Física I): 03/05/2025 a las 17hs en G001
+- A352 (Análisis e interpretación de información financiera): 04/05/2025 a las 16hs en G001 / G002 / G003 / G004
+- A352 (Análisis e interpretación de información financiera): 04/05/2025 a las 16hs en nan
+- E010 (Economía I): 04/05/2025 a las 13:30hs en G001 / G002
+- E010 (Economía I): 04/05/2025 a las 13:30hs en nan
+- E010 (Economía I): 04/05/2025 a las 13:30hs en H122 / H117 / H118 / B107
+- E010 (Economía I): 04/05/2025 a las 13:30hs en HAM / H005 / H011
+- E010 (Economía I): 04/05/2025 a las 13:30hs en H122 / H117 / H118 / B107
+- E010 (Economía I): 04/05/2025 a las 13:30hs en HAM / H005 / H011
+- A451 (Mercado de Capitales): 08/05/2025 a las 17:30hs en A definir
+- A512 (Gestión y arquitectura de datos): 14/05/2025 a las 17:20hs en G002",True,,,,,,,,
+subject_recognition,examen de Física I,Física I,I208,True,"Examen de I208 — Física I:
+- Fecha: 03/05/2025
+- Horario: 17hs
+- Aula: G001
+- Modalidad: presencial",True,,,,,,,,
+subject_recognition,final de P042,Filosofía Política Clásica,P042,True,"Fechas de finales:
+- A024 (Fundamentos de Contabilidad): 22/04/2025 a las 17hs en HAM / H005 / H011
+- A024 (Fundamentos de Contabilidad): 22/04/2025 a las 17hs en nan
+- A024 (Fundamentos de Contabilidad): 22/04/2025 a las 17hs en nan
+- A121 (Contabilidad Gerencial): 22/04/2025 a las 9hs en HAM / H005
+- A121 (Contabilidad Gerencial): 22/04/2025 a las 9hs en nan
+- A121 (Contabilidad Gerencial): 22/04/2025 a las 12hs en C02
+- A322 (Contabilidad Financiera I): 22/04/2025 a las 9hs en B109
+- C021 (Didáctica de la Matemática): 22/04/2025 a las 17hs en G003
+- C441 (Procesos y sistemas de información): 22/04/2025 a las 8hs en 101
+- E120 (Macroeconomía II): 22/04/2025 a las 9hs en H125 / H124
+- F311 (Política Macroeconómica): 22/04/2025 a las 9hs en H117
+- F400 (Instrumentos Financieros): 22/04/2025 a las 18hs en S002 / S001
+- H030 (Introducción a la Apreciacion Artistica): 22/04/2025 a las 9hs en G001/G003
+- H202 (Historia Sociopolítica- Actores y Procesos S.XVI al XX): 22/04/2025 a las 9hs en N004
+- H204 (Historia Sociopolítica B): 22/04/2025 a las 8hs en 102
+- H221 (Teoría y crítica de las Humanidades I): 22/04/2025 a las 13hs en G004
+- I204 (Fundamentos de la Inteligencia Artificial): 22/04/2025 a las 13hs en G001
+- P130 (Teoría de las Relaciones Internacionales): 22/04/2025 a las 13hs en H011
+- P139 (Teoría Sociológica Contemporánea): 22/04/2025 a las 15:40hs en -
+- A016 (Fundamentos de Administración): 23/04/2025 a las 8hs en 201
+- A163 (Teoría y Técnica Impositiva II): 23/04/2025 a las 9hs en H122
+- A512 (Gestión y arquitectura de datos): 23/04/2025 a las 9hs en H118 / H117
+- A512 (Gestión y arquitectura de datos): 23/04/2025 a las 8hs en C02 / C03
+- C029 (Introducción al Razonamiento Matemático): 23/04/2025 a las 9hs en HAM / H005 / H011
+- C029 (Introducción al Razonamiento Matemático): 23/04/2025 a las 9hs en nan
+- C029 (Introducción al Razonamiento Matemático): 23/04/2025 a las 9hs en nan
+- C030 (Matemática I): 23/04/2025 a las 17hs en H118 / H117
+- C030 (Matemática I): 23/04/2025 a las 17hs en nan
+- C030 (Matemática I): 23/04/2025 a las 17hs en nan
+- C138 (Estadística II): 23/04/2025 a las 13hs en H118 / H117
+- C138 (Estadística II): 23/04/2025 a las 13hs en nan
+- CC138 (Estadística II): 23/04/2025 a las 13hs en H125
+- CC400 (Diseños experimentales y cuasi experimentales): 23/04/2025 a las 17hs en G002
+- D402 (Delitos en particular): 23/04/2025 a las 17hs en M112
+- E010 (Economía I): 23/04/2025 a las 17hs en HAM / H005 / H011
+- E010 (Economía I): 23/04/2025 a las 17hs en nan
+- E015 (Microeconomía I): 23/04/2025 a las 8hs en C05
+- H039 (Arte Moderno y Contemporáneo Internacional, Siglo XX y XXI): 23/04/2025 a las 17hs en H122 / H124
+- H203 (La invención de la democracia. Una historia de la modernidad occidental): 23/04/2025 a las 13hs en HAM / H005 / H011
+- H203 (La invención de la democracia. Una historia de la modernidad occidental): 23/04/2025 a las 13hs en nan
+- K152 (Comunicación Política): 23/04/2025 a las 13hs en V006
+- K440 (Usabilidad y Factores Humanos): 23/04/2025 a las 13hs en M112
+- P042 (Filosofía Política Clásica): 23/04/2025 a las 9hs en H125 / H124 
+- P163 (Seguridad Internacional): 23/04/2025 a las 17hs en M001 
+- A140 (Marketing): 24/04/2025 a las 8hs en C05
+- A162 (Teoría y Técnica Impositiva I): 24/04/2025 a las 9hs en M001 / M112
+- A337 (Big Data): 24/04/2025 a las 8hs en C03
+- C020 (Introducción a los métodos cuantitativos): 24/04/2025 a las 13hs en G001 / G002 / G003
+- C020 (Introducción a los métodos cuantitativos): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en H125 / H124 / H118 / H117
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en HAM / H005
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 13hs en nan
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 9hs en H122 / H118 / H117
+- C029 (Introducción al Razonamiento Matemático): 24/04/2025 a las 9hs en nan
+- C030 (Matemática I): 24/04/2025 a las 17hs en H125 / H124 / H122
+- C030 (Matemática I): 24/04/2025 a las 17hs en nan
+- C030 (Matemática I): 24/04/2025 a las 12hs en 102
+- C052 (Análisis Matemático I): 24/04/2025 a las 9hs en HAM / H005 / H011
+- C052 (Análisis Matemático I): 24/04/2025 a las 9hs en nan
+- C052 (Análisis Matemático I): 24/04/2025 a las 9hs en nan
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 24/04/2025 a las 12hs en C05
+- C131 (Matemática II): 24/04/2025 a las 13hs en M001 / M112
+- C131 (Matemática II): 24/04/2025 a las 13hs en nan
+- C131 (Matemática II): 24/04/2025 a las 17hs en HAM / H005
+- C131 (Matemática II): 24/04/2025 a las 17hs en nan
+- C152 (Análisis Matemático II): 24/04/2025 a las 17hs en H117
+- D470 (Propiedad Intelectual y nuevas tecnologías): 24/04/2025 a las 17hs en M112
+- E020 (Macroeconomía I): 24/04/2025 a las 9hs en G001 / G002
+- F402 (Pronósticos Financieros): 24/04/2025 a las 18hs en S001 / S003 
+- H036 (Arte en América Latina: Temas y Prob. de la Modernidad): 24/04/2025 a las 14hs en nan
+- H053 (Teorías del aprendizaje): 24/04/2025 a las 9hs en G004
+- H063 (Derechos Fundamentales): 24/04/2025 a las 9hs en H125 / H124
+- H205 (Literatura Comparada): 24/04/2025 a las 9hs en G003
+- H365 (Derecho del Trabajo y la Seguridad Social): 24/04/2025 a las 13hs en V006
+- I306 (Física II): 24/04/2025 a las 17hs en G002
+- K402 (Industrias Culturales): 24/04/2025 a las 13hs en nan
+- A016 (Fundamentos de Administración): 25/04/2025 a las 9hs en H125
+- A406 (Política y Estrategia de Empresas): 25/04/2025 a las 13:30hs en RAUD
+- A460 (Analítica de Datos): 25/04/2025 a las 13hs en H117/H118
+- C029 (Introducción al Razonamiento Matemático): 25/04/2025 a las 8hs en S002
+- C029 (Introducción al Razonamiento Matemático): 25/04/2025 a las 8hs en 201 / 202
+- C038 (Estadística I): 25/04/2025 a las 13hs en HAM / H005
+- C038 (Estadística I): 25/04/2025 a las 13hs en nan
+- C056 (Fundamentos de la Probabilidad y Estadística): 25/04/2025 a las 17hs en HAM / H005
+- C056 (Fundamentos de la Probabilidad y Estadística): 25/04/2025 a las 17hs en nan
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 25/04/2025 a las 9hs en HAM / H005 / H011
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 25/04/2025 a las 9hs en nan
+- C094 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia): 25/04/2025 a las 9hs en nan
+- C095 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia.): 25/04/2025 a las 13hs en H125 / H124
+- C095 (Introducción a las Ciencias: Metodología de la Investigación y Ciencia.): 25/04/2025 a las 13hs en nan
+- D514 (Finanzas públicas y derecho tributario): 25/04/2025 a las 15hs en G004
+- E015 (Microeconomía I): 25/04/2025 a las 9hs en M001
+- E115 (Microeconomía II): 25/04/2025 a las 9hs en H117/H118
+- E413 (Tópicos de Microeconomía): 25/04/2025 a las 13hs en G004
+- F210 (Programación aplicada a Finanzas): 25/04/2025 a las 9hs en IBM + Blaquier
+- H031 (Arte y Cultura Visual en Argentina): 25/04/2025 a las 13hs en G001/G002 
+- H396 (Teorías de la enseñanza): 25/04/2025 a las 9hs en M112
+- A325 (Comportamiento en las organizaciones y liderazgo): 26/04/2025 a las 8hs en C02
+- A326 (Gestión de las operaciones y servicios): 26/04/2025 a las 17hs en H118 / H117
+- A326 (Gestión de las operaciones y servicios): 26/04/2025 a las 17hs en nan
+- C022 (Estadística para las Ciencias Sociales): 26/04/2025 a las 17hs en B107/ B109
+- C054 (Matemática Discreta): 26/04/2025 a las 17hs en G004 / G005
+- CC200 (Neuroanatomía y Neurofisiología): 26/04/2025 a las 17hs en HAM / H005
+- CC200 (Neuroanatomía y Neurofisiología): 26/04/2025 a las 17hs en nan
+- CC404 (Psicología social): 26/04/2025 a las 17hs en H125
+- D404 (Sociedades y otras formas asociativas): 26/04/2025 a las 13hs en H118
+- E406 (Pronósticos): 26/04/2025 a las 17hs en V006
+- F324 (Derivados): 26/04/2025 a las 9hs en M001
+- H010 (Filosofía): 26/04/2025 a las 17hs en G002 / G003
+- H063 (Derechos Fundamentales): 26/04/2025 a las 9hs en M112
+- H063 (Derechos Fundamentales): 26/04/2025 a las 9hs en H118 / H117
+- H063 (Derechos Fundamentales): 26/04/2025 a las 9hs en HAM
+- H063 (Derechos Fundamentales): 26/04/2025 a las 8hs en 201
+- H196 (Literatura Mundial Moderna): 26/04/2025 a las 13hs en H011
+- H250 (Política): 26/04/2025 a las 13hs en HAM
+- I111 (Introducción al Pensamiento Computacional): 26/04/2025 a las 9hs en H124 / H125
+- I202 (Métodos Numéricos y Optimización): 26/04/2025 a las 17hs en H124 / H122
+- I202 (Métodos Numéricos y Optimización): 26/04/2025 a las 17hs en H011
+- K315 (Comunicación Digital): 26/04/2025 a las 13hs en G004 
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 8hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 8hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en Digital House
+- ND100 (Introducción a la Tecnología y Cultura Digital): 26/04/2025 a las 9hs en N001
+- ND300 (Diseño y Experiencia de Usuario): 26/04/2025 a las 14:30hs en Digital House
+- ND300 (Diseño y Experiencia de Usuario): 26/04/2025 a las 14:30hs en Digital House
+- ND300 (Diseño y Experiencia de Usuario): 26/04/2025 a las 14:30hs en Digital House
+- ND310 (Marketing Digital): 26/04/2025 a las 14:30hs en Digital House
+- ND310 (Marketing Digital): 26/04/2025 a las 14:30hs en Digital House
+- P115 (Sistemas Políticos Comparados): 26/04/2025 a las 17hs en H118
+- C050 (Álgebra lineal): 27/04/2025 a las 13:30hs en H122 / H118 / H117 
+- C050 (Álgebra lineal): 27/04/2025 a las 13:30hs en nan
+- C050 (Álgebra lineal): 27/04/2025 a las 13:30hs en G001 / G002
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en HAM / H005 / H011
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en nan
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en nan
+- C140 (Estadísitica aplicada a los negocios): 27/04/2025 a las 13hs en RAUD
+- H209 (Escritura y Oratoria): 27/04/2025 a las 9hs en HAM / H005 / H011
+- H209 (Escritura y Oratoria): 27/04/2025 a las 9hs en nan
+- H209 (Escritura y Oratoria): 27/04/2025 a las 9hs en nan
+- A016 (Fundamentos de Administración): 29/04/2025 a las 13hs en G001 / G003
+- A125 (Auditoría): 29/04/2025 a las 9hs en B108
+- A162 (Teoría y Técnica Impositiva I): 29/04/2025 a las 12hs en RAUD / S001
+- A350 (Administración Financiera): 29/04/2025 a las 17hs en G004
+- A460 (Analítica de Datos): 29/04/2025 a las 13hs en M001
+- C031 (Matemática II): 29/04/2025 a las 17hs en H125 / H124 / H118 / H117
+- C031 (Matemática II): 29/04/2025 a las 17hs en nan
+- C031 (Matemática II): 29/04/2025 a las 17hs en nan
+- C252 (Análisis Matemático III): 29/04/2025 a las 17hs en M112
+- C441 (Procesos y sistemas de información): 29/04/2025 a las 17hs en HAM 
+- CC100 (Psicología General): 29/04/2025 a las 9hs en HAM / H005
+- CC100 (Psicología General): 29/04/2025 a las 9hs en nan
+- D360 (Derecho de los negocios): 29/04/2025 a las 9hs en B107
+- D512 (Derecho de familia y sucesiones): 29/04/2025 a las 14hs en V006
+- E010 (Economía I): 29/04/2025 a las 9hs en H125 / H124 / H122 / H118 / H117
+- E010 (Economía I): 29/04/2025 a las 9hs en H125 / H124 / H122 / H118 / H117
+- E010 (Economía I): 29/04/2025 a las 12hs en C02 / C03
+- E010 (Economía I): 29/04/2025 a las 12hs en nan
+- E137 (Econometría): 29/04/2025 a las 9hs en G001 / G003
+- E184 (Economía Monetaria): 29/04/2025 a las 13hs en H125
+- H043 (Recorridos del Arte Argentino: Aproximaciones Teóricas y Plásticas): 29/04/2025 a las 9hs en N001
+- H162 (Derecho Constitucional): 29/04/2025 a las 9hs en M112
+- H202 (Historia Sociopolítica- Actores y Procesos S.XVI al XX): 29/04/2025 a las 13hs en HAM
+- H203 (La invención de la democracia. Una historia de la modernidad occidental): 29/04/2025 a las 13hs en H117/H118
+- H204 (Historia Sociopolítica B): 29/04/2025 a las 17hs en G001 / G003
+- H363 (Obligaciones, Contratos , Sociedades): 29/04/2025 a las 9hs en M001
+- H363 (Obligaciones, Contratos , Sociedades): 29/04/2025 a las 8hs en 101
+- I102 (Paradigmas de Programación): 29/04/2025 a las 17hs en B107
+- I111 (Introducción al Pensamiento Computacional): 29/04/2025 a las 8hs en C04
+- I302 (Aprendizaje Automático y Aprendizaje Profundo): 29/04/2025 a las 13hs en M112
+- K231 (Taller de Proyectos: Sustentabilidad): 29/04/2025 a las 13hs en H124
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND400 (Gestión de Productos Digitales I): 29/04/2025 a las 9hs en Digital House
+- ND410 (Gestión de Productos Digitales II): 29/04/2025 a las 9hs en Digital House
+- A016 (Fundamentos de Administración): 30/04/2025 a las 9hs en HAM
+- A016 (Fundamentos de Administración): 30/04/2025 a las 9hs en HAM
+- A128 (Juegos y Comportamiento Estratégico): 30/04/2025 a las 9hs en H117 / H118
+- A325 (Comportamiento en las organizaciones y liderazgo): 30/04/2025 a las 17hs en HAM / H005 / H011
+- A325 (Comportamiento en las organizaciones y liderazgo): 30/04/2025 a las 17hs en nan
+- A325 (Comportamiento en las organizaciones y liderazgo): 30/04/2025 a las 17hs en nan
+- A354 (Finanzas I): 30/04/2025 a las 9hs en M112
+- A510 (Operaciones y Sistemas): 30/04/2025 a las 9hs en M001
+- C029 (Introducción al Razonamiento Matemático): 30/04/2025 a las 9hs en H124 / H125
+- C029 (Introducción al Razonamiento Matemático): 30/04/2025 a las 9hs en nan
+- C038 (Estadística I): 30/04/2025 a las 13hs en HAM/ H005
+- C038 (Estadística I): 30/04/2025 a las 13hs en nan
+- C131 (Matemática II): 30/04/2025 a las 12hs en C002 / C003
+- C150 (Investigación Operativa): 30/04/2025 a las 9hs en H011 
+- C150 (Investigación Operativa): 30/04/2025 a las 17hs en G002
+- CC102 (Programación): 30/04/2025 a las 13hs en H124 / H125
+- CC102 (Programación): 30/04/2025 a las 13hs en nan
+- D220 (Obligaciones): 30/04/2025 a las 17hs en G003
+- E016 (Microeconomía I): 30/04/2025 a las 13hs en G005
+- E182 (Economía Internacional Monetaria): 30/04/2025 a las 9hs en B108
+- F405 (Finanzas corporativas avanzadas): 30/04/2025 a las 18hs en S001 / S003 
+- H010 (Filosofía): 30/04/2025 a las 13hs en G001 / G002
+- H010 (Filosofía): 30/04/2025 a las 13hs en H117 / H118
+- H197 (Literatura Mundial Contemporánea): 30/04/2025 a las 9hs en G001 / G003
+- H209 (Escritura y Oratoria): 30/04/2025 a las 17hs en N004
+- H303 (Historia de Estados Unidos): 30/04/2025 a las 17hs en H124
+- H364 (Concursos y Quiebras): 30/04/2025 a las 13hs en B109
+- I111 (Introducción al Pensamiento Computacional): 30/04/2025 a las 13hs en M001 / M112
+- I200 (Algoritmos y Estructura de Datos): 30/04/2025 a las 17hs en M001 / M112
+- I200 (Algoritmos y Estructura de Datos): 30/04/2025 a las 17hs en H117 / H118
+- I206 (Inferencia y Estimación): 30/04/2025 a las 13hs en G004
+- K569 (Diseño, género y desigualdad): 30/04/2025 a las 9hs en H122
+- A128 (Juegos y Comportamiento Estratégico): 02/05/2025 a las 17hs en H118 / H117
+- A128 (Juegos y Comportamiento Estratégico): 02/05/2025 a las 17hs en HAM 
+- A128 (Juegos y Comportamiento Estratégico): 02/05/2025 a las 8hs en C02 / C03
+- A140 (Marketing): 02/05/2025 a las 9hs en H125
+- A147 (Entrepreneurship): 02/05/2025 a las 8hs en C01
+- A162 (Teoría y Técnica Impositiva I): 02/05/2025 a las 9hs en M112
+- A354 (Finanzas I): 02/05/2025 a las 9hs en H011 
+- A454 (Finanzas II): 02/05/2025 a las 13hs en H124
+- A454 (Finanzas II): 02/05/2025 a las 9hs en H005
+- A510 (Operaciones y Sistemas): 02/05/2025 a las 8hs en C05
+- A512 (Gestión y arquitectura de datos): 02/05/2025 a las 13hs en H118 / H117
+- C032 (Matemática III): 02/05/2025 a las 9hs en H124 / H122
+- C038 (Estadística I): 02/05/2025 a las 12hs en 201
+- CC202 (Evolución del Comportamiento): 02/05/2025 a las 9hs en G001
+- CC300 (Procesos Cognitivos básicos): 02/05/2025 a las 9hs en H118 / H117
+- CC600 (Ciencias sensoriales y comportamiento del consumidor): 02/05/2025 a las 17hs en nan
+- D408 (Derecho procesal penal): 02/05/2025 a las 17hs en H125
+- E040 (Historia Económica I): 02/05/2025 a las 17hs en B107
+- E165 (Organización Industrial): 02/05/2025 a las 9hs en B108
+- F414 (Ingeniería Financiera): 02/05/2025 a las 18hs en S002 / S001
+- H010 (Filosofía): 02/05/2025 a las 9hs en N001
+- H010 (Filosofía): 02/05/2025 a las 9hs en HAM 
+- H063 (Derechos Fundamentales): 02/05/2025 a las 9hs en G002 / G003
+- H063 (Derechos Fundamentales): 02/05/2025 a las 13hs en HAM 
+- I110 (Introducción al Pensamiento Computacional): 02/05/2025 a las 17hs en G001 / G003
+- I110 (Introducción al Pensamiento Computacional): 02/05/2025 a las 8hs en 201
+- I304 (Arquitectura de computadoras y Sistemas Operativos): 02/05/2025 a las 13hs en G001 / G002
+- P310 (Diseños de Investigación): 02/05/2025 a las 9hs en M001
+- A147 (Entrepreneurship): 03/05/2025 a las 13hs en G003
+- A147 (Entrepreneurship): 03/05/2025 a las 13hs en nan
+- A166 (Control de Gestión): 03/05/2025 a las 17hs en H118
+- A406 (Política y Estrategia de Empresas): 03/05/2025 a las 9hs en Edist
+- A406 (Política y Estrategia de Empresas): 03/05/2025 a las 9hs en nan
+- C027 (Fundamentos Matemáticos para las Ciencias Sociales): 03/05/2025 a las 9hs en H118 / H117
+- C027 (Fundamentos Matemáticos para las Ciencias Sociales): 03/05/2025 a las 9hs en nan
+- CC302 (Técnicas de análisis y modificación de la conducta): 03/05/2025 a las 13hs en H011 / H005
+- E010 (Economía I): 03/05/2025 a las 9hs en HAM
+- E010 (Economía I): 03/05/2025 a las 9hs en nan
+- F210 (Programación aplicada a Finanzas): 03/05/2025 a las 13hs en IBM + Blaquier
+- H010 (Filosofía): 03/05/2025 a las 8hs en RAUD / S001
+- H063 (Derechos Fundamentales): 03/05/2025 a las 9hs en G001 / G003
+- H106 (Literatura Argentina): 03/05/2025 a las 9hs en B107
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en HAM / H005 / H011
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en nan
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en H125/ H124/H122
+- H209 (Escritura y Oratoria): 03/05/2025 a las 17hs en nan
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en H124
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en H011
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en H011 / Vergez
+- I100 (Pensamiento Computacional): 03/05/2025 a las 9hs en N004
+- I110 (Introducción al Pensamiento Computacional): 03/05/2025 a las 13hs en H125
+- I110 (Introducción al Pensamiento Computacional): 03/05/2025 a las 13hs en H124 / H122
+- I111 (Introducción al Pensamiento Computacional): 03/05/2025 a las 13hs en H118 / H117
+- I208 (Física I): 03/05/2025 a las 17hs en G001
+- A352 (Análisis e interpretación de información financiera): 04/05/2025 a las 16hs en G001 / G002 / G003 / G004
+- A352 (Análisis e interpretación de información financiera): 04/05/2025 a las 16hs en nan
+- E010 (Economía I): 04/05/2025 a las 13:30hs en G001 / G002
+- E010 (Economía I): 04/05/2025 a las 13:30hs en nan
+- E010 (Economía I): 04/05/2025 a las 13:30hs en H122 / H117 / H118 / B107
+- E010 (Economía I): 04/05/2025 a las 13:30hs en HAM / H005 / H011
+- E010 (Economía I): 04/05/2025 a las 13:30hs en H122 / H117 / H118 / B107
+- E010 (Economía I): 04/05/2025 a las 13:30hs en HAM / H005 / H011
+- A451 (Mercado de Capitales): 08/05/2025 a las 17:30hs en A definir
+- A512 (Gestión y arquitectura de datos): 14/05/2025 a las 17:20hs en G002",True,,,,,,,,
+modality_detection,modalidad del examen de A016,,,,"Perdón, no entendí. Podés pedirme:
+- '¿Cuándo es el examen de Física I?'
+- '¿Qué modalidad tuvo el examen de Física I en 2024?'
+- '¿En qué horario se rinde Base de Datos y en qué aula?'
+- '¿Cuál es el próximo examen?'
+- 'Exámenes domiciliarios' / 'Materias sin examen'
+",True,domiciliario,domiciliario,,,,,,
+modality_detection,examen de Fundamentos de Contabilidad,,,,"Examen de A024 — Fundamentos de Contabilidad:
+- Fecha: 22/04/2025
+- Horario: 17hs
+- Aula: HAM / H005 / H011
+- Modalidad: presencial",True,presencial,presencial,,,,,,
+modality_detection,examen domiciliario de Marketing,,,,"Exámenes domiciliarios:
+- A016 (Fundamentos de Administración) — domiciliario
+- A016 (Fundamentos de Administración) — domiciliario
+- A016 (Fundamentos de Administración) — domiciliario
+- A140 (Marketing) — domiciliario
+- A301 (Gestión de Empresas de Servicios Tecnológicos) — domiciliario
+- A307 (Management de emprendimientos y organizaciones sociales.) — domiciliario
+- A337 (Big Data) — domiciliario
+- A420 (Derecho de los contratos y propiedad intelectual) — domiciliario
+- A420 (Derecho de los contratos y propiedad intelectual) — domiciliario
+- D406 (Derecho Administrativo) — domiciliario
+- E402 (Pobreza, Desarrollo Humano Y Políticas Sociales) — domiciliario
+- E412 (Tópicos de MacroeconomíaI -Información y Coordinación) — domiciliario
+- H021 (Historia Argentina Contemporánea) — domiciliario
+- H042 (Arte, mercado y coleccionismo en Occidente) — domiciliario
+- H052 (Sociologia de la Educación) — domiciliario
+- H159 (Opinión Pública) — domiciliario
+- H185 (Semiótica) — domiciliario
+- H195 (Historia de la Educación) — domiciliario
+- H202 (Historia Sociopolítica- Actores y Procesos S.XVI al XX) — domiciliario
+- H301 (Religiones Comparadas) — domiciliario
+- H302 (Género, Sociedad, Literatura y Politica) — domiciliario
+- H314 (Cine) — domiciliario
+- H370 (Didáctica de Prácticas del Lenguaje y la Literatura) — domiciliario
+- K120 (Comunicación Visual) — domiciliario
+- K146 (Antropologia De La Comunicación) — domiciliario
+- K149 (Historia de la mediatización) — domiciliario
+- K154 (Taller de Radio) — domiciliario
+- K155 (Taller de televisión) — domiciliario
+- K196 (Seminario de Integración) — domiciliario
+- K562 (Diseño Expandido) — domiciliario
+- K570 (Diseño de servicios para la economía circular) — domiciliario
+- P316 (Historia de las relaciones Internacionales) — domiciliario
+- P410 (Análisis de la Política Exterior y la toma de decisiones) — domiciliario
+- P413 (Manejo y visualización de datos) — domiciliario
+- S020 (Introducción a la educación) — domiciliario
+- S184 (Comunicación y procesos cognitivos) — domiciliario
+- S210 (Pedagogía y Curriculum) — domiciliario
+- S310 (Desafíos Educativos Reales) — domiciliario
+- S340 (Tecnología y cambio educativo) — domiciliario
+- S410 (Enseñanza más allá de la escuela) — domiciliario",True,domiciliario,domiciliario,,,,,,
+modality_detection,materias sin examen,,,,"Materias sin examen:
+- A016 (Fundamentos de Administración) — sin examen
+- A016 (Fundamentos de Administración) — sin examen
+- A112 (Gestión de Recursos Humanos) — sin examen
+- A112 (Gestión de Recursos Humanos) — sin examen
+- A520 (Formación práctica en auditoría e impuestos) — sin examen
+- A521 (Formación práctica en contabiliad financiera y de gestión) — sin examen
+- A558 (Régimen financiero y contable del sector público) — sin examen
+- A600 (Laboratorio de Liderazgo) — sin examen
+- CC412 (Etnografía) — sin examen
+- D024 (Laboratorio I- Técnicas de búsqueda) — sin examen
+- D197 (Taller trabajo de graduación) — sin examen
+- D304 (Derecho del trabajo y la seguridad social) — sin examen
+- D306 (Derechos Humanos) — sin examen
+- D308 (Laboratorio II: Escritura Jurídica) — sin examen
+- D330 (Análisis Económico del Derecho) — sin examen
+- D573 (Discusiones de Filosofía del Derecho) — sin examen
+- D589 (Derecho Internacional de las Inversiones) — sin examen
+- D607 (La empresa en la era del metaverso) — sin examen
+- E041 (Historia Económica I) — sin examen
+- E337 (Big data) — sin examen
+- E490 (Taller Trabajo de Graduación) — sin examen
+- H330 (Español avanzado: uso y gramática) — sin examen
+- H340 (Español Avanzado a través de la cultura argentina) — sin examen
+- P138 (Teoría Política Contemporánea) — sin examen
+- P196 (Taller Trabajo de Graduación) — sin examen
+- PREP40 (ARPE IV - Análisis y Reflexión de la Práctica Educativa: residencia docente) — sin examen
+- S165 (Residencia Pedagógica) — sin examen
+- S430 (Experiencias en ámbitos laborales) — sin examen
+- S498 (Taller trabajo de graduación) — sin examen",True,sin examen,sin examen,,,,,,
+date_and_venue_accuracy,examen de Fundamentos de Contabilidad,,,,"Examen de A024 — Fundamentos de Contabilidad:
+- Fecha: 22/04/2025
+- Horario: 17hs
+- Aula: HAM / H005 / H011
+- Modalidad: presencial",False,,,"{'fecha': '22/04/2025', 'hora': '17hs', 'aula': 'HAM / H005 / H011'}","{'fecha': '22/04/2025', 'hora': '17hs\n- Aula: HAM / H005 / H011\n- Modalidad: prese', 'aula': 'HAM / H005 / H011\n- Modalidad: prese', 'modalidad': 'prese', 'codigo_materia': 'A024', 'nombre_materia': None}",True,False,False,0.3333333333333333

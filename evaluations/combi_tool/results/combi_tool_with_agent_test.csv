@@ -1,0 +1,152 @@
+query,expected_answer,agent_response,LLMJudge_score,BERT_prec,BERT_rec,BERT_f1,test_type
+¿Cuáles son los horarios de la combi desde el Campus UdeSA?,"Horarios de salida de la combi desde Campus UdeSA: 10:45, 11:20, 12:20, 12:40, 14:10, 14:50, 15:50, 16:30, 18:15, 19:10, 20:00, 20:40","Desde el *Campus UdeSA*, los próximos horarios de la combi son:
+
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40
+
+La próxima salida es a las 10:45.",1,0.84474778175354,0.8757840991020203,0.8599859476089478,basic_schedule_request
+¿Cuál es la próxima combi que sale desde Campus UdeSA?,La próxima combi desde Campus UdeSA sale a las,"La próxima combi desde **Campus UdeSA** sale a las **10:45**. Aquí están todos los horarios para hoy:
+
+- 10:45
+- 11:20
+- 12:20
+- 12:40
+- 14:10
+- 14:50
+- 15:50
+- 16:30
+- 18:15
+- 19:10
+- 20:00
+- 20:40
+
+Si necesitas más información, ¡no dudes en preguntar!",1,0.5485478639602661,0.8890069723129272,0.6784616112709045,next_combi_request
+Horarios de combis desde Estación Victoria,"Horarios de salida de la combi desde Estación Victoria: 09:40, 10:20, 10:30, 11:00, 11:50, 12:00, 12:35, 13:00, 13:50, 14:20, 15:15, 16:00, 18:30","La próxima combi desde *Estación Victoria* sale a las 10:30. Aquí están todos los horarios para hoy:
+
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30
+
+Si necesitás más información, no dudes en preguntar.",1,0.805216372013092,0.8783721327781677,0.8402048349380493,basic_schedule_request
+¿A qué hora sale la próxima combi desde Estación Victoria?,La próxima combi desde Estación Victoria sale a las,"La próxima combi desde **Estación Victoria** sale a las **10:30**. 
+
+Aquí tienes todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",1,0.5480151772499084,0.886285662651062,0.6772609353065491,next_combi_request
+¿Hay combis que salgan después de las 9 de la noche desde Campus UdeSA?,No hay más combis programadas para hoy desde Campus UdeSA después de,No hay combis programadas para hoy desde Campus UdeSA después de las 9 de la noche. Los últimos horarios disponibles son a las 20:00 y 20:40.,1,0.7192845344543457,0.9119614362716675,0.8042438626289368,late_time_query
+horarios de combi,No entendí desde qué parada quieres el horario. Por favor menciona 'Estación Victoria' o 'Campus UdeSA' en tu pregunta.,"Aquí tienes los horarios de las combis para hoy:
+
+**Desde Estación Victoria:**
+- La próxima combi sale a las 10:30.
+- Horarios disponibles:
+  - 09:40
+  - 10:20
+  - 10:30
+  - 11:00
+  - 11:50
+  - 12:00
+  - 12:35
+  - 13:00
+  - 13:50
+  - 14:20
+  - 15:15
+  - 16:00
+  - 18:30
+
+**Desde Campus UdeSA:**
+- La próxima combi sale a las 10:45.
+- Horarios disponibles:
+  - 10:45
+  - 11:20
+  - 12:20
+  - 12:40
+  - 14:10
+  - 14:50
+  - 15:50
+  - 16:30
+  - 18:15
+  - 19:10
+  - 20:00
+  - 20:40
+
+Si necesitas más información, no dudes en preguntar.",1,0.5215893983840942,0.7188677787780762,0.6045413017272949,ambiguous_location
+¿Cuándo sale la próxima combi desde la estación?,La próxima combi desde la *Estación Victoria* sale a las,"La próxima combi desde *Estación Victoria* sale a las 10:30. 
+
+Aquí están todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",1,0.5570700168609619,0.8775814771652222,0.6815234422683716,incomplete_location
+"Necesito ir desde el campus hasta la estación, ¿qué horarios hay?",Horarios de salida de la combi desde Campus UdeSA,"La próxima combi desde el campus hasta Estación Victoria sale a las 10:30. Aquí están todos los horarios para hoy:
+
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30
+
+¡Espero que te sirva!",1,0.5289953947067261,0.7444533109664917,0.6184974312782288,natural_language_request
+¿En cuánto tiempo sale la próxima combi desde Estación Victoria?,La próxima combi desde Estación Victoria sale en,"La próxima combi desde Estación Victoria sale a las 10:30, en aproximadamente 3 minutos. 
+
+Aquí están todos los horarios para hoy:
+- 09:40
+- 10:20
+- 10:30
+- 11:00
+- 11:50
+- 12:00
+- 12:35
+- 13:00
+- 13:50
+- 14:20
+- 15:15
+- 16:00
+- 18:30",1,0.5378144383430481,0.8854115605354309,0.669165849685669,time_until_next_combi

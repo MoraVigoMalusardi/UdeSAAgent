@@ -1,0 +1,35 @@
+query,expected_answer,agent_response,LLMJudge_score,BERT_prec,BERT_rec,BERT_f1,test_type
+¿Cuándo es el examen de Fundamentos de Administración?,El examen de Fundamentos de Administración (A016) se llevó a cabo el 30 de abril de 2025 a las 9 hs,"El examen de Fundamentos de Administración se realizó el 30 de abril de 2025 a las 9:00 hs en el aula HAM. La modalidad fue presencial. Si necesitas más información, no dudes en preguntar.",1,0.7744561433792114,0.8727529048919678,0.8206716179847717,basic_subject_query
+¿Cuándo rindo el parcial de Matemática I?,El parcial de Matemática I se rinde el 23 de abril de 2025.,Rindes el parcial de **Matemática I** el **23 de abril de 2025** a las **17 hs** en las aulas **H118 / H117**.,1,0.6446518301963806,0.8551315069198608,0.7351223230361938,basic_subject_query
+Fecha del examen de Fundamentos de Contabilidad,22/04/2025,"El examen de Fundamentos de Contabilidad (A024) tuvo lugar el 22 de abril de 2025. Aquí están los detalles:
+
+- **Horario:** 17:00 hs
+- **Aulas:** HAM / H005 / H011
+- **Modalidad:** Presencial",1,0.5490425825119019,0.7452582716941833,0.6322773098945618,basic_subject_query
+¿Cuáles son los exámenes domiciliarios?,Exámenes domiciliarios:,"No se encontró información específica sobre exámenes domiciliarios en los resultados obtenidos. Si necesitas detalles sobre qué son o en qué consisten, podría intentar enviar un correo a la universidad para obtener esta información. ¿Te gustaría que lo haga?",0,0.5633419752120972,0.762468159198761,0.6479514837265015,modality_filter_query
+¿Qué materias no tienen examen?,Materias sin examen:,"La información específica sobre qué materias no tienen examen no está claramente detallada en los documentos disponibles. Generalmente, las materias que no incluyen examen suelen ser seminarios, talleres o prácticas profesionales. 
+
+Te recomiendo revisar cada plan de estudios de las diferentes carreras de UdeSA, donde podrás encontrar detalles sobre los tipos de evaluación de cada materia.
+
+Si necesitas información sobre una carrera específica o un programa en particular, házmelo saber y buscaré información más detallada.",0,0.5584698915481567,0.6613141298294067,0.6055564284324646,no_exam_query
+¿En qué aula es el examen de Fundamentos de Contabilidad?,HAM / H005 / H011,"El examen de Fundamentos de Contabilidad (A024) se realizó el 22 de abril de 2025 a las 17 hs en las aulas HAM, H005 y H011. Si necesitas información sobre otro examen o materia, no dudes en preguntar.",1,0.6053627729415894,0.7993848919868469,0.6889747381210327,venue_query
+¿A qué hora es el parcial de Fundamentos de la Inteligencia Artificial?,13hs,El parcial de **Fundamentos de la Inteligencia Artificial (I204)** se llevará a cabo el **22 de abril de 2025 a las 13:00 hs** en el aula **G001**.,1,0.5158472657203674,0.6491168141365051,0.5748591423034668,time_query
+¿Cuándo son los parciales?,Fechas de parciales:,"Los períodos de parciales son los siguientes:
+
+- Semestre 1: del 19 de abril al 3 de mayo de 2025.
+- Semestre 2: del 27 de septiembre al 11 de octubre de 2025.
+
+Además, las vacaciones de invierno serán del 14 de julio al 3 de agosto de 2025.",1,0.5390377044677734,0.7410435080528259,0.6241016387939453,exam_type_query
+¿Cuándo son los finales?,Fechas de finales:,"Los finales del semestre 1 se llevaron a cabo del 21 de junio al 5 de julio de 2025. Los próximos finales del semestre 2 están programados del 29 de noviembre al 13 de diciembre de 2025.
+
+Además, las vacaciones de invierno serán del 14 de julio al 3 de agosto de 2025. Si tienes más preguntas, no dudes en consultarme.",1,0.5124910473823547,0.638899028301239,0.5687560439109802,exam_type_query
+Fechas de recuperatorios,Fechas de recuperatorios:,"Las fechas de recuperatorios en la Universidad de San Andrés son las siguientes:
+
+- **Primer semestre**: del 07/07/2025 al 12/07/2025.
+- **Segundo semestre**: del 15/12/2025 al 20/12/2025.
+
+Si necesitas más información sobre algún tema específico, no dudes en preguntar.",1,0.5447190999984741,0.8071558475494385,0.6504643559455872,exam_type_query
+¿Cuándo es el examen de Física 1?,El examen de Física I fue el 3 de mayo de 2025 a las 17:00 hs en el aula G001,"El examen de Física I (I208) está programado para el **3 de mayo de 2025** a las **17:00 horas** en el aula **G001** y su modalidad es presencial. Si necesitas más información, no dudes en preguntar.",1,0.7275034189224243,0.888624906539917,0.8000325560569763,roman_arabic_conversion
+¿Cuándo es el examen de Materia Inexistente?,"Parece que la materia ""Materia Inexistente"" no está registrada en la universidad. Si necesitas información sobre otra materia específica, por favor indícame el nombre correcto y estaré encantado de ayudarte.","Parece que no hubo una coincidencia con ""Materia Inexistente"". Si necesitas información sobre alguna materia específica, por favor brindame el nombre correcto y con gusto te ayudaré.",1,0.8865103125572205,0.8551187515258789,0.8705316185951233,error_handling
+¿Qué modalidad tuvo el examen  de Física I?,El examen de Física I fue presencial.,El examen de Física I (I208) tuvo lugar el 3 de mayo de 2025 a las 17 hs en el aula G001. La modalidad del examen fue presencial.,1,0.7312566637992859,0.9296977519989014,0.818622887134552,modality_query
+¿En qué horario se rinde el examen parcial de Fundamentos de la Inteligencia Artificial y en qué aula?,El examen parcial de **Fundamentos la Inteligencia Artificial** se rinde el **22 de abril de 2025** a las **13hs en el auta G001.,El examen parcial de **Fundamentos de la Inteligencia Artificial** se rinde el **22 de abril de 2025 a las 13:00 hs** en el aula **G001**.,1,0.894218385219574,0.915276288986206,0.9046247601509094,complex_info_query

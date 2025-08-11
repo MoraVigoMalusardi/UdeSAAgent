@@ -1,0 +1,13 @@
+=== MÉTRICAS PROMEDIO ===
+LLM Judge: 1.0000
+BERT F1: 0.7149
+BERT Precision: 0.6235
+BERT Recall: 0.8520
+=== ANÁLISIS POR TIPO DE TEST ===
+ambiguous_location: LLM_Judge=1.000, BERT_F1=0.605
+basic_schedule_request: LLM_Judge=1.000, BERT_F1=0.850
+incomplete_location: LLM_Judge=1.000, BERT_F1=0.682
+late_time_query: LLM_Judge=1.000, BERT_F1=0.804
+natural_language_request: LLM_Judge=1.000, BERT_F1=0.618
+next_combi_request: LLM_Judge=1.000, BERT_F1=0.678
+time_until_next_combi: LLM_Judge=1.000, BERT_F1=0.669

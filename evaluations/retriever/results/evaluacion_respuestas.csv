@@ -1,0 +1,1257 @@
+k,question,predicted_answer,reference_answer,LLMJudge_score,BERT_prec,BERT_rec,BERT_f1
+6,¿Qué tipo de enfoque innovador propone la Licenciatura en Finanzas en el mundo de los negocios?,"La Licenciatura en Finanzas de la Universidad de San Andrés propone un enfoque innovador que combina formación interdisciplinaria, pensamiento analítico y un fuerte componente práctico. Este enfoque busca preparar a los estudiantes para responder a los desafíos actuales del mercado laboral, centrándose en la enseñanza cuantitativa y aplicada. Aquí destacan varios aspectos clave:
+
+1. **Interdisciplinariedad**: La carrera integra conceptos de economía, ingeniería y administración, formando profesionales con una visión integral que puedan abordar problemas complejos del mundo de los negocios.
+
+2. **Formación Digital y Tecnológica**: Se ofrece formación en herramientas digitales y tecnológicas, lo que permite a los estudiantes liderar la transformación de la disciplina en empresas, organizaciones y gobiernos.
+
+3. **Experiential Learning**: Se enfatiza el aprendizaje práctico a través del análisis de casos reales y la resolución de problemas concretos, fomentando el desarrollo de habilidades prácticas fundamentales para el ejercicio profesional.
+
+4. **Perspectiva Global**: Los estudiantes pueden acceder a redes de negocios locales e internacionales, así como a certificaciones profesionales que les permitirán destacarse en el ámbito global.
+
+5. **Desarrollo de Competencias Diversas**: La carrera prepara a los graduados para roles en diversos campos como mercados de capitales, banca de inversión, gestión de riesgos y asesoramiento en entidades financieras.
+
+Este enfoque integral asegura que los graduados no solo tengan conocimientos teóricos, sino que también posean las habilidades prácticas y analíticas necesarias para destacar en un entorno empresarial en constante evolución.","La Licenciatura en Finanzas propone un **enfoque innovador de los negocios** que responde a los desafíos que buscan los jóvenes en esta área y a la demanda del mercado laboral, valorando la formación interdisciplinaria .",1.0,0.6656539440155029,0.8148253560066223,0.7327244877815247
+6,¿Qué habilidades interdisciplinarias se adquieren al estudiar Finanzas?,"Al estudiar la Licenciatura en Finanzas en la Universidad de San Andrés, se adquieren diversas habilidades interdisciplinarias que son fundamentales para desenvolverse en el mundo de los negocios. Algunas de estas habilidades incluyen:
+
+1. **Pensamiento analítico**: Los estudiantes desarrollan la capacidad de analizar datos y evaluar información de manera crítica, lo cual es esencial para la toma de decisiones financieras.
+
+2. **Resolución de problemas**: Se fomenta un enfoque pragmático para abordar y resolver problemas complejos en contextos empresariales.
+
+3. **Conocimientos de economía**: La formación incluye principios económicos que permiten comprender el funcionamiento de los mercados y las dinámicas financieras.
+
+4. **Habilidades cuantitativas**: Se adquieren competencias en matemáticas y estadísticas, útiles para realizar análisis financieros y evaluación de proyectos.
+
+5. **Gestión de riesgos**: Los estudiantes aprenden a identificar y mitigar riesgos financieros, lo cual es crucial en cualquier entidad o empresa.
+
+6. **Habilidades tecnológicas**: El programa incorpora herramientas digitales y tecnológicas que son cada vez más relevantes en el campo de las finanzas.
+
+7. **Capacidades de gestión**: Se entrena a los graduados para liderar y gestionar recursos financieros en distintos contextos, desde empresas hasta organismos gubernamentales.
+
+8. **Perspectiva global**: Gracias a actividades como intercambios y certificaciones internacionales, los estudiantes obtienen una visión amplia que les permite operar en contextos globales.
+
+En resumen, la carrera en Finanzas promueve una formación integral que combina aspectos analíticos, prácticos y tecnológicos, preparando a los estudiantes para enfrentar desafíos en el entorno financiero moderno.","La carrera de Finanzas combina el pensamiento analítico con el pragmatismo, permitiendo adquirir la **capacidad metódica del economista**, la **destreza del ingeniero para resolver problemas** y la **habilidad del administrador de empresas para gestionar los negocios** .",1.0,0.6523420214653015,0.7419564127922058,0.6942693591117859
+6,¿Qué certificaciones internacionales de idoneidad profesional se pueden obtener a través del Thistle Program en la carrera de Finanzas?,"En la carrera de Finanzas a través del Thistle Program, se pueden obtener las siguientes certificaciones internacionales de idoneidad profesional:
+
+1. **Certificación CFA Level I** - Este examen se ofrece en el primer semestre del quinto año.
+2. **Certificación de idoneidad ROFEX / MATBA** - Se realiza en el cuarto año.
+
+Estas certificaciones están diseñadas para potenciar la formación profesional de los estudiantes en el ámbito financiero a nivel internacional. Si necesitas más información sobre el Thistle Program o sobre otras carreras, no dudes en preguntar.","Con el Thistle Program, los estudiantes de Finanzas pueden acceder a certificaciones internacionales de idoneidad profesional como **ROFEX / MATBA** y la **Certificación CFA Lvl I** [3, 4].",1.0,0.7397688627243042,0.8188241720199585,0.7772915363311768
+6,¿Qué materias específicas de Finanzas se cursan en el segundo año de la Licenciatura?,"En el segundo año de la Licenciatura en Finanzas, se cursan las siguientes materias específicas:
+
+### Primer Semestre:
+- Matemática II
+- Electiva de Filosofía
+- Programación Aplicada a Finanzas
+- Estadística I
+- Escritura y Oratoria
+
+### Segundo Semestre:
+- Finanzas II
+- Macroeconomía I
+- Microeconomía I
+- Matemática III
+
+Estas materias están diseñadas para proporcionar una sólida base en conceptos y herramientas financieras necesarias para la práctica profesional. Si necesitas más información sobre alguna de estas materias, no dudes en preguntar.","En el segundo año de la Licenciatura en Finanzas, se cursan materias como **Finanzas II**, **Macroeconomía I**, **Microeconomía I** y **Matemática III** .",1.0,0.7222341299057007,0.8117043375968933,0.7643600106239319
+6,¿En qué áreas pueden desempeñarse los graduados de Finanzas una vez finalizada la carrera?,"Los graduados de la Licenciatura en Finanzas de la Universidad de San Andrés pueden desempeñarse en diversas áreas, tales como:
+
+1. **Mercados de Capitales**
+2. **Finanzas Corporativas**
+3. **Banca de Inversión**
+4. **Gestión de Riesgos**
+5. **Entidades Financieras**
+
+Además, pueden hacerse competentes en evaluaciones de proyectos, planificación financiera, toma de decisiones sobre financiamiento corporativo, armado de carteras de inversión, administración del riesgo, y estructuración de negocios en banca de inversión.
+
+Los principales empleadores suelen ser consultoras económicas, family offices, fondos de inversión, sociedades de bolsa, organismos del sector público y departamentos de administración y finanzas en empresas y bancos.","Los graduados de Finanzas pueden desempeñarse en áreas como **Mercados de Capitales**, **Finanzas Corporativas**, **Banca de Inversión**, **Gestión de Riesgos** y **Entidades Financieras** .",1.0,0.7745857238769531,0.8908224105834961,0.8286476731300354
+6,¿Qué tipo de estudiantes es ideal para la Licenciatura en Comunicación?,"La Licenciatura en Comunicación en la Universidad de San Andrés está especialmente diseñada para estudiantes que son:
+
+- **Creativos, observadores y curiosos**: Aquellos interesados en las nuevas tendencias tecnológicas y comunicacionales, que desean influir y persuadir audiencias mediante contenidos innovadores.
+- **Buscan una formación integral e interdisciplinaria**: Este programa ofrece un enfoque que desarrolla el pensamiento crítico y estratégico, con una sólida base teórica y un fuerte componente práctico.
+
+Los egresados pueden desempeñarse en diversos roles, como periodistas, creadores de contenidos, comunicadores corporativos, expertos en marketing, gestores culturales e investigadores en comunicación y cultura.","La Licenciatura en Comunicación es para estudiantes **creativos, observadores y curiosos por las nuevas tendencias tecnológicas y comunicacionales**, que aspiran a influir y persuadir audiencias con contenidos innovadores .",1.0,0.7445810437202454,0.8732772469520569,0.8038104772567749
+6,¿Qué tipo de talleres prácticos se ofrecen en la carrera de Comunicación?,"En la carrera de Comunicación de la Universidad de San Andrés, se ofrecen diversos talleres prácticos que permiten a los estudiantes aplicar sus conocimientos en diferentes áreas de la comunicación. Algunos de estos talleres son:
+
+1. **Taller de Producción en Audio**: Enfocado en la creación de propuestas sonoras como podcasts, programas de radio y entrevistas periodísticas.
+
+2. **Taller de Televisión**: Proporciona herramientas para el desarrollo de proyectos audiovisuales y fundamentos de producción para medios televisivos y digitales.
+
+3. **Producción Audiovisual**: Permite a los estudiantes filmar proyectos con cámaras profesionales y trabajar en equipos de edición de alta tecnología.
+
+4. **Escrituras Periodísticas**: Taller que se centra en las técnicas de redacción y narración en el contexto periodístico.
+
+5. **Introducción al Lenguaje Fotográfico**: Aborda las bases de la fotografía como herramienta de comunicación.
+
+6. **Comunicacion en Papel y Pantalla**: Taller orientado a las técnicas y teorías aplicadas a diferentes formatos de comunicación, tanto impresos como digitales.
+
+Estos talleres están diseñados para alinearse con las últimas tendencias en el campo de la comunicación y preparar a los estudiantes para enfrentarse al mundo profesional con un enfoque práctico.","A lo largo de la carrera de Comunicación se ofrecen talleres prácticos como **Taller de Producción en Audio**, **Diseño para Comunicación**, **Producción Audiovisual**, **Taller de Televisión**, **Escrituras Periodísticas**, e **Introducción al Lenguaje Fotográfico**, entre otros .",1.0,0.6933942437171936,0.8284127116203308,0.754913866519928
+6,¿Qué equipamiento técnico específico tiene el Taller de Producción en Audio en la carrera de Comunicación?,"El Taller de Producción en Audio de la carrera de Comunicación en la Universidad de San Andrés está diseñado para la práctica profesional de los estudiantes y cuenta con los siguientes equipamientos técnicos específicos:
+
+- **Consola de sonido de última generación**: Permite la mezcla sonora de diversas fuentes y su ecualización.
+- **Micrófonos de condensador de alta sensibilidad**: Utilizados para la captura de audio en diferentes propuestas sonoras.
+
+Este taller habilita a los estudiantes a desarrollar trabajos como podcasts, programas de radio, publicidades radiales, entrevistas periodísticas y radioteatros, entre otros.",El Taller de Producción en Audio cuenta con una **consola de sonido de última generación** y **micrófonos de condensador de alta sensibilidad** .,1.0,0.6992816925048828,0.8541291952133179,0.7689877152442932
+6,¿Qué materias optativas específicas pueden elegir los estudiantes de Comunicación para poner en práctica sus conocimientos en las últimas tendencias?,"En la Licenciatura en Comunicación de la Universidad de San Andrés, los estudiantes tienen la opción de elegir materias optativas que les permiten poner en práctica sus conocimientos y explorar las últimas tendencias en el campo de la comunicación. Algunas de las materias específicas que abordan estas tendencias son:
+
+1. **Comunicaciones Digital**: Centrada en las nuevas plataformas y formas de comunicación online.
+2. **Marketing para Comunicación**: Enfocado en estrategias de marketing actuales y su relación con la comunicación.
+3. **Taller de Producción en Audio**: Permite a los estudiantes experimentar con la producción de contenido sonoro, relevante en un era de podcasting y contenido multimedia.
+4. **Escrituras Periodísticas**: Ofrece herramientas modernas para la redacción en medios digitales.
+5. **Taller de Televisión**: Aborda la producción audiovisual y su adaptación a plataformas actuales.
+6. **Diseño para Comunicación**: Explora el uso de diseño gráfico en la comunicación contemporánea.
+7. **Proyecto Audiovisual**: Brinda la oportunidad de desarrollar y realizar proyectos audiovisuales innovadores.
+
+Estas materias no solo reflejan una formación integral, sino que también están diseñadas para preparar a los estudiantes para los desafíos actuales en el ámbito de la comunicación, fomentando la creatividad y el uso de tecnología emergente.","Los estudiantes de Comunicación pueden optar por materias electivas como **Comunicación Digital**, **Marketing para Comunicación**, **Taller de Producción en Audio**, **Escrituras Periodísticas**, **Taller de Televisión**, **Diseño para Comunicación**, **Comunicación Política**, **Introducción al Lenguaje Fotográfico**, **Proyecto Audiovisual** y **Producción Audiovisual** .",1.0,0.6720402240753174,0.7980949878692627,0.7296633720397949
+6,¿En qué roles específicos pueden desempeñarse los graduados de la Licenciatura en Comunicación?,"Los graduados de la Licenciatura en Comunicación pueden desempeñarse en una variedad de roles. Algunos de los específicos incluyen:
+
+- **Periodista** en medios tradicionales y digitales.
+- **Marketing Specialist**.
+- **Asesor/a** en empresas, organizaciones y en el gobierno.
+- **Investigador/a** en comunicación y cultura.
+- **Creador/a de contenidos** multiplataforma.
+- **Publicista**, ya sea de manera independiente o en agencias.
+- **Director/a** de áreas de comunicación, marketing e institucional.
+
+Además, estas profesiones se pueden desarrollar en diversos ámbitos, como el periodismo, la televisión, la radio, el marketing, empresas, start-ups, agencias de comunicación estratégica, consultoría independiente, ONG, y en la industria cultural, entre otros.","Los graduados pueden desempeñarse como **periodistas en medios tradicionales y digitales**, **marketing specialist**, **asesor/a en empresas, organizaciones y de gobierno**, **creador/a de contenidos multiplataforma**, entre otros .",1.0,0.7516025304794312,0.8553160429000854,0.8001123666763306
+6,¿Qué habilidades son necesarias para los estudiantes de Ingeniería en Inteligencia Artificial?,"Los estudiantes de Ingeniería en Inteligencia Artificial deben desarrollar diversas habilidades para tener éxito en el campo. Aquí te presento algunas de las más importantes:
+
+1. **Habilidades Matemáticas y Analíticas**: Es fundamental tener una sólida base en matemáticas, probabilidad y estadística, ya que estos son pilares para entender modelos y algoritmos de IA.
+
+2. **Programación y Computación**: Dominar lenguajes de programación y conceptos de software es crucial para diseñar e implementar soluciones tecnológicas.
+
+3. **Pensamiento Crítico y Creativo**: Estas habilidades permiten abordar problemas complejos y encontrar soluciones innovadoras.
+
+4. **Trabajo en Equipo y Habilidades Interpersonales**: Dado que muchos proyectos requieren colaboración multidisciplinaria, saber trabajar en equipo y comunicarse efectivamente es esencial.
+
+5. **Capacidad de Liderazgo**: A medida que avanzan en sus carreras, los estudiantes deben estar preparados para liderar proyectos y equipos en el desarrollo de tecnologías innovadoras.
+
+6. **Ética y Comprensión de Impactos Sociales**: La IA tiene un impacto significativo en la sociedad, por lo que es importante entender las implicancias éticas y sociales de las tecnologías que se desarrollan.
+
+Estas habilidades, combinadas con una perspectiva interdisciplinaria, ayudarán a los estudiantes a convertirse en profesionales competentes y preparados para enfrentar los desafíos del futuro en el ámbito de la IA.",Los estudiantes de Ingeniería en Inteligencia Artificial deben tener una **mentalidad innovadora** y **habilidades matemáticas y analíticas** para utilizar las tecnologías digitales como motor de innovación .,1.0,0.6393156051635742,0.7814555168151855,0.7032754421234131
+6,¿Cuáles son las tres orientaciones de especialización que ofrece la carrera de Ingeniería en Inteligencia Artificial para obtener un certificado?,"La carrera de Ingeniería en Inteligencia Artificial de la Universidad de San Andrés ofrece tres orientaciones de especialización para obtener un certificado:
+
+1. **Software**
+2. **Robótica**
+3. **Negocios**
+
+Cada uno de estos certificados permite a los estudiantes ajustar su formación a sus intereses y áreas de especialización dentro del campo de la inteligencia artificial.","La carrera de Ingeniería en Inteligencia Artificial ofrece certificados de especialización en **Software**, **Robótica** o **Negocios** .",1.0,0.7647221684455872,0.8615264296531677,0.8102431297302246
+6,¿Qué materias del ciclo de Inteligencia Artificial tienen un proyecto final de curso en lugar de examen final?,"Las materias del ciclo de **Ingeniería en Inteligencia Artificial** que tienen un **proyecto final de curso** en lugar de examen final son las siguientes:
+
+1. **Aprendizaje Automático y Aprendizaje Profundo**
+2. **Visión Artificial**
+3. **Procesamiento de Lenguaje Natural**
+4. **Principios de la Robótica Autónoma**
+5. **Aprendizaje Reforzado**
+6. **Ingeniería de Software**
+
+Estas materias están diseñadas para que los estudiantes puedan aplicar sus conocimientos a través de proyectos prácticos, promoviendo así un aprendizaje más significativo. Si necesitas información adicional sobre alguna de estas materias o sobre otros aspectos del programa, no dudes en preguntar.","Las materias con proyecto final de curso en el ciclo de Inteligencia Artificial incluyen **Aprendizaje Automático y Aprendizaje Profundo**, **Visión Artificial**, **Procesamiento de Lenguaje Natural**, **Principios de la Robótica Autónoma** y **Aprendizaje Reforzado** .",0.0,0.7626004219055176,0.8842189311981201,0.8189188838005066
+6,¿En qué tipos de organizaciones y roles pueden trabajar los graduados de Ingeniería en Inteligencia Artificial?,"Los graduados de la carrera de Ingeniería en Inteligencia Artificial de la Universidad de San Andrés pueden trabajar en diversas organizaciones y desempeñar una variedad de roles. Aquí te presento un resumen de la información recuperada:
+
+### Tipos de Organizaciones
+1. **Empresas de Tecnología**: 
+   - Empresas líderes en tecnologías de la información, desarrollo de software, y hardware.
+   - Startups tecnológicas enfocadas en innovación y soluciones basadas en IA.
+
+2. **Institutos de Investigación**:
+   - Centros de investigación y desarrollo en IA, tanto públicos como privados.
+   - Universidades y laboratorios de prestigio mundial dedicados a la investigación en inteligencia artificial.
+
+3. **Sector Público**:
+   - Agencias gubernamentales y organismos que implementan soluciones tecnológicas para mejorar servicios públicos.
+
+4. **Industrias Diversas**:
+   - Sectores como medicina, agricultura, finanzas, logística, manufactura y transporte, donde la IA está comenzando a transformar las operaciones.
+
+### Roles Comunes
+1. **Chief AI/Data Officer**: Responsable de la estrategia y desarrollo de inteligencia artificial y análisis de datos en la organización.
+2. **AI/Machine Learning Engineer**: Especialista en formar modelos de aprendizaje automático y su implementación.
+3. **Data Scientist/Engineer**: Encargado de analizar grandes volúmenes de datos y extraer información relevante para decisiones estratégicas.
+4. **Software Engineer**: Desarrollo y mantenimiento de software, incorporando algoritmos de IA.
+5. **Robotics Engineer**: Desarrollo de sistemas robóticos, integrando IA en sus funcionalidades.
+6. **Computer Vision Engineer**: Especialización en sistemas que interpretan y procesan información visual mediante algoritmos de IA.
+7. **Natural Language Processing Engineer**: Diseño de sistemas que permiten la interacción entre computadores y humanos en lenguaje natural.
+8. **AI Product Manager**: Gestión y desarrollo de productos que incorporan inteligencia artificial.
+  
+### Oportunidades Adicionales
+- Fundar startups tecnológicas y emprender en el sector digital.
+- Participar en investigaciones avanzadas en IA y desarrollar nuevas tecnologías disruptivas.
+
+### Conclusión
+Los graduados de Ingeniería en Inteligencia Artificial de UdeSA tienen amplias oportunidades laborales en un campo en crecimiento que demanda constantemente perfiles capacitados y versátiles.","Los graduados pueden liderar equipos de IA y software en empresas de tecnología, ocupando roles como **Chief AI/Data/Information Officer**, **AI/Machine Learning Engineer**, **Data Scientist**, **Software Engineer**, **Robotics Engineer**, o incluso **fundar su propia startup tecnológica** [15, 16].",1.0,0.6314270496368408,0.7464116215705872,0.6841214299201965
+6,¿Qué tipo de instituciones internacionales están vinculadas con la carrera de Ingeniería en Inteligencia Artificial para realizar pasantías y estadías de investigación?,"La carrera de Ingeniería en Inteligencia Artificial de la Universidad de San Andrés (UdeSA) está vinculada con diversas instituciones internacionales y empresas de investigación donde los estudiantes pueden realizar pasantías y estadías de investigación. A continuación, se destacan algunas de ellas:
+
+1. **Laboratorio de Sistemas Autónomos de Stanford**: Este laboratorio busca graduados del programa de IA de UdeSA, destacando la calidad y la innovación de su formación.
+
+2. **Laboratorio de Robótica Social de la Universidad de Yale**: También se menciona que los perfiles de los estudiantes de esta carrera son altamente buscados para realizar pasantías y estudios de posgrado en este laboratorio.
+
+Además, UdeSA cuenta con más de 90 convenios de cooperación académica e intercambio con universidades y centros de investigación del exterior. Se fomenta así que los estudiantes vivan experiencias únicas que enriquecen su formación personal y profesional, brindándoles una visión global en su carrera.
+
+Con esta sólida red de contactos y oportunidades, los estudiantes de Ingeniería en Inteligencia Artificial pueden acceder a un panorama amplio de posibilidades en el ámbito internacional.","La carrera está vinculada con prestigiosos institutos, centros, laboratorios y empresas de investigación e innovación del mundo, como el **Laboratorio de Sistemas Autónomos de Stanford** y el **Laboratorio de Robótica Social de la Universidad de Yale**, donde los estudiantes pueden realizar pasantías y estadías de investigación [17, 18].",1.0,0.7160388827323914,0.833437979221344,0.7702909111976624
+6,¿Cuál es la finalidad de la carrera de Humanidades en la Universidad de San Andrés?,"La carrera de Humanidades en la Universidad de San Andrés tiene como finalidad formar profesionales con un fuerte espíritu crítico y capacidad de reflexión. Se centra en la enseñanza de cuatro áreas temáticas: Filosofía, Literatura, Historia y Artes, permitiendo que los graduados desarrollen habilidades para leer, pensar, escribir e imaginar el mundo, con el objetivo de transformarlo.
+
+Además, la carrera busca preparar a los estudiantes para diversas salidas laborales en industrias culturales, museos, editoriales, ONG, periodismo, y muchas otras áreas relacionadas. Los egresados pueden desempeñarse como creadores de proyectos culturales, gestores en instituciones culturales, ensayistas, artistas, investigadores, y asesores culturales, entre otros roles.","La carrera de Humanidades se creó con la finalidad de **leer el mundo, pensarlo, escribirlo, imaginarlo, para finalmente transformarlo** .",0.0,0.6658584475517273,0.7747737169265747,0.7161990404129028
+6,¿Cuáles son los cuatro núcleos fundamentales en torno a los cuales se estructura la carrera de Humanidades?,"La carrera de Humanidades en la Universidad de San Andrés se estructura en torno a cuatro núcleos fundamentales:
+
+1. **Literatura**
+2. **Historia**
+3. **Filosofía**
+4. **Arte**
+
+Estos núcleos permiten a los estudiantes desarrollar una formación integral y reflexionar sobre diversas problemáticas contemporáneas. Además, se incluyen materias interdisciplinarias y el estudio de la cultura y la historia de Argentina y Latinoamérica en el contexto más amplio de la cultura occidental.","La carrera de Humanidades se estructura en torno a cuatro núcleos fundamentales: **Literatura, Historia, Filosofía y Arte** .",1.0,0.7235762476921082,0.8700907230377197,0.7900985479354858
+6,¿Qué tipos de materias optativas pueden cursar los estudiantes de Humanidades en el cuarto año de la carrera?,"En el cuarto año de la Licenciatura en Humanidades, los estudiantes tienen la posibilidad de cursar diversas materias optativas que se alinean a sus intereses. A continuación, se detallan los distintos tipos de materias optativas disponibles:
+
+### Materias Optativas en Cuarto Año:
+- **Literatura:** 
+  - Se pueden incluir materias como Literatura Mundial Moderna y Literatura Mundial Contemporánea.
+  
+- **Arte:** 
+  - Oportunidades para explorar materias como Apreciación Artística o Arte Moderno y Contemporáneo.
+  
+- **Filosofía:** 
+  - Incluye opciones como Filosofía Política Clásica y Filosofía Política Moderna.
+  
+- **Historia:** 
+  - Materias como La Invención de la Democracia y Historia Sociopolítica (siglos XVI al XX).
+  
+- **Gestión Cultural:** 
+  - Materias relacionadas a la gestión de políticas culturales y el patrimonio.
+
+Estas opciones permiten a los estudiantes personalizar su formación académica y orientarse hacia áreas que les interesen particularmente, logrando así una educación integral y variada. Si deseas más detalles específicos sobre alguna de estas materias, no dudes en preguntar.","En el cuarto año, los estudiantes pueden optar por materias de **Literatura, Arte, Filosofía, Historia y Gestión de la Cultura**, además de materias de otros campos .",,0.6441792845726013,0.7625012993812561,0.6983640193939209
+6,¿Qué oportunidades laborales se están haciendo cada vez más visibles para los graduados de Humanidades en Argentina?,"Los graduados de Humanidades en Argentina están encontrando cada vez más oportunidades laborales en diversas áreas, gracias a la formación interdisciplinaria que reciben. A continuación, un resumen de las oportunidades laborales más visibles:
+
+### Oportunidades Laborales para Graduados de Humanidades:
+
+1. **Industrias Culturales**: 
+   - La gestión de museos, teatros y editoriales.
+   - Emprendimientos públicos y privados relacionados con la producción y distribución de bienes culturales.
+
+2. **Periodismo y Nuevos Formatos Digitales**:
+   - Producción y difusión de contenido en plataformas digitales.
+   - Creación de proyectos en humanidades digitales.
+
+3. **Investigación Académica**:
+   - Docencia e investigación en instituciones educativas y centros de investigación en áreas de humanidades y ciencias sociales.
+
+4. **Gestión de Recursos Humanos**:
+   - Desarrollo de políticas de gestión del talento en organizaciones.
+
+5. **Relaciones Institucionales y Asesoría Cultural**:
+   - Posiciones en ONG, fundaciones y empresas que requieren un acercamiento crítico a los temas culturales y sociales.
+
+6. **Gestión de Proyectos Culturales**:
+   - Creación y gestión de iniciativas culturales que involucren la interacción entre diversos sectores.
+
+Los graduados están preparados para desempeñarse en múltiples roles, desde la creación de proyectos culturales hasta posiciones de gestión y asesoramiento en diversas instituciones. Además, cuentan con habilidades críticas y de reflexión que les permiten adaptarse a un mercado laboral diverso y cambiante. Este contexto hace que los grados en Humanidades sean cada vez más valorados en el país.","Las oportunidades laborales visibles incluyen la **gestión de las industrias culturales**, **museos**, **editoriales**, **ONG**, **emprendimientos privados y públicos** relacionados con bienes culturales, el **periodismo**, los **nuevos formatos digitales** (especialmente humanidades digitales), la **investigación académica**, la **gestión de recursos humanos**, las **relaciones institucionales** y el **management de organizaciones** .",1.0,0.6190652847290039,0.7175546288490295,0.6646813750267029
+6,¿En qué instituciones culturales han realizado prácticas profesionales los estudiantes de Humanidades?,"Los estudiantes de la Licenciatura en Humanidades de la Universidad de San Andrés han realizado prácticas profesionales en diversas instituciones culturales. Algunas de las más destacadas son:
+
+- **MALBA** (Museo de Arte Latinoamericano de Buenos Aires)
+- **MACBA** (Museo de Arte Contemporáneo de Buenos Aires)
+- **Museo Sívori**
+- **Editorial Ampersand**
+- **Editorial Tenemos las máquinas**
+- **Museo Guggenheim de Venecia**
+- **Centro de Estudios Espigas**
+- **Galería Jacques Martínez**
+- **Plataforma Virtual Entre lienzos**
+
+Estas experiencias permiten a los alumnos vincularse con el campo laboral y desarrollar una sólida preparación para su futuro profesional en diversas áreas relacionadas con la cultura.","Gran parte de los estudiantes han realizado prácticas profesionales en instituciones como el **MALBA**, **MACBA**, **Museo Sívori**, **Editorial Ampersand**, **Editorial Tenemos las máquinas**, **Museo Guggenheim de Venecia**, **Centro de Estudios Espigas**, **Galería Jacques Martínez** y **Plataforma Virtual Entre lienzos** .",1.0,0.7829970717430115,0.8668143153190613,0.8227765560150146
+6,¿En qué áreas de interés se enfoca la carrera de Ingeniería en Sustentabilidad para los estudiantes?,"La carrera de Ingeniería en Sustentabilidad en la Universidad de San Andrés se enfoca en varias áreas de interés clave, que son:
+
+1. **Movilidad y Transporte**: Se busca desarrollar soluciones sustentables en el ámbito de la movilidad, considerando alternativas más limpias y eficientes.
+   
+2. **Sistemas de Energía**: Incluye el estudio y desarrollo de energías renovables y sistemas energéticos sostenibles.
+
+3. **Ciudades y Tecnología**: Hace hincapié en la creación de ciudades sostenibles que integren tecnología para mejorar su funcionamiento y calidad de vida.
+
+4. **Agricultura Regenerativa**: Se centra en prácticas agrícolas que no solo sean sostenibles, sino que también regeneren los ecosistemas.
+
+Los estudiantes se capacitan para abordar desafíos de sostenibilidad desde una perspectiva ingenieril, científica y tecnológica, preparándolos para liderar transformaciones en distintos sectores industriales y contribuir al desarrollo de tecnologías limpias.","La carrera de Ingeniería en Sustentabilidad es para estudiantes interesados en **ciencias básicas y matemáticas**, el **desarrollo sostenible** y la **tecnología**, con un enfoque en áreas como **movilidad y transporte**, **sistemas de energía**, **ciudades y tecnología**, y **agricultura regenerativa** .",1.0,0.6868516802787781,0.7767001390457153,0.729017972946167
+6,¿Qué habilidades se desarrollan a través del Aprendizaje Basado en Proyectos en Ingeniería en Sustentabilidad?,"A través del Aprendizaje Basado en Proyectos en la carrera de Ingeniería en Sustentabilidad de UdeSA, se desarrollan diversas habilidades clave, entre las que se incluyen:
+
+1. **Habilidades creativas**: Los estudiantes deben idear soluciones innovadoras a problemáticas reales de sustentabilidad.
+2. **Habilidades interpersonales**: Se fomenta el trabajo en equipo y la colaboración entre compañeros, lo que es vital en contextos multidisciplinarios.
+3. **Habilidades de liderazgo**: Los proyectos suelen requerir que los estudiantes asuman roles de liderazgo dentro de sus equipos, guiando y motivando a sus compañeros.
+
+Este enfoque permite a los estudiantes aplicar los conocimientos adquiridos en situaciones prácticas y reales, preparándolos mejor para su futuro profesional.","A través de los proyectos, los estudiantes desarrollan sus **habilidades creativas, interpersonales y de liderazgo**, además de poner en práctica los conocimientos aprendidos [24, 25].",1.0,0.6882141828536987,0.7620316743850708,0.7232442498207092
+6,¿Qué ejemplos de casos reales se trabajan en el Aprendizaje Basado en Proyectos de Ingeniería en Sustentabilidad?,"En la carrera de **Ingeniería en Sustentabilidad** en UdeSA, el **Aprendizaje Basado en Proyectos** es una metodología clave que permite a los estudiantes aplicar sus conocimientos en contextos reales. A medida que avanzan en la carrera, los alumnos participan en proyectos prácticos en lugar de exámenes finales en varias materias.
+
+### Ejemplos de casos reales que se trabajan incluyen:
+
+1. **Energías Renovables**: Proyectos que abordan la implementación y optimización de sistemas de energía solar, eólica y otras fuentes renovables.
+  
+2. **Secuestro y Captura de CO2**: Estudio y desarrollo de tecnologías que capturan dióxido de carbono para mitigar el cambio climático.
+
+3. **Movilidad Sustentable**: Proyectos que promueven el uso de transporte no contaminante, como bicicletas, transporte público eficiente y vehículos eléctricos.
+
+4. **Economía del Hidrógeno**: Desarrollo de proyectos que involucran la producción y uso del hidrógeno como fuente de energía limpia.
+
+5. **Ganadería Regenerativa**: Propuestas de prácticas ganaderas que mejoran la salud del suelo y promueven la biodiversidad.
+
+Estos proyectos no solo buscan la solución de problemas específicos, sino que también ayudan a los estudiantes a desarrollar habilidades creativas, interpersonales y de liderazgo, que son fundamentales para su futuro profesional.","Se trabaja en casos reales vinculados con **energías renovables**, **secuestro y captura de CO2**, **movilidad sustentable**, **economía del hidrógeno**, y **ganadería regenerativa**, entre otros .",1.0,0.6472926139831543,0.7613638639450073,0.6997095942497253
+6,¿Qué certificaciones de especialización se pueden obtener en Ingeniería en Sustentabilidad?,"En la carrera de Ingeniería en Sustentabilidad de la Universidad de San Andrés (UdeSA), se ofrecen las siguientes certificaciones de especialización:
+
+1. **Negocios**
+2. **Programación y Big Data**
+3. **Diseño en Tecnología Sustentable**
+
+Estas orientaciones permiten a los estudiantes ajustar su perfil profesional según sus intereses específicos dentro del campo de la sustentabilidad.","La carrera ofrece tres orientaciones que brindan un certificado de especialización en **Negocios**, **Programación y Big Data**, y **Diseño en Tecnología Sustentable** [25, 26].",1.0,0.7650395631790161,0.8293774127960205,0.7959104180335999
+6,¿Cuáles son las principales industrias o áreas en las que pueden trabajar los graduados en Ingeniería en Sustentabilidad?,"Los graduados en Ingeniería en Sustentabilidad pueden trabajar en diversas industrias y áreas, entre las cuales se destacan:
+
+1. **Energías Renovables**: Desarrollo y gestión de tecnologías sostenibles de generación de energía.
+2. **Producción de Alimentos**: Implementación de prácticas agrícolas sustentables y eficiencia en la cadena de suministro.
+3. **Desarrollo Urbano**: Planificación y diseño de ciudades sostenibles y resilientes.
+4. **Movilidad y Transporte**: Diseño de sistemas de transporte sustentables y soluciones de logística responsable.
+
+Además, pueden desempeñarse como emprendedores en el universo cleantech, líderes en transformaciones tecnológicas en el sector industrial, ingenieros especializados en sectores sustentables y como investigadores en el desarrollo de tecnologías limpias.","Los graduados pueden trabajar en industrias o áreas como **energías renovables**, **producción de alimentos**, **desarrollo urbano**, y **movilidad y transporte** [27, 28].",1.0,0.7073342800140381,0.7832918763160706,0.7433778047561646
+6,¿Qué habilidades se buscan en los estudiantes de Abogacía?,"En la carrera de Abogacía, se buscan en los estudiantes las siguientes habilidades:
+
+1. **Argumentación**: Capacidad para comprender problemas legales y ofrecer argumentos persuasivos e inteligentes. No se valora la memorización de leyes, sino el razonamiento crítico.
+
+2. **Innovación**: Habilidad para adaptarse a las nuevas tendencias, incluyendo el uso de herramientas digitales y tecnológicas para el ejercicio del derecho. Esto incluye el aprendizaje de programación y design thinking.
+
+3. **Trabajo en equipo**: Capacidad para colaborar y trabajar con otros en la resolución de casos y elaboración de estrategias legales.
+
+4. **Análisis de casos complejos**: Habilidad para descomponer situaciones legales complicadas y reflexionar sobre sus implicancias.
+
+5. **Redacción y oratoria**: Competencias en la escritura jurídica y habilidades en la argumentación oral, esenciales para la defensa de casos.
+
+6. **Creatividad en la búsqueda de soluciones**: Capacidad para proponer enfoques creativos y efectivos en problemas legales.
+
+7. **Adaptación y aprendizaje continuo**: Disposición para actualizarse constantemente en un entorno legal dinámico.
+
+Estas habilidades son desarrolladas a través de talleres, prácticas profesionales y competencias internacionales que forman parte de la educación en Abogacía en UdeSA.","Se buscan estudiantes que quieran **producir cambios positivos en la sociedad**, con **elevado sentido de la justicia y la equidad**, y que les guste **debatir, argumentar y razonar** para encontrar soluciones y estrategias creativas .",0.0,0.6486952304840088,0.7332115769386292,0.6883689761161804
+6,¿Qué tipo de herramientas innovadoras se incorporan en la carrera de Abogacía a partir de 2019?,"Desde 2019, la carrera de Abogacía en la Universidad de San Andrés ha incorporado herramientas innovadoras para preparar a los estudiantes frente a los nuevos desafíos del ejercicio del derecho. Algunas de las principales innovaciones incluyen:
+
+1. **Track Focalizado en Herramientas Innovadoras**: Se implementó un track específico que se centra en herramientas para el ejercicio del derecho. Esto incluye materias como **programación para abogados**, **design thinking**, **management** y **emprendedurismo**. Estas asignaturas están diseñadas para ayudar a los estudiantes a desarrollar soluciones eficientes y creativas para los problemas legales que enfrentarán en el futuro.
+
+2. **Enfoque Interdisciplinario**: Se han incluido materias que fomentan un enfoque interdisciplinario, integrando temas de **economía**, **sociología** y **nuevas tecnologías**, permitiendo a los estudiantes ampliar su comprensión del contexto en el que se desarrolla el derecho.
+
+3. **Clínica Jurídica**: A partir del tercer año, los alumnos pueden participar en la **Clínica Jurídica**, donde trabajan en casos reales bajo la supervisión de profesores, lo que les brinda una experiencia práctica valiosa.
+
+4. **Talleres desde el Primer Año**: Se han incorporado talleres que desarrollan habilidades específicas para la práctica profesional desde el primer cuatrimestre, incluyendo técnicas de búsqueda, interpretación y argumentación jurídica.
+
+5. **Simulacro de Juicio por Jurados**: Esta actividad permite que los estudiantes ejerzan y perfeccionen sus habilidades de análisis y argumentación oral en un contexto práctico.
+
+Estas innovaciones buscan preparar a los estudiantes para ser abogados con una visión más moderna, capaz de afrontar los desafios actuales y futuros del ejercicio profesional.","A partir de 2019, la carrera de Abogacía sumó un track focalizado en herramientas innovadoras que incluye materias como **programación para abogados**, **design thinking**, **management** y **emprendedurismo** .",1.0,0.6776381134986877,0.8506953120231628,0.7543688416481018
+6,¿Qué oportunidades tienen los estudiantes de Abogacía para poner en práctica sus conocimientos legales?,"Los estudiantes de Abogacía en la Universidad de San Andrés tienen diversas oportunidades para poner en práctica sus conocimientos legales. A continuación, se detallan las principales:
+
+### Oportunidades Prácticas
+
+1. **Pasantías y Prácticas Profesionales**:
+   - Los estudiantes son alentados a realizar pasantías en distintas instancias que incluyen:
+     - **Poder Judicial Nacional y Provincial**.
+     - Estudios jurídicos de primer nivel.
+     - Empresas del sector privado.
+     - Organizaciones No Gubernamentales (ONGs) nacionales e internacionales.
+
+2. **Área de Desarrollo Profesional**:
+   - UdeSA cuenta con un área dedicada que facilita la conexión entre alumnos, graduados y empresas, ofreciendo propuestas laborales adaptadas a los perfiles de los estudiantes.
+
+3. **Clínica Jurídica**:
+   - A partir del tercer año, los estudiantes pueden cursar la materia “Clínica Jurídica”, donde tienen la oportunidad de trabajar en casos reales bajo la supervisión de profesores, lo que les permite experimentar la práctica profesional directamente.
+
+4. **Talleres de Habilidades Prácticas**:
+   - Desde el primer cuatrimestre, el plan de estudios incluye talleres enfocados en desarrollar habilidades necesarias para la práctica profesional (como técnicas de búsqueda, interpretación y argumentación jurídica, redacción jurídica, negociación, entre otros).
+
+5. **Competencias Internacionales y Simulacros**:
+   - Los estudiantes participan anualmente en varias competencias internacionales que incluyen:
+     - Concurso Universitario de Litigación Penal.
+     - Competencia de arbitraje de inversiones “FDI Moot Court”.
+     - Jessup International Law Moot Court Competition.
+   - También tienen la oportunidad de realizar simulacros de juicio por jurados, lo que les permite ejercer habilidades de análisis de casos y argumentación oral.
+
+### Beneficios
+- Estas experiencias permiten a los estudiantes perfeccionar sus habilidades de argumentación escrita y oral, trabajo en equipo y análisis de casos complejos, preparándolos adecuadamente para su futuro profesional.
+
+### Acceso a Oportunidades
+- Los estudiantes interesados deben informarse sobre las opciones disponibles a través del área de Desarrollo Profesional de la universidad, así como mantenerse atentos a las convocatorias de pasantías y oportunidades de prácticas.
+
+Esta estructura les permite no solo adquirir conocimientos teóricos, sino también aplicar los mismos en contextos reales, aumentando su preparación para el ejercicio de la profesión.","Los estudiantes pueden participar en **talleres desde primer año**, realizar **pasantías en el sector público y privado**, y seguir desarrollando sus habilidades en **competencias de alegatos nacionales e internacionales** . También pueden cursar la **Clínica Jurídica** para llevar casos reales y participar en un **Simulacro de Juicio por Jurados** [31, 32].",1.0,0.654303252696991,0.7635344862937927,0.7047112584114075
+6,¿Qué ciclo del plan de estudios de Abogacía tiene como objetivo que el estudiante aprenda a pensar y razonar como un abogado?,"El ciclo del plan de estudios de Abogacía que tiene como objetivo que el estudiante aprenda a pensar y razonar como un abogado es el **Ciclo de orientación - Formación Jurídica Avanzada**. Este ciclo incluye materias que enseñan a desarrollar habilidades de argumentación y análisis jurídico, fundamentales para el ejercicio de la abogacía.",El ciclo con ese objetivo es la **Formación Jurídica Avanzada** .,1.0,0.6962053775787354,0.8639540672302246,0.7710615396499634
+6,¿Qué tipos de roles profesionales pueden ocupar los abogados más allá de los ámbitos tradicionales?,"Los abogados pueden desempeñarse en una variedad de roles profesionales que van más allá de los ámbitos tradicionales. Algunos de estos roles no convencionales incluyen:
+
+1. **Organismos Internacionales**: Abogados que trabajan en instituciones como la ONU u OEA, contribuyendo a la elaboración y aplicación de normas internacionales.
+
+2. **Organismos No Gubernamentales (ONGs)**: Actuando como asesores legales, ayudando en la defensa de derechos humanos y causas sociales.
+
+3. **Asesores Legislativos o de Gobierno**: Ofreciendo asesoría en la creación de leyes y políticas públicas, colaborando directamente con gobiernos o entidades legislativas.
+
+4. **Público y Sector Estatal**: Ocupando puestos en reparticiones estatales como la cancillería o en la administración pública en general.
+
+5. **Legal Tech**: Iniciando emprendimientos en el sector de la tecnología legal, que busca innovar en procesos y servicios legales mediante el uso de herramientas digitales.
+
+6. **Emprendedor**: Creando su propia empresa legal o negocio basado en consultoría jurídica.
+
+Estos roles permiten que los abogados amplíen su impacto social y profesional, adaptándose a las necesidades cambiante del entorno y contribuyendo a diversas áreas de la sociedad.","Más allá de los estudios jurídicos, el poder judicial o las empresas, los abogados pueden ejercer en **organismos internacionales (ONU, OEA, etc.)**, **organismos no gubernamentales**, como **asesores legislativos o de gobierno**, y en **reparticiones estatales de distinta índole** .",1.0,0.6703295707702637,0.7663137912750244,0.7151152491569519
+6,¿Qué busca la carrera de Ingeniería en Biotecnología para los estudiantes?,"La carrera de Ingeniería en Biotecnología en la Universidad de San Andrés forma a profesionales con una sólida formación en ciencias básicas, ingenierías de proceso y biotecnológicas, además de habilidades de gestión necesarias para liderar proyectos de alto impacto. Estos son algunos de los objetivos y competencias que busca desarrollar en sus estudiantes:
+
+- **Diseño de Procesos**: Crear y optimizar procesos biotecnológicos tanto industriales como de laboratorio, apoyándose en conocimientos científicos y de ingeniería.
+- **Liderazgo en Proyectos**: Capacidad para liderar bioprocesos y bionegocios, así como coordinar laboratorios de investigación e innovación.
+- **Gestión de Calidad**: Ejecutar controles de calidad y aplicar procesos de mejora continua en distintas industrias.
+- **Investigación en Biotecnología**: Realizar investigaciones en áreas como biotecnología, biología molecular e ingeniería genética.
+
+Los graduados pueden trabajar en diversas industrias como la agricultura, medicina, medio ambiente, farmacéutica, alimentos y energía, siempre enfocados en el uso de sistemas biológicos y organismos vivos para crear productos que impacten positivamente en la sociedad y el medioambiente. 
+
+En resumen, la carrera busca formar expertos que puedan contribuir al avance de la biotecnología a nivel local y global, con una fuerte impronta científico-tecnológica.","Busca una carrera innovadora con una **fuerte impronta científico-tecnológica** para **liderar los avances biotecnológicos** a nivel local, regional y mundial .",1.0,0.6628496050834656,0.7968611121177673,0.7237038016319275
+6,¿Qué tipos de bionegocios están capacitados para crear los ingenieros en Biotecnología?,"Los ingenieros en Biotecnología están capacitados para crear diversos tipos de bionegocios. Algunos ejemplos incluyen:
+
+- **Producción de biocombustibles**: Desarrollo de tecnologías para generar combustibles a partir de biomasa o procesos biológicos.
+- **Alimentos**: Innovación en la producción y mejora de alimentos mediante técnicas biotecnológicas, como la elaboración de alimentos funcionales o probióticos.
+- **Control biológico de plagas**: Utilización de organismos vivos para controlar plagas en la agricultura, reduciendo la dependencia de pesticidas químicos.
+- **Plantas resistentes a la sequía**: Creación de cultivos que puedan mantener su productividad en condiciones de escasez de agua.
+
+Además de estos ejemplos, los ingenieros en Biotecnología también pueden coordinar laboratorios de investigación, liderar proyectos de innovación y desarrollo, y aplicar procesos de mejora en diversas industrias. Estas capacidades les permiten tener un impacto positivo en sectores como la medicina, el medio ambiente, la farmacéutica, la salud humana y animal, y la energía.","Están capacitados para ser creadores de bionegocios como la **producción de biocombustibles**, **alimentos**, **control biológico de plagas** y **plantas resistentes a la sequía**, entre otros [36, 37].",1.0,0.6984025835990906,0.7896885871887207,0.7412455677986145
+6,¿En qué industrias se pueden aplicar las tecnologías desarrolladas por los Ingenieros en Biotecnología?,"Las tecnologías desarrolladas por los Ingenieros en Biotecnología se pueden aplicar en varias industrias. Aquí te presento las principales:
+
+### 1. Agricultura
+- **Aplicaciones**: Desarrollo de plantas resistentes a plagas y enfermedades, cultivos tolerantes a la sequía, y biopesticidas.
+
+### 2. Medicina
+- **Aplicaciones**: Producción de medicamentos biológicos, terapias génicas y tratamientos personalizados, así como el desarrollo de vacunas.
+
+### 3. Medio ambiente
+- **Aplicaciones**: Biorremediación, procesos para limpiar suelos y aguas contaminadas, y sistemas biológicos para el tratamiento de residuos.
+
+### 4. Farmacéutica
+- **Aplicaciones**: Investigación y desarrollo de nuevos fármacos, mejora de procesos de producción y control de calidad.
+
+### 5. Alimentos
+- **Aplicaciones**: Producción de alimentos transgénicos, fermentación para la elaboración de productos lácteos, y mejora de la calidad nutricional de los alimentos.
+
+### 6. Energía
+- **Aplicaciones**: Producción de biocombustibles, utilización de microorganismos en la generación de energía a partir de residuos orgánicos.
+
+Estas industrias muestran cómo los ingenieros en biotecnología tienen oportunidades para aplicar sus conocimientos en diversos sectores, desde la salud hasta la producción alimentaria y la sostenibilidad ambiental.","Las tecnologías innovadoras son aplicables a una amplia gama de industrias como la **agricultura**, **medicina**, **medioambiente**, **alimentos**, **salud humana y animal**, y **energía** [37, 38].",1.0,0.6344056129455566,0.72822505235672,0.6780855655670166
+6,¿Qué capacidades desarrollan los ingenieros en Biotecnología relacionadas con las matemáticas y la programación?,"### Capacidades desarrolladas en Matemáticas y Programación para Ingenieros en Biotecnología
+
+1. **Identificación del área de competencia**: Los ingenieros en Biotecnología requieren habilidades robustas en matemáticas y programación, ya que estas disciplinas son esenciales para el diseño, análisis y optimización de procesos biotecnológicos. Las matemáticas permiten modelar y entender fenómenos biológicos, mientras que la programación es vital para el análisis de datos y la implementación de algoritmos.
+
+2. **Materias relacionadas en el currículo**:
+   - **Matemáticas**:
+     - Análisis Matemático I y II
+     - Álgebra Lineal
+     - Fundamentos de la Probabilidad y Estadística
+   - **Programación**:
+     - Pensamiento Computacional
+     - Bioinformática I
+     - Inteligencia Artificial Aplicada
+
+3. **Habilidades específicas**: A través de los cursos mencionados, los estudiantes desarrollan:
+   - **Pensamiento Analítico**: Capacidad para resolver problemas complejos mediante un enfoque estructurado.
+   - **Modelado Matemático**: Creación de modelos que representan fenómenos biológicos y procesos industriales.
+   - **Estadística**: Uso de técnicas estadísticas para el análisis de datos experimentales y la toma de decisiones.
+   - **Programación**: Habilidades para escribir código que automatiza procesos, manipula datos biológicos y aplica algoritmos de inteligencia artificial.
+
+4. **Organización de la información**: Los ingenieros en Biotecnología adquirirán no solo herramientas matemáticas y de programación, sino que también potenciarán su capacidad para trabajar en problemas interdisciplinarios, liderar proyectos innovadores y desarrollar soluciones biotecnológicas efectivas.
+
+5. **Respuesta final**: Los ingenieros en Biotecnología de la Universidad de San Andrés desarrollan capacidades clave en matemáticas y programación que incluyen el pensamiento analítico, el modelado matemático, la estadística y habilidades de programación orientadas a la bioinformática y la inteligencia artificial. Estas competencias les permiten abordar y resolver problemas complejos en diversas aplicaciones biotecnológicas, haciendo de ellos profesionales altamente capacitados en un campo en constante evolución.","La carrera brinda las bases para entrenar la capacidad de **pensamiento abstracto y analítico**, y capacita para **diseñar e implementar modelos, algoritmos y sistemas** esenciales para la resolución de problemas complejos [39, 40].",1.0,0.6253975629806519,0.7163048982620239,0.6677715182304382
+6,¿Qué habilidades de gestión poseen los graduados en Ingeniería en Biotecnología?,"Los graduados en Ingeniería en Biotecnología de la Universidad de San Andrés desarrollan una serie de habilidades de gestión que les permiten liderar y coordinar diversos proyectos en el ámbito biotecnológico. A continuación, te detallo algunas de las habilidades más relevantes:
+
+1. **Liderazgo de Proyectos**: Los egresados están capacitados para liderar proyectos de alto impacto en áreas como bioprocesos y bionegocios.
+
+2. **Coordinación de Laboratorios**: Poseen la habilidad para coordinar laboratorios de investigación, innovación y desarrollo, lo que implica gestionar equipos y recursos eficientemente.
+
+3. **Gestión de Calidad**: Son capaces de gestionar el control de calidad en diversas industrias, aplicando procesos de mejora continua.
+
+4. **Administración y Emprendedorismo**: Se forman en fundamentos de administración y emprendedorismo, dándoles herramientas para crear y gestionar sus propios proyectos o empresas en el ámbito biotecnológico.
+
+5. **Desarrollo de Bionegocios**: Los graduados están preparados para crear soluciones innovadoras que aprovechen los sistemas biológicos, como la producción de biocombustibles y alimentos.
+
+6. **Investigación y Desarrollo**: Realizan investigaciones en áreas como biotecnología y biología molecular, lo que implica la gestión de proyectos de investigación y la aplicación de los resultados en contextos productivos.
+
+Estas habilidades de gestión son fundamentales para el desempeño profesional de los ingenieros en biotecnología, permitiéndoles tener un impacto positivo en diversas industrias, como la agricultura, medicina, medioambiente, farmacéutica y alimentos.","Los graduados cuentan con habilidades de gestión necesarias para **liderar proyectos de alto impacto**, **coordinar laboratorios de investigación, innovación y desarrollo**, y **gestionar el control de calidad** y aplicar procesos de mejora en diversas industrias [38, 41].",1.0,0.6773073673248291,0.8042150735855103,0.7353257536888123
+6,¿Qué busca la Licenciatura en Administración de Empresas para los estudiantes?,"La Licenciatura en Administración de Empresas de la Universidad de San Andrés busca formar profesionales con una sólida preparación para dirigir y gestionar organizaciones. Está orientada a estudiantes que tienen un fuerte interés en el emprendedorismo y desean desarrollar habilidades de liderazgo. Los objetivos principales de la carrera son:
+
+1. **Enfoque multidisciplinario**: Proporcionar herramientas para emprender dentro de organizaciones existentes o crear proyectos propios.
+
+2. **Desarrollo de habilidades**: Fomentar competencias en áreas como marketing, recursos humanos, finanzas y gestión estratégica, preparando a los estudiantes para afrontar desafíos en el mundo de los negocios.
+
+3. **Visión práctica e internacional**: Combinar teoría con aprendizaje experiencial, utilizando métodos como estudios de caso y simulaciones para preparar a los estudiantes para un entorno global.
+
+4. **Capacitación en liderazgo**: Desarrollar habilidades de liderazgo y trabajo en equipos, esenciales para roles de gestión y consultoría en diversas áreas funcionales.
+
+5. **Formación integral**: Abarcar desde fundamentos teóricos hasta la aplicación práctica, asegurando que los graduados estén preparados para asumir roles de responsabilidad en diversos sectores.
+
+Al finalizar la carrera, los graduados estarán capacitados para desempeñarse en una amplia gama de roles, tanto en el ámbito corporativo como en el desarrollo de sus propios emprendimientos.",Busca un programa interdisciplinario con un **enfoque práctico** y una **visión internacional** para que los estudiantes se desarrollen en el mundo de los negocios globales .,1.0,0.643613874912262,0.7655978202819824,0.6993263363838196
+6,¿Cuáles son los tres trayectos transversales distintivos de la Licenciatura en Administración de Empresas?,"Los tres trayectos transversales distintivos de la Licenciatura en Administración de Empresas de la Universidad de San Andrés son:
+
+1. **Track de Análisis Cuantitativo para la Toma de Decisiones**: En este trayecto se incorporan herramientas de matemáticas y estadísticas, así como programación para procesar datos y obtener información útil, y desarrollo de modelos de optimización.
+
+2. **Track de Entrepreneurship**: Orientado a la creación de nuevos negocios e innovación, incluso en empresas ya existentes. Este trayecto fortalece habilidades emprendedoras a través de diversas materias y incluye una especialización en la materia de Entrepreneurship.
+
+3. **Track de Lead**: Se centra en el desarrollo de habilidades de liderazgo, como la negociación, el trabajo en equipo, la dirección de grupos, el feedback, la inspiración de otros y la gestión de conflictos. Al finalizar, se busca que el estudiante complete un modelo de 14 competencias emocionales y cognitivas. 
+
+Estos trayectos ofrecen un enfoque integral y práctico a la formación del estudiante en el ámbito de la administración.","Los tres trayectos distintivos son el **track de análisis cuantitativo para la toma de decisiones**, el **track de Entrepreneurship** para crear nuevos negocios, y el **track de Lead** para el desarrollo de habilidades de liderazgo [43, 44].",1.0,0.7042975425720215,0.8030878901481628,0.7504554986953735
+6,¿Qué materias del primer año se cursan en el primer semestre de la Licenciatura en Administración de Empresas?,"En el primer semestre de la Licenciatura en Administración de Empresas se cursan las siguientes materias:
+
+1. Introducción al Razonamiento Matemático
+2. Escritura y Oratoria
+3. Fundamentos de Administración
+4. Economía I
+
+Si necesitas más información sobre la carrera o las materias, no dudes en preguntar.","En el primer semestre del primer año se cursan **Introducción al Razonamiento Matemático**, **Escritura y Oratoria**, y **Fundamentos Administración** .",0.0,0.7403521537780762,0.7942454814910889,0.7663524746894836
+6,¿En qué áreas funcionales de las empresas pueden trabajar los graduados de Administración de Empresas?,"Los graduados de la Licenciatura en Administración de Empresas de la Universidad de San Andrés pueden desempeñarse en diversas áreas funcionales dentro de las empresas, tales como:
+
+- **Marketing**: Analizando necesidades de clientes y desarrollando propuestas de valor.
+- **Operaciones**: Desarrollando productos o servicios dentro de la empresa.
+- **Recursos Humanos**: Enfocándose en la gestión del talento y el plan de carrera de los colaboradores.
+- **Finanzas**: Gestionando recursos financieros para maximizar ganancias.
+- **Sistemas de Información**: Incorporando tecnologías digitales para la gestión empresarial.
+- **Planeamiento Estratégico**: Diseñando y analizando estrategias organizacionales.
+- **Consultoría**: Trabajando como consultores de estrategia, ofreciendo asesoramiento profesional.
+
+Además, los graduados también pueden acceder a posiciones directivas como CEO o gerente general, así como ejercer en el ámbito público o en organizaciones con impacto social y ambiental.","Pueden desempeñarse en áreas como **Marketing, Operaciones, Recursos Humanos, Finanzas, Sistemas de Información y Planeamiento Estratégico**, e incluso como CEO o gerente general [46, 47].",1.0,0.6725794076919556,0.7634798884391785,0.7151527404785156
+6,¿Qué oportunidades de programas internacionales existen para los graduados de Administración de Empresas?,"En la Universidad de San Andrés (UdeSA), los graduados de la Licenciatura en Administración de Empresas tienen acceso a varias oportunidades de programas internacionales que enriquecen su formación académica y profesional. Aquí te detallo las opciones más relevantes:
+
+### Oportunidades de Programas Internacionales:
+
+1. **Intercambios Académicos:**
+   UdeSA cuenta con más de 90 convenios de cooperación académica con universidades del exterior. Esto permite a los estudiantes realizar intercambios que enriquecen su perfil profesional y les otorgan una visión global.
+
+2. **Diploma de Master in Management (MIM) en ESCP-Europe:**
+   Después de obtener la Licenciatura en Administración, los graduados tienen la oportunidad de realizar un intercambio de un año en ESCP-Europe, donde pueden acceder a este prestigioso diploma. Las ciudades en las que se puede cursar incluyen París, Madrid y Londres. ESCP es reconocida dentro del grupo de universidades ""Grande École"" en Francia y está rankeada entre los 10 programas más prestigiosos del mundo.
+
+3. **MBA en la Universidad de Brandeis:**
+   También se ofrece la posibilidad de realizar un MBA en la Universidad de Brandeis en Estados Unidos, sumando una valiosa experiencia internacional al perfil del graduado.
+
+### Participación Estudiantil:
+Más del 35% de los alumnos de UdeSA participan en intercambios académicos como parte integral de su experiencia universitaria, lo cual refleja el compromiso de la universidad con la proyección internacional de sus estudiantes.
+
+Si necesitas más información sobre requisitos específicos o detalles sobre cómo aplicar a estos programas, no dudes en consultarlo.","Los graduados tienen la oportunidad de realizar un **intercambio de un año en ESCP-Europe** para acceder al diploma de Master in Management (MIM), y al graduarse pueden realizar un **MBA en la Universidad de Brandeis de Estados Unidos** [48, 49].",1.0,0.6411721110343933,0.7913088202476501,0.7083726525306702
+6,¿Qué tipo de problemas analiza la Licenciatura en Economía de UdeSA?,"La Licenciatura en Economía de la Universidad de San Andrés aborda diversos problemas económicos relevantes, entre los que se incluyen:
+
+- **Inflación**: Analiza las causas, efectos y políticas para su control.
+- **Crisis financieras y económicas**: Estudia las dinámicas que llevan a estas crisis y sus repercusiones en la economía global y local.
+- **Diferencias salariales**: Examina las inequidades salariales, especialmente en base al género.
+- **Inequidades en el acceso a la educación**: Investiga cómo las desigualdades en la educación afectan el desarrollo económico.
+
+El objetivo de la carrera es crear y proponer políticas económicas que ayuden a mitigar estas problemáticas. Además, los estudiantes desarrollan habilidades analíticas que les permiten entender y proponer soluciones a la realidad económica de la sociedad y las organizaciones.","La Licenciatura en Economía de UdeSA analiza temas como la **inflación**, las **crisis financieras y económicas**, las **diferencias salariales en base al género** y las **inequidades en el acceso a la educación**, con el fin de proponer políticas económicas .",1.0,0.7349115014076233,0.818550705909729,0.7744794487953186
+6,¿Qué programa internacional ofrece la posibilidad de obtener una doble titulación de Master en International Economics and Finance para los estudiantes de Economía?,"El programa internacional que ofrece la posibilidad de obtener una doble titulación de Master en International Economics and Finance para los estudiantes de Economía es el acuerdo entre la Universidad de San Andrés (UdeSA) y Brandeis University. 
+
+### Detalles del programa:
+- **Duración**: Los estudiantes deben cursar tres años y medio en UdeSA (7 semestres) y un año y medio en Brandeis University, lo que suma un total de cinco años de estudio.
+- **Títulos obtenidos**: Al finalizar el programa, recibirás dos títulos: 
+  - Licenciado en Economía por la Universidad de San Andrés.
+  - Master in International Economics and Finance por Brandeis University, que está reconocida entre las mejores universidades de Estados Unidos en este campo.
+
+Este programa no solo permite adquirir conocimientos avanzados en economía y finanzas, sino que también expande las oportunidades de desarrollo profesional en un contexto global. 
+
+Si necesitas más información sobre requisitos específicos o la estructura del programa, no dudes en preguntar.","El **Acuerdo UdeSA - Brandeis University** permite obtener la doble titulación de Licenciado en Economía por UdeSA y Master in International Economics and Finance por Brandeis University tras 5 años de cursada [51, 52].",1.0,0.6878113746643066,0.7952966094017029,0.7376590967178345
+6,¿Cuáles son algunos de los campos en los que los egresados de Economía se destacan como emprendedores?,"Los egresados de la carrera de Economía de la Universidad de San Andrés se destacan como emprendedores en diversos campos, entre los cuales se encuentran:
+
+1. **Finanzas**: Muchos graduados optan por iniciar sus propios negocios en el sector financiero, ofreciendo servicios de consultoría, planificación financiera y gestión de inversiones.
+
+2. **Consultoría**: La capacitación en análisis económico les permite brindar asesoría a empresas en diversas áreas, ayudándolas a mejorar su rendimiento y tomar decisiones estratégicas.
+
+3. **Tecnología y Startups**: Algunos emprendedores se involucran en la creación de startups tecnológicas, aplicando su conocimiento en economía para desarrollar modelos de negocio innovadores.
+
+4. **Desarrollo de Negocios**: Egresados que fundan o gestionan sus propios emprendimientos en sectores variados, desde alimentos y bebidas hasta servicios digitales.
+
+5. **Educación y Capacitación**: También hay quienes inician proyectos relacionados con la educación, formando consultorías o empresas dedicadas a la enseñanza en temas económicos o de finanzas.
+
+Estos campos reflejan la versatilidad y preparación de los egresados para adaptarse a diferentes sectores del mercado laboral y aprovechar oportunidades de negocio.","Los egresados de Economía son exitosos emprendedores en los campos de la **tecnología**, los **servicios**, las **finanzas**, la **agroindustria** y la **consultoría** .",1.0,0.6387245655059814,0.7569351196289062,0.6928237080574036
+6,¿Qué materias optativas pueden elegir los estudiantes de Economía relacionadas con Big Data y Aprendizaje?,"Los estudiantes de la Licenciatura en Economía en la Universidad de San Andrés pueden elegir las siguientes materias optativas relacionadas con Big Data y Aprendizaje:
+
+1. **Big Data, Aprendizaje y Mineríade Datos**
+2. **Natural Language Processing**
+
+Estas materias ofrecen formación en áreas que son fundamentales para comprendere y trabajar con datos en el contexto de la economía. Si necesitas más información sobre estas materias o sobre alguna otra, no dudes en preguntar.","Pueden elegir materias como **Big Data, Aprendizaje y Minería de Datos** y **Natural Language Processing** .",1.0,0.6920599937438965,0.8169434666633606,0.7493341565132141
+6,¿En qué roles profesionales pueden desempeñarse los graduados de la Licenciatura en Economía?,"Los graduados de la Licenciatura en Economía de la Universidad de San Andrés pueden desempeñarse en diversos roles profesionales, tales como:
+
+- **Analistas y diseñadores de estrategias** en empresas, bancos, organismos internacionales y gobiernos.
+- **Emprendedores** en los campos de la tecnología, servicios, finanzas, agroindustria y consultoría.
+- **Asesores económicos y financieros**.
+- **Especialistas en análisis de Big Data** y economía de la información.
+- **Investigadores** en economía aplicada y desarrollo de modelos predictivos.
+- **Consultores** en diseño e implementación de estrategias de negocios.
+
+Estos roles les permiten aplicar los conocimientos adquiridos durante la carrera para generar impacto en diversas áreas y contribuir a la creación de políticas públicas y propuestas institucionales.","Pueden desempeñarse como **analistas y diseñadores de estrategias en empresas, bancos, organismos internacionales y gobiernos**, **emprendedores**, **asesores económico-financieros**, y **especialistas en análisis de Big Data y Economía de la Información** .",1.0,0.7551526427268982,0.8625909686088562,0.805304229259491
+6,¿Qué busca la Licenciatura en Ciencia Política y Gobierno para sus estudiantes?,"La Licenciatura en Ciencia Política y Gobierno de la Universidad de San Andrés busca formar profesionales con las siguientes habilidades y competencias:
+
+1. **Desarrollo de habilidades analíticas**: Los estudiantes aprenden a abordar situaciones complejas que involucran múltiples actores e intereses, desarrollando un pensamiento crítico, estratégico e interdisciplinario.
+
+2. **Solución de problemas**: La carrera capacita a los alumnos para diseñar y evaluar políticas públicas, encontrar soluciones creativas y cooperativas para problemas políticos y gestionar estrategias efectivas.
+
+3. **Acercamiento interdisciplinario**: Los estudiantes adquieren conocimientos que les permiten comprender la política en su contexto más amplio, integrando aspectos económicos, históricos y sociales.
+
+4. **Compromiso con el bien público**: Se fomenta un fuerte sentido de responsabilidad social, invitando a los graduados a generar cambios positivos en el ámbito público y privado.
+
+5. **Oportunidades profesionales diversas**: La formación permite a los graduados desempeñarse en organismos de gobierno, la sociedad civil, organismos internacionales y el sector privado, en roles como asesores políticos, creadores de políticas públicas, funcionarios de gobierno, consultores y docentes.
+
+En esencia, la carrera busca preparar a sus estudiantes para que puedan contribuir efectivamente a la transformación social y política a través del diseño e implementación de políticas públicas que mejoren la calidad de vida de los ciudadanos.","Busca que conozcan en profundidad y de forma práctica la **complejidad de las realidades y los sistemas políticos**, y que aprendan a transformar positivamente los gobiernos, instituciones, corporaciones y la sociedad civil .",1.0,0.6322492957115173,0.7181123495101929,0.6724510192871094
+6,¿Qué implica saber de política en el contexto de esta Licenciatura?,"Saber de política en el contexto de la Licenciatura en Ciencia Política y Gobierno de la Universidad de San Andrés implica desarrollar habilidades clave que te permitan:
+
+1. **Pensamiento crítico y estratégico**: Aprenderás a analizar y abordar situaciones complejas, considerando una variedad de actores e intereses en juego, así como a proponer soluciones creativas y cooperativas.
+
+2. **Entendimiento de la política como herramienta de transformación**: La política se estudia como un medio para generar cambios sociales positivos. Los graduados son capaces de diseñar, implementar y evaluar políticas públicas que impacten en diferentes niveles, desde lo local hasta lo global.
+
+3. **Interdisciplinariedad**: Se abordan las interconexiones entre política, economía, historia y relaciones internacionales, lo que permite obtener una comprensión más amplia de los fenómenos políticos.
+
+4. **Desarrollo profesional**: Los egresados pueden desempeñarse en organismos de gobierno, organizaciones de la sociedad civil, empresas, ONGs y en la docencia, entre otros ámbitos. Esto incluye roles como asesores políticos, creadores de políticas públicas, investigadores y consultores en el sector privado.
+
+5. **Compromiso social**: Se busca fomentar un fuerte compromiso con la generación de políticas que mejoren la calidad de vida de la población, entendiendo las realidades y sistemas políticos en profundidad.
+
+Esta formación te prepara para influir positivamente en la sociedad y contribuir a la resolución de problemas públicos de manera efectiva.","Saber de política implica ir más allá de la política, siendo fundamental **saber cómo funciona la economía y la sociedad**, el país y el mundo, por lo que la política dialoga con disciplinas como la Economía, la Historia y las Relaciones Internacionales .",1.0,0.6303486227989197,0.7438219785690308,0.6824002265930176
+6,¿Qué materias de fundamentos se cursan en el primer año de la Licenciatura en Ciencia Política y Gobierno?,"En el primer año de la Licenciatura en Ciencia Política y Gobierno, se cursan las siguientes materias de fundamentos:
+
+### 1° Semestre
+- Política (*F)
+- Escritura y Oratoria
+- Electiva de Historia
+- Economía I
+
+### 2° Semestre
+- Derechos Fundamentales
+- Ciencias
+- Fundamentos Matemáticos I
+- Electiva de Literatura
+
+Estas materias están diseñadas para ofrecer una formación integral y flexible, preparando a los estudiantes para abordar diversas problemáticas políticas.","En el primer año se cursan **Política**, **Escritura y Oratoria**, **Electiva Historia**, **Economía I**, **Derechos Fundamentales**, **Ciencias**, **Fundamentos Matemáticos I** y **Electiva Literatura** [58, 59].",1.0,0.7281044125556946,0.740372896194458,0.7341874241828918
+6,¿En qué ámbitos pueden desempeñarse los graduados de Ciencia Política y Gobierno para resolver problemas públicos?,"Los graduados de la Licenciatura en Ciencia Política y Gobierno de la Universidad de San Andrés pueden desempeñarse en una variedad de ámbitos para abordar problemas públicos, incluyendo:
+
+1. **Organismos de Gobierno**: Pueden trabajar en la administración pública, diseñando e implementando políticas públicas.
+
+2. **Sociedad Civil**: Los graduados pueden formar parte de organizaciones no gubernamentales, donde se dedican a promover cambios sociales y políticas de desarrollo.
+
+3. **Consultorías**: En el sector privado, pueden dedicar su labor a la consultoría, analizando y proponiendo soluciones a problemas en áreas económicas y políticas.
+
+4. **Investigación y Docencia**: También es posible que se desempeñen en el ámbito académico, ya sea como investigadores o docentes en instituciones educativas.
+
+5. **Organizaciones Internacionales**: Tienen la oportunidad de trabajar en organismos multilaterales, abordando temas transnacionales como políticas económicas, sociales y ambientales.
+
+6. **Comunicación y Relaciones Institucionales**: Pueden involucrarse en áreas de comunicación y estrategia dentro de empresas y organizaciones.
+
+7. **Periodismo**: Algunos graduados optan por el periodismo, analizando y reportando sobre temas políticos y sociales.
+
+En todos estos ámbitos, los graduados utilizan sus habilidades analíticas, estratégicas y críticas para contribuir a la resolución de problemas complejos en la esfera pública.","Los graduados pueden desempeñarse en **organismos de gobierno**, de la **sociedad civil** y **organizaciones multilaterales** que se ocupan de temáticas políticas, económicas, sociales, educativas, sanitarias y ambientales .",1.0,0.6702132225036621,0.8001686930656433,0.7294480204582214
+6,¿Qué habilidades desarrolla la Licenciatura en Ciencia Política y Gobierno en sus estudiantes?,"La Licenciatura en Ciencia Política y Gobierno en la Universidad de San Andrés (UdeSA) permite a los estudiantes desarrollar las siguientes habilidades:
+
+1. **Pensamiento Estratégico y Crítico**: Fomenta un enfoque analítico para abordar situaciones complejas.
+   
+2. **Capacidades Analíticas**: Entrenamiento para la comprensión y resolución de problemas políticos, considerando la multiplicidad de actores e intereses en competencia.
+
+3. **Soluciones Creativas y Cooperativas**: Aprendizaje en la generación de propuestas innovadoras para la resolución de problemas públicos.
+
+4. **Diseño y Evaluación de Políticas Públicas**: Formación para formular, implementar y evaluar políticas con impacto social.
+
+5. **Interdisciplinariedad**: Integración de conocimientos de diversas disciplinas como economía, historia y relaciones internacionales.
+
+6. **Compromiso Público**: Desarrollo de una conciencia social y habilidades para generar cambios positivos en la sociedad.
+
+Estas habilidades preparan a los graduados para desempeñarse en diversas áreas, incluyendo organismos de gobierno, organizaciones de la sociedad civil, instituciones académicas y el sector privado.","Desarrolla habilidades de **pensamiento estratégico, crítico e interdisciplinario**, entrenando capacidades analíticas para abordar situaciones complejas y encontrar **soluciones creativas y cooperativas** para problemas políticos .",1.0,0.6711156964302063,0.7717440128326416,0.7179208397865295
+6,¿Cuál es el enfoque de aprendizaje propuesto por la Licenciatura en Diseño?,"La Licenciatura en Diseño de la Universidad de San Andrés propone un enfoque de aprendizaje basado en hacer y experimentar, en contacto con diversas disciplinas como la tecnología, las humanidades y los negocios. Este enfoque busca abordar desafíos y problemáticas del mundo real, promoviendo la creación de productos, servicios y experiencias que impacten positivamente en las personas y el ambiente.
+
+Se caracteriza por:
+
+- **Métodos de Aprendizaje Activo**: Se prioriza el aprendizaje mediante la experimentación directa y la resolución de problemas.
+- **Interdisciplinariedad**: Los estudiantes interactúan con distintas áreas del conocimiento, lo que les permite desarrollar un enfoque amplio y contextualizado.
+- **Trabajo Colaborativo**: Se fomenta el trabajo en equipo y el coworking para la ideación y solución de problemas.
+- **Conciencia de Sostenibilidad**: Se aborda la sostenibilidad desde los ejes de ambiente, negocio y sociedad, para pensar en futuros deseables.
+  
+Este enfoque está diseñado para formar profesionales creativos, críticos y comprometidos con la transformación social y ambiental.","La Licenciatura en Diseño propone un **aprendizaje basado en hacer y experimentar**, en contacto con otras disciplinas como la tecnología, las humanidades y los negocios, abordando desafíos y problemáticas del mundo real .",1.0,0.7027990818023682,0.8686152100563049,0.7769586443901062
+6,¿Cuál es la modalidad de trabajo esencial en los espacios dedicados para la carrera de Diseño en UdeSA?,"La modalidad de trabajo esencial en los espacios dedicados para la carrera de Diseño en UdeSA es ""Hands On"" (manos a la obra) y se basa en el trabajo colaborativo. Esto implica un aprendizaje activo donde las ideas se concretan y la materia se transforma, fomentando la ideación y problematización de la disciplina tanto dentro como fuera del aula. Además, se cuenta con laboratorios de última generación que permiten experimentar con diversos materiales y herramientas, favoreciendo un enfoque práctico y creativo.",La modalidad **Hands On (manos a la obra)** y de **trabajo colaborativo** es considerada la esencia de la carrera de Diseño en sus espacios dedicados .,1.0,0.6879108548164368,0.7806931138038635,0.7313711047172546
+6,¿Qué tipos de laboratorios de última generación tiene la Licenciatura en Diseño?,"La Licenciatura en Diseño de la Universidad de San Andrés cuenta con **laboratorios de última generación** que permiten a los estudiantes experimentar con diversos materiales y herramientas. Estos laboratorios facilitan el trabajo en entornos reales y virtuales, lo que incluye la utilización de herramientas del mundo digital y la exploración de imágenes fijas y en movimiento. Además, se fomenta una metodología de aprendizaje ""Hands On"" (manos a la obra), lo que propicia la colaboración y la ideación en el proceso de diseño. 
+
+Si necesitas más información, no dudes en preguntar.","Cuenta con laboratorios donde es posible **experimentar, en todas las escalas, con diversos materiales, con herramientas del mundo digital y con imágenes fijas y en movimiento, en entornos reales y virtuales** .",1.0,0.7117122411727905,0.8329076766967773,0.767555296421051
+6,¿Qué ejes temáticos generales pueden elegir los estudiantes en las materias optativas de la Licenciatura en Diseño?,"Los estudiantes de la Licenciatura en Diseño pueden elegir materias optativas basadas en los siguientes ejes temáticos generales:
+
+1. **Negocios disruptivos**
+2. **Tecnologías emergentes**
+3. **Transformaciones culturales**
+4. **Ciencias aplicadas**
+
+Las materias optativas deben ser seleccionadas en consulta con la dirección de la carrera.","Los ejes temáticos generales son **Negocios disruptivos**, **Tecnologías emergentes**, **Transformaciones culturales** y **Ciencias Aplicadas** [64, 65].",1.0,0.7604736089706421,0.831700325012207,0.7944937944412231
+6,¿Qué tipo de impacto buscan generar los graduados de Diseño?,"Los graduados de Diseño de la Universidad de San Andrés buscan generar un impacto positivo en su entorno a través del desarrollo de productos, servicios y experiencias centradas en las personas y el medio ambiente. Se enfocan en anticipar deseos y conductas emergentes, diseñando soluciones que tengan un efecto transformador y sostenible. 
+
+Además, se preparan para ser agentes de cambio en diversas áreas, incluyendo la industria cultural, audiovisual y digital, abordando problemáticas reales con una visión creativa y transformadora. Su formación les permite liderar proyectos de innovación, desarrollar nuevos modelos de negocio y trabajar en la intersección de diferentes disciplinas, priorizando siempre una huella positiva sobre el ambiente.","Los graduados buscan **impactar positivamente en el ambiente** y en el marco de un negocio rentable, priorizando una **huella positiva sobre el ambiente** .",1.0,0.7031222581863403,0.7745839953422546,0.7371252179145813
+6,¿Qué diferencia hay entre la Licenciatura en Economía y la Licenciatura en Economía Empresarial?,"La principal diferencia entre la **Licenciatura en Economía** y la **Licenciatura en Economía Empresarial** en la Universidad de San Andrés (UdeSA) radica en su enfoque y aplicación:
+
+1. **Licenciatura en Economía**:
+   - **Enfoque**: Analiza temas como la inflación, crisis financieras, y desigualdades sociales, buscando comprender y proponer políticas económicas para abordar estas problemáticas.
+   - **Objetivo**: Formación teórica sólida en micro y macroeconomía, métodos cuantitativos y análisis económico.
+   - **Oportunidades profesionales**: Se orienta a formar analistas económicos, emprendedores innovadores, y académicos en economía.
+
+2. **Licenciatura en Economía Empresarial**:
+   - **Enfoque**: Integra teoría económica con un enfoque práctico orientado a los negocios, preparando a los estudiantes para resolver desafíos en organizaciones y empresas.
+   - **Objetivo**: Proporcionar herramientas prácticas y analíticas para la toma de decisiones estratégicas en contextos organizacionales.
+   - **Oportunidades profesionales**: Se focaliza en roles como analistas en finanzas y mercados, consultores de estrategia empresarial y gestores de proyectos.
+
+Ambas carreras comparten un tronco común en formación teórica, pero la Economía Empresarial está más orientada a la aplicación práctica en entornos empresariales y organizacionales.","La Licenciatura en Economía Empresarial integra los contenidos teóricos de la Licenciatura en Economía, pero su componente práctico está **orientado a la aplicación en el ámbito de los negocios y organizaciones** .",1.0,0.6518802642822266,0.7877398133277893,0.7133994102478027
+6,¿Qué habilidades se desarrollan en el ciclo de Finanzas de la carrera de Economía Empresarial?,"En el ciclo de Finanzas de la carrera de Economía Empresarial en la Universidad de San Andrés, se desarrollan diversas habilidades clave que permiten a los estudiantes optimizar recursos y tomar decisiones estratégicas en un entorno dinámico. Algunas de las habilidades incluyen:
+
+1. **Finanzas Corporativas**: Capacidad para gestionar y evaluar la situación financiera de las empresas.
+2. **Análisis de Mercados**: Habilidad para estudiar y entender las tendencias del mercado y su impacto en las decisiones empresariales.
+3. **Evaluación de Proyectos**: Competencia para analizar la viabilidad y rentabilidad de distintos proyectos empresariales.
+4. **Toma de Decisiones Estratégicas**: Aptitud para tomar decisiones informadas en relación con la financiación y inversión.
+5. **Planificación Financiera**: Capacidad para diseñar planes financieros que alineen los recursos con los objetivos empresariales.
+
+Este enfoque integral proporciona a los graduados las herramientas necesarias para desarrollarse en roles como analistas financieros, consultores en estrategia empresarial y gestores de proyectos.","Se desarrollan habilidades en **finanzas corporativas, análisis de mercados y evaluación de proyectos**, esenciales para optimizar recursos y liderar decisiones estratégicas .",1.0,0.676376461982727,0.7838066220283508,0.726139485836029
+6,¿Qué materias forman parte del ciclo de Economía en el plan de estudios de Economía Empresarial?,"La Licenciatura en Economía Empresarial de la Universidad de San Andrés integra un tronco común con la Licenciatura en Economía, lo que incluye una sólida formación teórica en micro y macroeconomía, métodos cuantitativos y análisis económico. Además, se enfoca en:
+
+1. **Finanzas aplicadas a empresas**: Habilidades en finanzas corporativas, análisis de mercados y evaluación de proyectos.
+2. **Economía práctica para negocios**: Aplicación de conocimientos económicos en organizaciones, diseño de estrategias y evaluación de políticas.
+
+Si necesitas una lista específica de materias o asignaturas, puede que necesite buscar más detalladamente esa información. ¿Te gustaría que haga eso?","Forman parte las materias **Microeconomía I**, **Macroeconomía I**, **Microeconomía II** y **Organización Industrial** .",0.0,0.6071332693099976,0.7195955514907837,0.6585978865623474
+6,¿En qué roles profesionales se pueden desempeñar los graduados de Economía Empresarial?,"Los graduados de la Licenciatura en Economía Empresarial de la Universidad de San Andrés pueden desempeñarse en diversos roles profesionales, entre ellos:
+
+- Especialista en planificación estratégica y gestión organizacional.
+- Analista económico-financiero en empresas, gobiernos y organismos internacionales.
+- Consultor en diseño e implementación de estrategias de negocios.
+- Gestor de proyectos e inversiones en sectores públicos y privados.
+- Profesional en análisis de mercados, evaluación de políticas económicas y optimización de recursos.
+- Investigador en economía aplicada y desarrollo de modelos predictivos.
+
+Estos roles permiten a los graduados aplicar su sólido conocimiento en economía, negocios y finanzas para enfrentar desafíos organizacionales en un entorno dinámico.","Pueden desempeñarse como **especialistas en planificación estratégica y gestión organizacional**, **analistas económico-financieros**, **consultores en diseño e implementación de estrategias de negocios**, **gestores de proyectos e inversiones**, y **profesionales en análisis de mercados** .",1.0,0.7575596570968628,0.8059267401695251,0.7809951305389404
+6,¿Qué busca un estudiante ideal para la Licenciatura en Economía Empresarial?,"Un estudiante ideal para la Licenciatura en Economía Empresarial de la Universidad de San Andrés se caracteriza por:
+
+1. **Orientación analítica y estratégica**: Debe tener un enfoque marcado en el análisis de datos y la formulación de estrategias para resolver desafíos organizacionales.
+
+2. **Interés en la economía aplicada**: Buscan aplicar conceptos económicos para enfrentar problemas en negocios y organizaciones, tanto a nivel nacional como internacional.
+
+3. **Deseo de adquirir herramientas prácticas y teóricas**: Quieren un programa que combine rigor económico con enfoques prácticos en negocios y finanzas, que les permita tomar decisiones informadas.
+
+4. **Aspiration a roles profesionales diversos**: Se preparan para desempeñarse en roles como analistas económicos, consultores en estrategias empresariales, gestores de recursos, e innovadores en el ámbito empresarial.
+
+5. **Capacidad para liderar y gestionar**: Busca desarrollar habilidades en planificación estratégica y gestión organizacional, además de ser capaces de evaluar políticas organizativas y innovar en prácticas empresariales.
+
+En resumen, el estudiante ideal muestra un fuerte interés en la economía y su aplicación en el mundo empresarial, con una mentalidad crítica y una capacidad de adaptación a un entorno dinámico.","Un estudiante ideal busca un programa que **integre la rigurosidad económica con herramientas prácticas y analíticas de los negocios y las finanzas**, para enfrentar desafíos organizacionales en ámbitos nacionales e internacionales .",1.0,0.672200083732605,0.7932947278022766,0.7277442812919617
+6,¿Qué tipo de modelo de enseñanza propone la Licenciatura en Ciencias de la Educación?,"La Licenciatura en Ciencias de la Educación de la Universidad de San Andrés propone un modelo de enseñanza innovador y propositivo. Este modelo se basa en:
+
+- **Trabajos por proyectos**
+- **Uso de la tecnología**
+- **Actividades de investigación-acción**
+- **Resolución de problemas**
+- **Espacios de comunicación y colaboración**
+- **Tutorías**
+- **Talleres de lectura y estudio**
+
+Este enfoque busca fomentar no solo el aprendizaje teórico, sino también desarrollar habilidades prácticas y colaborativas, permitiendo a los estudiantes tener una visión crítica y transformadora de la educación y la sociedad. La carrera está diseñada para formar educadores innovadores y profesionales comprometidos con el desarrollo de políticas educativas que impacten positivamente en la comunidad.","Propone un modelo de enseñanza **innovador y propositivo basado en trabajos por proyectos, uso de la tecnología, actividades de investigación-acción, resolución de problemas, espacios de comunicación y colaboración, tutorías, y talleres de lectura y estudio** .",1.0,0.7101411819458008,0.8193440437316895,0.7608441114425659
+6,¿Cuáles son los ejes de la formación específica en Ciencias de la Educación?,"Los ejes de la formación específica en la Licenciatura en Ciencias de la Educación en la Universidad de San Andrés son:
+
+1. **Escuela**: Se centra en la profundización en la escuela como objeto de análisis y posibles intervenciones. Los estudiantes abordan asignaturas como Teorías de la enseñanza, Psicología de la Educación y Evaluación de los aprendizajes.
+
+2. **Política educativa**: Este eje aborda las definiciones del sistema educativo, la complejidad y su impacto en las prácticas educativas. Los cursos incluyen Política educativa y Planeamiento de los sistemas y las instituciones educativas.
+
+3. **Investigación en educación**: Permite a los estudiantes profundizar en la investigación educativa para realizar aportes significativos en el campo. Las asignaturas incluyen Investigación Educativa y Educación comparada.
+
+Estos ejes buscan proporcionar una formación integral y comprometida con el campo educativo, preparando a los estudiantes para afrontar los desafíos actuales.","Los ejes de la formación específica son la **Escuela**, la **Política educativa** y la **Investigación en educación** [73-75].",1.0,0.668016791343689,0.7821780443191528,0.7206040024757385
+6,"¿Qué asignaturas se cursan en el eje de ""Escuela"" dentro de la formación específica?","En el eje de ""Escuela"" dentro de la formación específica de la Licenciatura en Ciencias de la Educación en la Universidad de San Andrés, se cursan asignaturas como:
+
+- Teorías de la enseñanza
+- Psicología de la Educación
+- Evaluación de los aprendizajes
+- Diseñar el futuro de la Educación
+- Tecnología y Cambio Educativo
+
+Este eje busca profundizar en la escuela como objeto de análisis y posibles intervenciones, problematizando su funcionamiento y diseñando propuestas educativas. Si necesitas más detalles sobre cada asignatura o su contenido, no dudes en preguntar.","Los estudiantes que profundizan en este eje cursan asignaturas como **Teorías de la enseñanza**, **Psicología de la Educación**, **Evaluación de los aprendizajes**, **Diseñar el futuro de la Educación**, y **Tecnología y Cambio Educativo** .",1.0,0.7556085586547852,0.8040918111801147,0.7790966033935547
+6,¿Qué se requiere para la obtención del título de Licenciado/a en Ciencias de la Educación?,"Para obtener el título de **Licenciado/a en Ciencias de la Educación** en la Universidad de San Andrés (UdeSA), se requieren los siguientes elementos:
+
+1. **Aprobación de Materias**: Completar el plan de estudios que incluye un conjunto de asignaturas teóricas y prácticas distribuidas a lo largo de los cuatro años de la carrera.
+
+2. **Trabajo de Graduación**: Elaborar y defender un trabajo de graduación al final de la carrera.
+
+3. **Prácticas Profesionales**: Participar en experiencias en ámbitos laborales, que permiten aplicar los conocimientos y habilidades adquiridas.
+
+La carrera se centra en un modelo educativo que combina aspectos teóricos con una fuerte orientación práctica, incluyendo investigaciones y análisis crítico de la educación y las políticas educativas. 
+
+Si te interesa conocer más sobre el plan de estudios específico o cualquier otro detalle, no dudes en preguntar.","Para la obtención del título de Licenciado/a en Ciencias de la Educación, se requiere la **elaboración de un Trabajo de Graduación** .",1.0,0.6590767502784729,0.8305372595787048,0.7349390983581543
+6,¿En qué roles pueden desempeñarse los graduados de Ciencias de la Educación?,"Los graduados de la Licenciatura en Ciencias de la Educación pueden desempeñarse en una variedad de roles, que incluyen:
+
+1. **Educadores Innovadores**: Diseñan y aplican metodologías educativas modernas y efectivas.
+2. **Asesores Educativos**: Orientan en procesos de enseñanza y aprendizaje para diversas modalidades educativas (formal, no formal, presencial y a distancia).
+3. **Diseñadores de Gestión Educativa**: Crean modelos y programas de gestión para instituciones educativas.
+4. **Consultores**: Asesoran en políticas educativas en organismos gubernamentales y ONGs.
+5. **Consejeros en Políticas Educativas**: Participan en la formulación de normativas y estrategias culturales y educativas.
+6. **Asistentes Psicopedagógicos**: Trabajan en instituciones educativas y comunitarias para brindar apoyo en el proceso de enseñanza-aprendizaje.
+7. **Investigadores en Educación**: Desarrollan y evalúan proyectos y programas de investigación educativa.
+8. **Capacitadores en Empresas**: Diseñan y evalúan programas de formación y capacitación para el desarrollo de recursos humanos.
+
+Estas funciones permiten a los graduados contribuir de manera significativa a la mejora y transformación del ámbito educativo y social.","Pueden ser **educadores innovadores**, **asesores en procesos de enseñanza y aprendizaje**, **diseñadores y desarrolladores de modelos de gestión educativa**, **consultores en áreas de gobierno y ONGs**, **consejeros en la formulación de políticas educativas y culturales**, y **asistentes psicopedagógicos** [77, 78].",1.0,0.7132929563522339,0.7925717830657959,0.7508454918861389
+6,¿Cuál es el propósito del plan de estudios del Profesorado en Educación Primaria?,"El plan de estudios del Profesorado en Educación Primaria de la Universidad de San Andrés tiene como propósito formar docentes comprometidos y académicamente rigurosos, capaces de transformar la vida de las personas a través de la educación. La carrera busca:
+
+1. **Formar profesionales interdisciplinarios**: Actualizando constantemente sus contenidos a los últimos avances de la disciplina, preparando a los estudiantes para enfrentar los desafíos educativos actuales.
+   
+2. **Fomentar la innovación en la enseñanza**: Incorporando herramientas tecnológicas y digitales en la práctica educativa para generar experiencias de aprendizaje significativas.
+
+3. **Desarrollar una comprensión amplia de las disciplinas**: Dando un sólido fundamento en áreas como la literatura, matemáticas, ciencias, historia, filosofía y otras, para que los futuros docentes tengan una base sólida en diferentes campos del conocimiento.
+
+4. **Impulsar la reflexión y la investigación**: Preparando a los estudiantes para ser investigadores en el aula, reflexionando sobre su propia práctica docente y los métodos de enseñanza.
+
+5. **Enfocarse en la práctica profesional**: A través de una red de escuelas donde los alumnos pueden realizar prácticas, aprender de docentes experimentados y comprender los desafíos reales del aula.
+
+Este objetivo integral busca preparar a los estudiantes no solo para enseñar, sino para ser agentes de cambio que contribuyan a formar ciudadanos críticos y comprometidos con su realidad.","El plan de estudios del Profesorado en Educación Primaria brinda una experiencia integral, interdisciplinaria e innovadora, actualizando constantemente sus contenidos a los últimos avances de la disciplina, para formar **profesionales disruptivos y en sintonía con las nuevas tendencias** .",1.0,0.6599088907241821,0.789306640625,0.7188308835029602
+6,¿Qué tipo de estudiantes es ideal para el Profesorado en Educación Primaria?,,"Es para estudiantes **apasionados por la enseñanza**, con inclinación hacia las humanidades, que les preocupa el desarrollo social, político y educativo, empáticas y, sobre todo, que creen que la educación es una herramienta poderosa para cambiar el mundo .",0.0,0.0,0.0,0.0
+6,¿Qué aptitudes o capacidades tendrán los graduados del Profesorado en Educación Primaria?,"Los graduados del Profesorado en Educación Primaria tendrán las siguientes aptitudes y capacidades:
+
+1. **Compromiso con la enseñanza**: Serán docentes comprometidos con su práctica educativa y con la formación integral de los estudiantes.
+
+2. **Transformación educativa**: Tendrán la capacidad de transformar la vida de las personas a través de la educación, fomentando un aprendizaje significativo.
+
+3. **Análisis pedagógico**: Serán pedagogos capaces de analizar y adaptar los procesos de enseñanza a los nuevos desafíos del contexto educativo.
+
+4. **Uso de tecnologías**: Estarán familiarizados con herramientas tecnológicas y digitales, lo que les permitirá innovar en sus prácticas de enseñanza.
+
+5. **Investigadores en el aula**: Tendrán habilidades para reflexionar e investigar sobre lo que funciona en el proceso de enseñanza-aprendizaje, contribuyendo al desarrollo de metodologías efectivas.
+
+6. **Trabajo en equipo**: Desarrollarán habilidades para trabajar colaborativamente con colegas y en equipos multidisciplinarios.
+
+7. **Empatía y sensibilidad social**: Serán estudiantes con una profunda empatía, sensibilizados ante las problemáticas sociales, educativas y políticas que impactan en la comunidad escolar.
+
+8. **Pensamiento crítico**: Fomentarán un pensamiento crítico en sus alumnos, ayudándolos a convertirse en ciudadanos reflexivos y activos.
+
+Estas capacidades los prepararán para enfrentar los desafíos que presenta la educación primaria y para contribuir positivamente al desarrollo de sus alumnos y la comunidad educativa.","Los graduados serán **docentes con aptitudes para transformar la vida de las personas** y **pedagogos capaces de analizar y adaptar procesos de enseñanza a los nuevos desafíos** . Además, tendrán las herramientas necesarias para generar **experiencias de aprendizaje significativas**  y para formar **ciudadanos pensantes y críticos de la realidad** .",1.0,0.6884193420410156,0.811375081539154,0.7448570728302002
+6,¿Cuáles son los ejes fundamentales del Profesorado en Educación Primaria?,"El Profesorado en Educación Primaria de la Universidad de San Andrés (UdeSA) se basa en tres ejes fundamentales:
+
+1. **Comprensión Intelectual de las Disciplinas**: Los estudiantes adquieren un amplio conocimiento en las diversas áreas de las humanidades y ciencias, como literatura, matemáticas, ciencias, historia, filosofía, arte, tecnología y más. Esto les proporciona una base sólida para la enseñanza en el aula.
+
+2. **Investigación**: Se fomenta la capacidad de los futuros docentes para convertirse en investigadores en el aula, aprendiendo a adaptarse y reflexionar sobre los métodos de enseñanza y los avances científicos en educación. Esto implica desarrollar habilidades críticas y analíticas sobre cómo aprenden los alumnos.
+
+3. **Práctica Profesional**: Los estudiantes realizan prácticas en escuelas dentro de la red de UdeSA, donde pueden aprender directamente de maestros en ejercicio. Este eje enfatiza la importancia de la experiencia práctica en contextos educativos reales.
+
+Estos ejes están estructurados para preparar a los alumnos para enfrentar los desafíos de la educación y contribuir de manera significativa a la formación de las futuras generaciones.","Los ejes de la carrera incluyen la **comprensión intelectual de las disciplinas** (formación en literatura, matemática, ciencias, historia, filosofía, artes, tecnología, economía, psicología, política y oratoria) , la **investigación** (formación para ser un/a investigador/a en el aula, reflexionando sobre lo que funciona y cómo avanza la ciencia) , y la **práctica profesional** (mucha práctica en escuelas y la clínica de clases para repensar la enseñanza en contextos reales) .",1.0,0.6764432787895203,0.7407909631729126,0.7071563005447388
+6,¿Qué se requiere para obtener el título de Profesor/a en Educación Primaria?,"Para obtener el título de Profesor/a en Educación Primaria en la Universidad de San Andrés, se requiere:
+
+1. **Cumplimiento del Plan de Estudios**: Completando todas las materias del plan de estudios, que incluye una variedad de asignaturas en pedagogía, didáctica, psicología, sociología de la educación, entre otros. El programa está diseñado para brindar una formación integral y práctica.
+
+2. **Residencia Docente**: Realizar la asignatura obligatoria llamada ""Resiencia Docente"" (APRE IV), que implica una práctica en escuelas y una reflexión sobre la práctica educativa.
+
+La carrera está estructurada en distintos ciclos que proporcionan una formación interdisciplinaria, con enfoques en la teoría y la práctica educativa. 
+
+Si necesitas más información o detalles específicos sobre las materias, no dudes en preguntar.","Para la obtención del título de Profesor/a en Educación Primaria, se requiere la realización de la asignatura **APRE IV: Residencia Docente** .",1.0,0.6663581132888794,0.8256579637527466,0.7375039458274841
+6,¿Qué tipo de habilidades desarrolla la Licenciatura en Relaciones Internacionales?,"La Licenciatura en Relaciones Internacionales en la Universidad de San Andrés desarrolla diversas habilidades en sus estudiantes, tales como:
+
+- **Habilidades analíticas**: Capacidad para interpretar y analizar la complejidad de la realidad política internacional.
+- **Competencias interpersonales**: Interacción y comunicación en contextos internacionales, lo que incluye habilidades en debate y argumentación.
+- **Conocimientos técnicos**: Comprensión de temas centrales como política exterior, comercio internacional, derecho internacional y seguridad global.
+- **Pensamiento crítico**: Evaluación de problemas contemporáneos como el cambio climático, migraciones, desigualdades y conflictos internacionales.
+- **Investigación**: Capacidades en diseño y métodos de investigación aplicables a la política y relaciones internacionales.
+
+Estas habilidades permiten a los graduados desempeñarse en áreas como diplomacia, consultoría en política internacional, activismo en sectores humanitarios, y en organizaciones no gubernamentales, entre otros.",La Licenciatura entrena **habilidades analíticas** y forma profesionales capacitados para **analizar una realidad política internacional compleja** . Se busca un programa actualizado que desarrolle **habilidades técnicas e interpersonales** para influir positivamente a nivel global .,1.0,0.6884247660636902,0.7585822939872742,0.7218027114868164
+6,¿Quiénes son los estudiantes ideales para la Licenciatura en Relaciones Internacionales?,"La **Licenciatura en Relaciones Internacionales** de la Universidad de San Andrés se centra en formar profesionales capacitados para analizar la complejidad de la realidad política internacional. A través de un plan de estudios integral, los estudiantes desarrollan habilidades analíticas en áreas cruciales como política exterior, seguridad, comercio internacional, derecho internacional público y globalización.
+
+### Descripción de la Carrera:
+- **Habilidades Analíticas**: Se entrena a los estudiantes para abordar y analizar problemas internacionales contemporáneos.
+- **Interés en Contextos Globales**: Se busca formar estudiantes curiosos, interesados en debatir y comprometidos con la realidad del país y el mundo.
+- **Enfoque en Problemáticas Actuales**: Los estudiantes exploran temáticas como el cambio climático, las migraciones y la desigualdad.
+
+### Estudiantes Ideales:
+Los estudiantes ideales para esta carrera poseen características y habilidades como:
+1. **Curiosidad Intelectual**: Tienen un interés genuino por entender el mundo que los rodea y desean profundizar en cuestiones internacionales.
+2. **Habilidades de Comunicación**: Disfrutan del debate, pueden expresar sus ideas de forma clara y persuasiva, tanto en forma escrita como oral.
+3. **Compromiso Social**: Están comprometidos con problemáticas sociales y globales; desean hacer una diferencia en la sociedad.
+4. **Pensamiento Crítico**: Pueden analizar diferentes argumentos y puntos de vista, reflexionando sobre ellos de manera autónoma.
+5. **Capacidad de Interacción**: Se sienten cómodos trabajando en equipo y tienen habilidades interpersonales para colaborar con personas de diversas culturas y orígenes.
+
+### Futuras Oportunidades:
+Los graduados están preparados para desempeñarse en roles como diplomáticos, consultores en política internacional, activistas en sectores humanitarios y medioambientales, así como asesores de gobierno y en organizaciones no gubernamentales (ONGs).
+
+En conclusión, los estudiantes que se involucren en la Licenciatura en Relaciones Internacionales encontrarán un espacio para explorar su interés en el mundo, adquirir habilidades técnicas y desarrollar una carrera que impacte a nivel global.","Es para estudiantes **curiosos**, que les gusta debatir y están interesados y comprometidos con la realidad del país y del mundo; que se sienten interpelados por las problemáticas internacionales contemporáneas, como el cambio climático, las migraciones, la desigualdad, el conflicto y la cooperación internacional, y mucho más .",1.0,0.65022873878479,0.8000457286834717,0.717399001121521
+6,¿En qué áreas pueden desempeñarse los graduados de Relaciones Internacionales?,"Los graduados de la Licenciatura en Relaciones Internacionales de la Universidad de San Andrés pueden desempeñarse en diversas áreas, tales como:
+
+- **Instituciones estatales** encargadas de la administración, diseño e implementación de políticas internacionales.
+- **Empresas globalizadas** que requieren profesionales con una visión internacional.
+- **Organizaciones de la sociedad civil** que persiguen influir en procesos políticos y necesitan diagnósticos globales.
+- **Institutos y centros académicos** dedicados a la docencia, análisis e investigación.
+- **Organizaciones de asesoramiento y consultoría** en temas de opinión pública y diseño de estrategias políticas internacionales.
+- **Diplomacia**, facilitando el manejo de relaciones entre países.
+
+Esta formación integral les brinda a los graduados habilidades analíticas y técnicas que son muy valoradas en el ámbito laboral.","Los graduados pueden trabajar como **diplomáticos**, **consultores en temas de política internacional**, **activistas en sectores humanitarios y medioambiental**, **expertos en el desarrollo de ONGs o fundaciones**, y **asesores políticos y de gobierno** [10, 11]. Además, pueden insertarse en **instituciones estatales** responsables de políticas internacionales, **empresas globalizadas**, **organizaciones de la sociedad civil**, **institutos o centros académicos** dedicados a la docencia e investigación, y **consultoría en opinión pública y estrategias políticas internacionales** [12, 13].",1.0,0.7493625283241272,0.7849584221839905,0.7667475938796997
+6,¿Qué oportunidades de proyección internacional ofrece la Licenciatura en Relaciones Internacionales?,"La Licenciatura en Relaciones Internacionales en la Universidad de San Andrés ofrece diversas oportunidades de proyección internacional que permiten a los estudiantes desarrollarse tanto personal como profesionalmente. Aquí te detallo algunas de ellas:
+
+1. **Intercambios académicos**: UdeSA cuenta con más de 90 convenios de cooperación académica con universidades en el extranjero. Esto permite que más del 35% de los estudiantes participen en intercambios, enriqueciendo su formación con experiencias en contextos internacionales.
+
+2. **Formación integral**: Los graduados de esta carrera están preparados para insertarse rápidamente en el mundo laboral. Pueden trabajar en áreas como instituciones estatales, empresas globalizadas, organizaciones de la sociedad civil, y también en el ámbito académico.
+
+3. **Orientación profesional**: La universidad ofrece un área de Desarrollo Profesional que conecta a estudiantes y graduados con oportunidades laborales relevantes, incluidas posiciones en organismos internacionales y ONG.
+
+4. **Habilidades analíticas**: La carrera forma profesionales capacitados para analizar la complejidad de la política internacional y abordar problemáticas globales, preparándolos para roles como diplomáticos, consultores y asesores en política internacional.
+
+5. **Proyectos internacionales**: Los estudiantes son alentados a participar en proyectos fuera del país, lo que no solo amplía sus horizontes, sino que también fortalece su perfil profesional al integrar experiencias multiculturales en su formación.
+
+En resumen, la Licenciatura en Relaciones Internacionales de UdeSA proporciona a los estudiantes una sólida base para proyectarse internacionalmente, con múltiples opciones que van desde intercambios hasta la posibilidad de desempeñarse en campos globales relevantes.","La Universidad de San Andrés cuenta con **más de 90 convenios de cooperación académica e intercambio con universidades del exterior** para agregar valor a la carrera y formar un perfil con visión global . Más del 35% de los alumnos de la universidad participan de un intercambio como parte integral de su experiencia académica . Los egresados están preparados para desempeñarse profesionalmente fuera del país, en organismos internacionales, organizaciones no gubernamentales o cualquier organización pública o privada que requiera analistas internacionales .",1.0,0.6916245222091675,0.7946330308914185,0.7395591139793396
+6,¿Cuál es el requisito de graduación para la Licenciatura en Relaciones Internacionales?,El requisito de graduación para la Licenciatura en Relaciones Internacionales en la Universidad de San Andrés es la aprobación del trabajo de graduación. Esto implica que los estudiantes deben completar un trabajo final que cumpla con los estándares establecidos por la universidad para poder obtener su título.,El requisito de graduación para la Licenciatura en Relaciones Internacionales es la **aprobación del trabajo de graduación** .,1.0,0.793402910232544,0.8935573697090149,0.8405070900917053
+6,¿Cuál es la propuesta principal de la Licenciatura en Negocios Digitales?,"La **Licenciatura en Negocios Digitales** de la Universidad de San Andrés tiene como propuesta principal formar profesionales que sean capaces de liderar la transformación digital en las empresas y organizaciones. La carrera se enfoca en combinar conocimientos en negocios con habilidades tecnológicas, brindando a los estudiantes herramientas para crear, gestionar y desarrollar nuevos negocios en un entorno digital.
+
+Al graduarte, adquirirás habilidades en áreas como:
+
+- **Liderazgo**: Para actuar como mediador entre ejecutivos y perfiles técnicos.
+- **Pensamiento Estratégico**: Para anticiparte a problemas y generar innovación.
+- **Emprendedorismo**: Para diseñar y gestionar nuevos negocios utilizando tecnología y metodologías innovadoras.
+
+Los egresados podrán desempeñarse en diversos roles, incluyendo Project Manager, Data Analyst, consultores de transformación digital, y emprendedores en el ámbito digital. La propuesta educativa es integral, dinámica y actualizada constantemente para alinearse con las exigencias del mercado laboral.","La carrera forma profesionales para **liderar la transformación digital** a través de la **educación interdisciplinaria, los negocios y la tecnología** . Busca estudiantes curiosos, que entienden que el mundo de los negocios está cambiando y quieren ser protagonistas de ese cambio, con gran interés por el management, las finanzas, los datos y la tecnología .",1.0,0.6622076034545898,0.7306421399116516,0.6947436928749084
+6,¿Qué perfiles profesionales pueden asumir los egresados de Negocios Digitales?,"Los egresados de la Licenciatura en Negocios Digitales de la Universidad de San Andrés pueden asumir diversos perfiles profesionales, tales como:
+
+1. **Project Manager** en empresas digitales o tradicionales.
+2. **Data Analyst** en diversas áreas como Ventas, Marketing, Finanzas y Recursos Humanos.
+3. **Líderes en áreas funcionales** de empresas digitales o tradicionales.
+4. **Emprendedor digital**.
+5. **Líder de transformación digital e innovación**.
+
+Además, los graduados adquieren habilidades en liderazgo, pensamiento estratégico y emprendedurismo, lo que los prepara para generar nuevas organizaciones y crear disrupciones en el mercado. Esto les permite desempeñarse en roles que implican comunicación efectiva entre equipos técnicos y ejecutivos de negocios.","Los egresados pueden ser **emprendedores innovadores**, **expertos en data analytics**, **consultores de transformación digital** en empresas, organizaciones y startups, **consultores de business intelligence**, **especialistas en marketing digital** y **product owners** [19, 20]. Adicionalmente, pueden ocupar roles como Project Manager en empresas digitales o tradicionales, Data Analyst en diversas áreas (ventas, marketing, finanzas, RRHH), líderes funcionales, emprendedores digitales, y líderes de transformación digital e innovación .",1.0,0.7303677797317505,0.7726823687553406,0.7509294748306274
+6,¿Cuáles son los ejes temáticos de la carrera de Negocios Digitales?,"La carrera de Licenciatura en Negocios Digitales en la Universidad de San Andrés se estructura en torno a varios ejes temáticos:
+
+1. **Ciclo de Fundamentos**: Este ciclo proporciona una formación integral en ciencias exactas y humanidades, incluyendo materias como Neurociencias, Filosofía, Historia, Matemáticas, Economía, Derecho, Pensamiento Computacional, Oratoria y Escritura.
+
+2. **Especialización en Negocios**: Aquí se enseñan conceptos avanzados en negocios, management y finanzas, abarcando temas como Fundamentos de Marketing, Análisis e Interpretación de Información Financiera, Estrategia y Modelos de Negocios, Gestión de Recursos Humanos, Emprendedurismo y Creación de Nuevos Negocios.
+
+3. **Especialización en Digital**: Este eje incluye formación en ciencia de datos, programación e inteligencia artificial, y comprende materias como Digital Product Management, Marketing Digital, User Experience (UX) y Data Analytics.
+
+4. **Competencias Interpersonales y Organizacionales**: Se busca desarrollar habilidades para el trabajo colaborativo y el liderazgo, con materias como Liderazgo y Gestión del Talento y Comportamiento Organizacional.
+
+Además, los estudiantes pueden elegir materias optativas organizadas en tracks como Marketing, Finanzas, Datos, Productos Digitales, Innovación y Emprendedurismo, entre otros, para personalizar su formación según sus intereses. 
+
+Estos ejes están diseñados para preparar a los graduados para liderar la transformación digital en diversas áreas dentro del mundo de los negocios.","Los ejes de la carrera son:
+*   El **Ciclo de Fundamentos**, que brinda una formación integral en ciencias exactas y humanidades .
+*   La **Especialización en Negocios**, que expone a los conocimientos más avanzados en management y finanzas para diseñar estrategias disruptivas .
+*   La **Especialización en Digital**, que incorpora conocimientos y herramientas digitales en ciencia de datos, programación e inteligencia artificial .
+*   El desarrollo de **Competencias interpersonales y organizacionales**, para formar profesionales flexibles capaces de trabajar con autonomía y colaborativamente, y desarrollar habilidades de liderazgo y creatividad .",1.0,0.7202174663543701,0.804198145866394,0.7598944902420044
+6,¿Qué habilidades específicas se adquieren al estudiar Negocios Digitales?,"Al estudiar la Licenciatura en Negocios Digitales en la Universidad de San Andrés, adquirirás las siguientes habilidades específicas:
+
+1. **Liderazgo**: Aprenderás a comunicarte eficazmente y a mediar entre diferentes perfiles, tanto técnicos como ejecutivos del mundo de los negocios.
+   
+2. **Pensamiento estratégico**: Desarrollarás la capacidad para anticiparte a problemas y encontrar soluciones innovadoras, así como ser flexible y versátil ante los desafíos en el contexto empresarial.
+
+3. **Emprendedorismo**: Podrás crear nuevas organizaciones y disrupciones en el mercado, además de diseñar y gestionar el desarrollo de nuevos negocios utilizando metodologías y tecnologías innovadoras.
+
+Estas habilidades te prepararán para roles como Project Manager en empresas digitales o tradicionales, Data Analyst en distintas áreas, emprendedor digital, y líder de transformación digital e innovación.","Al graduarse, se habrán adquirido habilidades de:
+*   **Liderazgo**: para impulsar la revolución digital en los negocios y comunicarse eficazmente como mediador entre ejecutivos y perfiles técnicos .
+*   **Pensamiento estratégico**: para anticiparse y superar problemas, y potenciar la flexibilidad y versatilidad ante retos de continuidad e innovación .
+*   **Emprendedorismo**: para generar nuevas organizaciones, crear disrupciones en el mercado, y diseñar, planificar y gestionar el desarrollo de nuevos negocios aplicando tecnología y metodología innovadoras .",1.0,0.783186674118042,0.8415185213088989,0.8113054633140564
+6,¿La Licenciatura en Negocios Digitales ofrece un programa de doble diploma internacional?,"Sí, la Licenciatura en Negocios Digitales de la Universidad de San Andrés ofrece un programa de doble diploma internacional. Los estudiantes tienen la posibilidad de realizar un intercambio de un año en ESCP-Europe, lo que les permite obtener el diploma de Master in Management (MIM). Este programa implica cursar un año en París después de completar la licenciatura en UdeSA, junto con una experiencia laboral y un trabajo de graduación.","Sí, al estudiar Negocios Digitales en San Andrés, se tiene la posibilidad de realizar un intercambio de un año en **ESCP-Europe** y acceder al **diploma de Master in Management (MIM)**. ESCP-Europe es una universidad prestigiosa en Francia, rankeada entre los top 10 programas MIM del mundo. Este doble diploma implica un año de estudios en París luego de obtener la licenciatura en UdeSA, experiencia laboral en administración y la realización del trabajo de graduación .",1.0,0.8639138340950012,0.827174723148346,0.8451452255249023
+6,¿Cuál es el enfoque de la Licenciatura en Ciencias del Comportamiento?,"La Licenciatura en Ciencias del Comportamiento de la Universidad de San Andrés (UdeSA) se centra en el estudio de los factores cognitivos, psicológicos, sociales y culturales que influyen en el comportamiento humano. Esta carrera brinda una formación interdisciplinaria que permite a los graduados trabajar en diversos ámbitos, incluyendo el sector privado, público y social.
+
+### Enfoques principales:
+- **Comprensión del Comportamiento Humano:** La carrera prepara a los estudiantes para analizar y comprender los comportamientos de las personas en diferentes contextos, utilizando herramientas de las ciencias del comportamiento.
+- **Intervenciones Basadas en Evidencia:** Los graduados aprenderán a diseñar y aplicar intervenciones, conocidas como ""nudges"", que buscan modificar comportamientos de manera efectiva.
+- **Investigación y Análisis de Datos:** Se desarrollan habilidades analíticas para medir y predecir comportamientos en áreas como consumo, educación y salud, así como técnicas para comunicar resultados a diferentes audiencias.
+- **Trabajo en Diversos Sectores:** Los egresados pueden trabajar en empresas, ONGs, organismos gubernamentales, así como en investigación científica, aplicando sus conocimientos para influir positivamente en la sociedad y mejorar procesos de toma de decisiones.
+
+Los graduados de esta licenciatura se preparan para ser profesionales innovadores y disruptivos, capaces de adaptarse a un mundo laboral dinámico y complejo.","La carrera se enfoca en analizar los factores que explican cómo las personas e instituciones moldean sus preferencias, deciden y actúan, para aplicar estos conocimientos al **diseño o mejora de productos y servicios**, al **desarrollo de organizaciones** y de quienes trabajan en ellas, o al **diseño de intervenciones con distintos fines** . Es una propuesta integral, interdisciplinaria e innovadora, y **única en la Argentina y en la región** .",1.0,0.6709669828414917,0.7329214215278625,0.7005771398544312
+6,¿Qué roles profesionales pueden desempeñar los graduados de Ciencias del Comportamiento?,"Los graduados de la Licenciatura en Ciencias del Comportamiento de la Universidad de San Andrés pueden desempeñarse en diversos roles profesionales, tales como:
+
+1. **Empresas y startups**: Pueden trabajar en áreas como experiencia del usuario, marketing y desarrollo de productos, asesorando sobre estrategias para mejorar el diseño, gestión y venta de productos o servicios.
+
+2. **Recursos Humanos**: Participan en el desarrollo, bienestar, inclusión, comunicación y motivación dentro de las organizaciones.
+
+3. **ONGs y organismos gubernamentales**: Asesoran en la formulación y evaluación de políticas públicas y programas sociales, abordando y modificando comportamientos socialmente perjudiciales.
+
+4. **Investigación**: Pueden formar parte de equipos que estudian comportamientos humanos y sus bases cerebrales, así como desarrollar técnicas para medir y predecir comportamientos.
+
+5. **Consultoría**: Brindan asesoramiento en campañas electorales y estudios de opinión pública, analizando preferencias y comportamientos electorales.
+
+6. **Desarrollo de políticas públicas**: Trabajan en el diseño e implementación de intervenciones basadas en información sobre comportamiento humano.
+
+Esta carrera prepara a los graduados para un ámbito profesional dinámico y en expansión, donde podrán influir y mejorar la calidad de vida de las personas.","Los graduados pueden ser **expertos en el comportamiento humano**, **especialistas en experiencia del consumidor**, **asesores en el diseño, desarrollo y venta de productos y servicios**, **asesores de políticas públicas** en ONGs, organismos internacionales y de gobierno, **consultores en empresas para innovación, cambio y desarrollo institucional**, e **investigadores científicos del comportamiento y sus bases cerebrales** [30, 31].",1.0,0.7053817510604858,0.7711700797080994,0.7368102669715881
+6,¿Cuáles son las principales áreas de aplicación de las Ciencias del Comportamiento en el ámbito profesional?,"Las Ciencias del Comportamiento ofrecen diversas áreas de aplicación profesional, entre las cuales se destacan:
+
+1. **Empresas y Startups**: Se trabaja en áreas como experiencia del usuario, marketing y desarrollo de productos, asesorando sobre estrategias efectivas para mejorar el diseño, gestión y venta de productos o servicios. Esto incluye diseñar estudios de mercado para identificar patrones de consumo.
+
+2. **Recursos Humanos**: Participación en el desarrollo, bienestar, inclusión, comunicación y motivación del personal en organizaciones, contribuyendo a ambientes laborales más efectivos.
+
+3. **ONGs y Organismos Públicos**: Asesoramiento en la formulación y evaluación de políticas públicas y programas sociales, mediante el diagnóstico y modificación de comportamientos socialmente perjudiciales, como la discriminación o la contaminación.
+
+4. **Investigación Científica**: Estudio de las bases cerebrales y comportamentales de la mente humana, así como el desarrollo de técnicas y modelos para analizar y prever comportamientos en diferentes contextos como la educación, la salud y la política.
+
+5. **Consultoría en Campañas Electorales**: Análisis del comportamiento electoral y asesoramiento en estrategias de comunicación política y toma de decisiones en campañas.
+
+Estos campos de aplicación permiten a los profesionales influir en el comportamiento humano y aplicar sus conocimientos en una variedad de contextos, tanto públicos como privados.","Las cuatro orientaciones profesionales o áreas de aplicación de la Licenciatura en Ciencias del Comportamiento son: **comportamiento del consumidor**, **comportamiento político-social**, **comportamiento en las organizaciones**, e **investigación académica** [32, 33].",1.0,0.643450915813446,0.7455987930297852,0.6907689571380615
+6,¿Cómo se manifiesta la proyección internacional en el campo de las Ciencias del Comportamiento?,"La proyección internacional en el campo de las Ciencias del Comportamiento en la Universidad de San Andrés (UdeSA) se manifiesta de varias maneras:
+
+1. **Convenios de intercambio académico**: UdeSA cuenta con más de 90 convenios de cooperación académica y programas de intercambio con universidades extranjeras, brindando a los estudiantes la oportunidad de adquirir una perspectiva global y fortalecer su formación profesional. Más del 35% de los alumnos participan en estas experiencias, que son consideradas fundamentales para el desarrollo personal y académico.
+
+2. **Colaboraciones con organizaciones internacionales**: Las Ciencias del Comportamiento tienen una aplicación significativa en diversas organizaciones a nivel global. Más de 250 organizaciones, incluyendo consultoras y startups, utilizan principios de esta disciplina para mejorar intervenciones en sectores públicos y privados. Compañías como Google, Amazon y el Banco Mundial han integrado expertos en Ciencias del Comportamiento en sus equipos para influir positivamente en la toma de decisiones.
+
+3. **Investigación aplicada y básica**: A nivel mundial, hay una creciente demanda de investigación en Ciencias del Comportamiento. UdeSA promueve la participación en iniciativas de investigación que se desarrollan en múltiples países, fomentando el intercambio de conocimientos y experiencias en este campo en expansión. Esto incluye colaboraciones en políticas públicas y evaluación de programas sociales.
+
+4. **Ámbitos profesionales diversos**: Los graduados de la Licenciatura en Ciencias del Comportamiento pueden trabajar en una variedad de campos, tales como análisis de datos, recursos humanos, diseño de políticas públicas, consultoría, y más, tanto en el sector privado como en ONGs y organismos internacionales. La formación interdisciplinaria que ofrece la carrera prepara a los estudiantes para enfrentar estos desafíos globales.
+
+Esta combinación de intercambios académicos, colaboraciones internacionales y oportunidades de investigación en un contexto global subraya la importancia de una visión internacional en el ámbito de las Ciencias del Comportamiento, fundamental para el desarrollo de los profesionales que se están formando en UdeSA.","La proyección internacional es significativa, con **más de 250 organizaciones en todo el mundo** (incluyendo grandes empresas como Google, Amazon, Uber, Walmart, Airbnb, BBVA y múltiples consultoras/startups como The Behavioural Lab, The Irrational Lab, The Decision Lab, Simply Rational) que aplican estas ciencias para asesorar e intervenir en diversos ámbitos [34, 35]. Además, **más de 250 países** cuentan con unidades o consultorías gubernamentales (ej. Behavioral Insight Team en Reino Unido, Impact and Innovation Unit en Canadá) para guiar la toma de decisiones y el diseño de políticas públicas. También existen **oportunidades de investigación básica y aplicada** en Ciencias del Comportamiento o Neurociencias a nivel global .",1.0,0.7009484767913818,0.720368504524231,0.7105258703231812
+6,¿Qué perfil laboral tendrán los graduados de la Licenciatura en Ciencias del Comportamiento?,"Los graduados de la Licenciatura en Ciencias del Comportamiento de la Universidad de San Andrés estarán preparados para desempeñarse en una variedad de ámbitos laborales. Aquí te detallo algunos de los perfiles laborales y áreas de desarrollo:
+
+1. **Empresas y Startups**: Podrás trabajar en áreas como experiencia del usuario, marketing y desarrollo de productos, asesorando en estrategias para potenciar el diseño, gestión y venta de productos o servicios. También estarás capacitado para realizar estudios de mercado y analizar patrones de consumo.
+
+2. **Recursos Humanos**: Tendrás la posibilidad de formar parte de equipos en esta área, contribuyendo al desarrollo, bienestar e inclusión de los empleados.
+
+3. **ONGs y Organismos Internacionales**: Podrás asesorar en la formulación y evaluación de políticas públicas y programas sociales, así como diseñar intervenciones basadas en insights comportamentales.
+
+4. **Investigación Científica**: Dispondrás de habilidades para profundizar en el estudio de las bases cerebrales y comportamentales, lo que te permitirá trabajar en el desarrollo de técnicas de análisis de datos y en la comunicación de resultados a diferentes audiencias.
+
+5. **Estudios de Opinión Pública**: Serás capaz de analizar factores relacionados con el comportamiento electoral y asesorar en la toma de decisiones en campañas políticas.
+
+6. **Analistas de Datos**: Tendrás herramientas para medir y predecir comportamientos en diversas áreas como consumo, educación, salud y política.
+
+En resumen, los graduados se caracterizarán por ser profesionales innovadores, impulsores de cambio y especialistas en comportamiento humano, con una formación plural e interdisciplinaria que les permitirá adaptarse a un mercado laboral en expansión.","El perfil laboral de los graduados incluirá:
+*   **Profesionales del Futuro**: innovadores y disruptivos, preparados para un mundo laboral complejo y dinámico .
+*   **Impulsores del Cambio**: capaces de influir positivamente sobre las personas y transformar la realidad, participando en el desarrollo de productos, servicios, intervenciones y estrategias basadas en evidencia .
+*   **Especialistas en Comportamiento Humano**: con una formación plural e interdisciplinaria para estudiar y comprender los factores cognitivos, psicológicos, sociales y culturales que moldean el comportamiento humano .
+*   **Analistas de Datos**: con herramientas analíticas para medir y predecir comportamientos vinculados a consumo, trayectorias laborales/educativas, decisiones financieras, hábitos de salud, preferencias políticas y prácticas de socialización .",1.0,0.7225083112716675,0.7710720300674438,0.7460006475448608
+6,¿En qué roles pueden desempeñarse los graduados de Ciencias de la Educación?,"Los graduados de Ciencias de la Educación pueden desempeñarse en diversas áreas y roles, tales como:
+
+1. **Educadores Innovadores**: Implementando estrategias pedagógicas modernas y adaptadas a diferentes contextos.
+2. **Asesores en procesos de enseñanza y aprendizaje**: Para la educación formal, no formal, presencial y a distancia.
+3. **Diseñadores y desarrolladores de modelos de gestión educativa**: Creando y evaluando modelos educativos eficaces.
+4. **Consultores en áreas de gobierno y organizaciones no gubernamentales (ONGs)**: Asesorando en políticas educativas y culturales.
+5. **Consejeros en la formulación de políticas educativas**: Contribuyendo al diseño de estrategias y normas en el ámbito educativo.
+6. **Asistentes psicopedagógicos**: Apoyando el aprendizaje y desarrollo en instituciones educativas y comunitarias.
+7. **Investigadores**: Desarrollando proyectos y estudios en el campo de la educación.
+
+Estos roles permiten contribuir de manera significativa al desarrollo educativo y social, aprovechando las habilidades adquiridas durante la carrera.","Los graduados de Ciencias de la Educación pueden ser **educadores innovadores**, **asesores en procesos de enseñanza y de aprendizaje** (para la educación formal, no formal, presencial y a distancia), **diseñadores y desarrolladores de modelos de gestión educativa**, **consultores en áreas de gobierno y ONGs**, **consejeros en la formulación de políticas educativas y culturales**, y **asistentes psicopedagógicos** en instituciones educativas y comunitarias [38, 39].",0.0,0.7631353139877319,0.8560556173324585,0.8069292902946472
+6,¿En qué se basa el modelo de enseñanza de la Licenciatura en Ciencias de la Educación?,,"El modelo de enseñanza es **innovador y propositivo**, basado en **trabajos por proyectos, uso de la tecnología, actividades de investigación-acción, resolución de problemas, espacios de comunicación y colaboración, tutorías, y talleres de lectura y estudio** .",0.0,0.0,0.0,0.0
+6,"¿Cuáles son los ""5 datos"" o pilares de la formación en Ciencias de la Educación?","Los ""5 datos"" o pilares de la formación en la Licenciatura en Ciencias de la Educación de la Universidad de San Andrés son los siguientes:
+
+1. **Modelo de enseñanza innovador**: Se basa en un enfoque propositivo que incluye trabajos por proyectos, uso de tecnología, actividades de investigación-acción, resolución de problemas, y espacios de comunicación y colaboración.
+
+2. **Formación interdisciplinaria**: A través del Ciclo de Fundamentos, los estudiantes reciben una formación en ciencias y humanidades que promueve una visión integral.
+
+3. **Formación específica**: Integra un núcleo fundamental de asignaturas que proponen saberes teóricos y prácticos, incluyendo Filosofía de la educación, Teorías de la educación, y Desafíos educativos reales.
+
+4. **Ejes de la formación**: Incluyen enfoques en escuela, política educativa e investigación en educación, permitiendo a los estudiantes profundizar en áreas clave para su desarrollo profesional.
+
+5. **Desarrollo de competencias**: Se busca que los estudiantes adquieran habilidades para trabajar de manera colaborativa, resolver problemas, pensar críticamente y comunicarse efectivamente en el ámbito educativo. 
+
+Estos pilares están diseñados para preparar a los graduados como educadores innovadores y asesores en procesos de enseñanza y aprendizaje.","Los pilares de la formación en Ciencias de la Educación son:
+*   **Formación interdisciplinaria**: A través del Ciclo de Fundamentos en ciencias y humanidades (Ciencias, Arte, Filosofía, Historia, Literatura, Matemáticas, Política, Economía, Oratoria y Escritura) [39, 41].
+*   **Formación específica**: Que está integrada por un grupo de asignaturas que componen el núcleo fundamental de la carrera con saberes teóricos y prácticos (incluyendo Filosofía de la educación, Teorías de la Educación, Teorías del aprendizaje, Historia de la Educación, Pedagogía y currículum, Sociología de la educación, y Desafíos educativos reales) .
+*   **Eje de Escuela**: Para la profundización en la escuela como objeto de análisis y posibles intervenciones, buscando problematizarla, analizarla críticamente y diseñar propuestas .
+*   **Eje de Política educativa**: Enfocado en las definiciones del sistema educativo para abordar su complejidad y su impacto en las prácticas educativas (incluye asignaturas como Política educativa, Diseñar el futuro de la Educación, Estado y políticas públicas) .
+*   **Eje de Investigación en educación**: Para ahondar en la investigación educativa como camino para profundizar saberes y realizar aportes al campo educativo (incluye Investigación Educativa, Educación comparada, Enseñanza más allá de la escuela) [43, 44].",0.0,0.7782112956047058,0.7800336480140686,0.7791213989257812
+6,¿Qué capacidades y habilidades generales desarrollan los graduados de Ciencias de la Educación?,"Los graduados de la Licenciatura en Ciencias de la Educación desarrollan diversas capacidades y habilidades generales que les permiten desempeñarse en distintos campos laborales. Estas incluyen:
+
+1. **Manejo de teorías pedagógicas**: Capacidad para entender y aplicar grandes teorías relacionadas con la educación.
+2. **Trabajo colaborativo**: Habilidad para trabajar en equipo y colaborar con otros en entornos educativos.
+3. **Resolución de problemas**: Aptitud para identificar y resolver problemas en el contexto educativo.
+4. **Pensamiento crítico**: Capacidad para analizar situaciones y tomar decisiones fundamentadas.
+5. **Comunicación efectiva**: Habilidad para dialogar y transmitir información de manera clara y efectiva.
+
+Además, los graduados están preparados para actividades específicas en áreas como la enseñanza, evaluación y gestión educativa, investigación educativa, y capacitación en empresas y organizaciones. Esto les permite tener un impacto significativo en la educación formal y no formal, presencial y a distancia.","Al graduarse, los profesionales de Ciencias de la Educación poseerán la capacidad de manejar **grandes teorías pedagógicas** y tendrán una visión abierta y comprometida con la educación . Además, habrán adquirido habilidades para **trabajar colaborativamente, resolver problemas, pensar críticamente, dialogar, comunicar y tomar decisiones** .",1.0,0.6848442554473877,0.767707884311676,0.7239125967025757
+6,¿En qué campos laborales específicos pueden desempeñarse los graduados de Ciencias de la Educación?,,"Los graduados pueden desempeñarse en diversas áreas profesionales:
+*   **Enseñanza, evaluación y gestión educativa**: planificar, conducir y evaluar procesos de enseñanza y de aprendizaje (formal, no formal, presencial, a distancia); elaborar modelos de gestión educativa y propuestas curriculares; planificar programas de formación, perfeccionamiento y actualización para roles educativos; asesorar en planes de acción sociocultural, diseño de espacios educativos y normas jurídicas educativas; y diseñar, conducir y evaluar acciones de prevención y asistencia psicopedagógica [46, 47].
+*   **Investigación**: diseñando, dirigiendo, ejecutando y evaluando planes, programas y proyectos de investigación educativa .
+*   **Medios de comunicación**: asesorando en la formulación de criterios y normas para promover la dimensión educativa en los medios .
+*   **Empresas y organizaciones**: diseñando, dirigiendo, ejecutando y evaluando programas de capacitación de recursos humanos; y elaborando programas de información y orientación educacional, vocacional y ocupacional .",0.0,0.0,0.0,0.0
+6,¿Qué convenio internacional específico tiene la Licenciatura en Ciencias de la Educación para intercambios?,"La Licenciatura en Ciencias de la Educación de la Universidad de San Andrés tiene un convenio específico con la **Zurich University of Teacher Education** de Suiza. Este convenio permite a los estudiantes realizar un semestre en dicha universidad, ofreciendo becas de viaje o financiamiento para facilitar la experiencia de intercambio. 
+
+Además de este convenio, UdeSA mantiene más de 90 convenios de cooperación académica e intercambio con universidades de todo el mundo.","La Licenciatura en Ciencias de la Educación tiene un convenio específico con **Zurich University of Teacher Education de Suiza**, que permite a los estudiantes realizar un semestre en esa prestigiosa universidad con becas de viaje o financiamiento . Adicionalmente, la Universidad de San Andrés en general cuenta con más de **90 convenios de cooperación académica e intercambio con universidades del exterior** para enriquecer la experiencia y formar un perfil global .",1.0,0.8928110003471375,0.8895432949066162,0.8911741375923157
+6,"¿Qué materias del ciclo de fundamentos son comunes entre la Licenciatura en Ciencias del Comportamiento, la Licenciatura en Negocios Digitales y la Licenciatura en Relaciones Internacionales?",,"Las materias del Ciclo de Fundamentos comunes a la Licenciatura en Ciencias del Comportamiento, la Licenciatura en Negocios Digitales y la Licenciatura en Relaciones Internacionales incluyen: **Escritura y Oratoria** [1-3], **Economía I** [1, 3, 4], **Electiva de Filosofía** [1-3], **Electiva de Historia** [1, 3, 4], **Introducción al Pensamiento Computacional** [1, 3, 4] y **Derechos Fundamentales** [1, 3, 4]. Además, todas tienen asignaturas relacionadas con **Matemáticas** en sus ciclos de fundamentos, aunque con nombres ligeramente diferentes, por ejemplo, Introducción al Razonamiento Matemático, Matemática I y II en LCC [2, 5-7]; Introducción al Razonamiento Matemático, Cálculo, Álgebra y Matemática aplicada a los negocios en LND [3, 8]; y Fundamentos Matemáticos I y II en LRI [1, 9].",0.0,0.0,0.0,0.0
+6,"¿Qué oportunidades de proyección internacional específicas se destacan para la Licenciatura en Negocios Digitales, en contraste con las mencionadas para la Licenciatura en Ciencias de la Educación y la Licenciatura en Ciencias del Comportamiento?","### Comparación de Oportunidades de Proyección Internacional
+
+#### 1. **Licenciatura en Negocios Digitales**
+- **Convenios Internacionales**: UdeSA tiene más de 90 convenios de cooperación con universidades extranjeras, permitiendo realizar intercambios académicos.
+- **Intercambio destacado**: Los estudiantes tienen la opción de estudiar un año en **ESCP-Europe**, una universidad de Francia reconocida en el ámbito de los negocios, y obtener el diploma de **Master in Management (MIM)**. Esto representa una excelente oportunidad para aquellos interesados en una visión global del management y la transformación digital.
+- **Enfoque Global**: La carrera prepara a los estudiantes para abordar desafíos globales en negocios, incluyendo la interacción con grandes empresas tecnológicas y innovadoras.
+
+#### 2. **Licenciatura en Ciencias de la Educación**
+- **Convenios Internacionales**: También cuenta con más de 90 convenios para intercambios.
+- **Convenio Específico**: Existe un convenio particular con **Zurich University of Teacher Education** en Suiza, donde los estudiantes pueden realizar un semestre con becas de viaje o financiamiento.
+- **Experiencias de Crecimiento**: Se resalta la transformación personal y profesional a través del intercambio, ilustrando una experiencia enriquecedora al interactuar con diversas culturas y sistemas educativos.
+
+#### 3. **Licenciatura en Ciencias del Comportamiento**
+- **Convenios Internacionales**: Al igual que las otras licenciaturas, cuenta con más de 90 convenios para intercambios académicos.
+- **Oportunidades de Investigación**: Existen más de 250 organizaciones y consultorías globales, como Google y Amazon, donde los egresados pueden aplicar su conocimiento en ciencias del comportamiento, lo que abre puertas a diversas carreras a nivel internacional.
+- **Desarrollo Profesional en Contextos Internacionales**: La carrera tiene una fuerte interpolación en el ámbito público y privado, incluso con la posibilidad de involucrarse en políticas públicas en múltiples países.
+
+### **Conclusión**
+Las tres licenciaturas ofrecen oportunidades atractivas de proyección internacional a través de convenios de cooperación académica. Sin embargo, cada una tiene características distintas:
+
+- **Negocios Digitales** se enfoca en la transformación digital y las empresas innovadoras, con un intercambio destacado en una de las mejores escuelas de negocios del mundo.
+- **Ciencias de la Educación** ofrece una experiencia específica en Suiza, sobre un sistema educativo de renombre.
+- **Ciencias del Comportamiento** enfatiza la investigación y la aplicación en organizaciones internacionales, brindando un enfoque global en el comportamiento humano.
+
+Es fundamental que los estudiantes consideren sus intereses y objetivos profesionales al seleccionar su camino académico. Si tienes más preguntas o necesitas más información, no dudes en consultar.","La Licenciatura en Negocios Digitales destaca la **posibilidad de realizar un intercambio de un año en ESCP-Europe y acceder al diploma de Master in Management (MIM)** en París, lo que implica un doble diploma . Por otro lado, la Licenciatura en Ciencias de la Educación tiene un **convenio específico con Zurich University of Teacher Education de Suiza** para un semestre de intercambio con becas . La Licenciatura en Ciencias del Comportamiento, aunque también ofrece intercambios, enfatiza la **existencia de más de 250 organizaciones a nivel mundial que aplican las ciencias del comportamiento (incluyendo grandes empresas como Google, Amazon, Uber, Walmart, AirBnB, BBVA), múltiples consultoras, y unidades en más de 250 gobiernos** para guiar la toma de decisiones y el diseño de políticas públicas [12, 13].",1.0,0.7209935784339905,0.801771879196167,0.7592402100563049
+6,¿Cómo se diferencian los perfiles profesionales de un egresado del Profesorado en Educación Primaria y un egresado de la Licenciatura en Ciencias de la Educación?,"Aquí te presento un resumen de los perfiles profesionales de un egresado del **Profesorado en Educación Primaria** y de la **Licenciatura en Ciencias de la Educación**, destacando sus diferencias:
+
+### Profesorado en Educación Primaria
+- **Enfoque:** Formación de docentes comprometidos con la enseñanza en el nivel primario.
+- **Objetivos:** Desarrollar habilidades para crear experiencias de aprendizaje significativas y para transformar la vida de los estudiantes.
+- **Competencias:** Los egresados son docentes capaces de adaptar los procesos de enseñanza a los desafíos educativos actuales. Se busca que tengan una sólida comprensión de las disciplinas relevantes (como matemáticas, literatura, ciencias, etc.) y una formación práctica intensiva en entornos educativos reales.
+- **Características:** Se valora la empatía y el compromiso social, y se espera que sean pedagogos que fomenten la crítica y la reflexión en los estudiantes.
+- **Áreas de trabajo:** Principalmente en escuelas primarias, aunque se pueden extender a roles de coordinación o asesoría en contextos educativos.
+
+### Licenciatura en Ciencias de la Educación
+- **Enfoque:** Desarrollo de una visión amplia y crítica de la educación en diversas áreas, no solo enfocándose en la docencia.
+- **Objetivos:** Preparar a los graduados para trabajar en la planificación, implementación y evaluación de procesos educativos en contextos formales y no formales.
+- **Competencias:** Los egresados tienen una sólida formación en teorías pedagógicas, habilidades para el diseño curricular y capacidades de gestión educativa. También están preparados para llevar a cabo investigaciones en el campo de la educación.
+- **Características:** Se fomenta un enfoque interdisciplinario, promoviendo el análisis crítico de situaciones educativas y la capacidad de trabajar en diversas áreas como la atención psicopedagógica, la investigación, y el asesoramiento en políticas educativas.
+- **Áreas de trabajo:** Escuelas, ONG, organismos gubernamentales, empresas privadas en áreas de capacitación y gestión educativa.
+
+### Comparación Clave
+- **Dirección Profesional:** El Profesorado está orientado hacia la docencia en el nivel primario, mientras que la Licenciatura ofrece una formación más amplia que incluye gestión y análisis crítico de la educación en diversos contextos.
+- **Perfil de trabajo:** Los egresados del Profesorado se centran más en la práctica educativa directa, mientras que los de la Licenciatura pueden desempeñarse en roles más variados, como la investigación y la formulación de políticas educativas.
+
+Ambas carreras ofrecen herramientas valiosas, pero se diferencian en sus objetivos, competencias y áreas de aplicación profesional.","Los egresados del Profesorado en Educación Primaria están formados para ser **docentes comprometidos y rigurosos** , con aptitudes para transformar la vida de las personas y pedagogos capaces de analizar y adaptar procesos de enseñanza . Su enfoque principal es la **enseñanza en el nivel primario**, buscando generar experiencias de aprendizaje significativas y acompañar la trayectoria de los estudiantes . En cambio, los egresados de la Licenciatura en Ciencias de la Educación están preparados para un abanico más amplio de roles, incluyendo **educadores innovadores, asesores en procesos de enseñanza y aprendizaje (formal, no formal, presencial y a distancia), diseñadores de modelos de gestión educativa, consultores en áreas de gobierno y ONGs, consejeros en formulación de políticas educativas y culturales, y asistentes psicopedagógicos** [17, 18]. También pueden desempeñarse en **investigación educativa y en medios de comunicación** asesorando sobre la dimensión educativa .",1.0,0.7095221877098083,0.7670282125473022,0.7371554374694824
+6,¿Cuáles son las áreas de aplicación de la Licenciatura en Ciencias del Comportamiento y cómo se comparan con los 'tracks' de materias optativas de la Licenciatura en Negocios Digitales?,"### Comparación entre la Licenciatura en Ciencias del Comportamiento y la Licenciatura en Negocios Digitales
+
+#### Licenciatura en Ciencias del Comportamiento
+
+**Áreas de Aplicación**:
+1. **Empresas y Startups**: Diseño de estrategias para la experiencia del usuario, marketing y desarrollo de productos. Realización de estudios de mercado para analizar comportamientos de los consumidores.
+2. **Recursos Humanos**: Desarrollo y bienestar de los empleados, inclusión y motivación.
+3. **ONGs y Gobierno**: Asesoramiento en la formulación y evaluación de políticas públicas, intervención en comportamientos perjudiciales.
+4. **Investigación Científica**: Estudio de las bases cerebrales del comportamiento humano y desarrollo de técnicas de análisis de datos.
+5. **Opinión Pública**: Asesoría en campañas electorales y toma de decisiones estratégicas.
+
+Las áreas de la Licenciatura en Ciencias del Comportamiento se centran en el entendimiento y análisis del comportamiento humano, tanto en contextos públicos como privados, aplicando una metodología basada en evidencia.
+
+#### Licenciatura en Negocios Digitales
+
+**Tracks de Materias Optativas**:
+- **Marketing**: Marketing cuantitativo, comportamiento del consumidor.
+- **Finanzas**: Finanzas cuantitativas, instrumentos derivados.
+- **Datos**: Analítica cognitiva, gestión avanzada de datos.
+- **Productos Digitales**: Escalabilidad de proyectos, agilidad y cultura DevOps.
+- **Economía**: Microeconomía, macroeconomía.
+- **Innovación y Emprendedurismo**: Innovación y disrupción, laboratorio de entrepreneurship.
+- **Herramientas Digitales**: Prototipos digitales, tecnologías de backend.
+
+La Licenciatura en Negocios Digitales está diseñada para preparar a los profesionales en el ámbito de la transformación digital y la innovación en negocios, poniendo un fuerte énfasis en el análisis de datos y la estrategia digital.
+
+### Comparación General
+
+- **Foco Diferente**: 
+   - La **Licenciatura en Ciencias del Comportamiento** se enfoca en comprender el comportamiento humano y sus implicaciones en diversos ámbitos, buscando generar impactos sociales y organizacionales positivos.
+   - Por otro lado, la **Licenciatura en Negocios Digitales** se centra en habilidades prácticas para la gestión y transformación de negocios en la era digital, enfatizando el uso de datos y herramientas digitales.
+
+- **Interdisciplinariedad**: Ambas carreras ofrecen una formación interdisciplinaria, pero la primera se centra más en ciencias humanas y comportamiento, mientras que la segunda combina negocios con tecnologías digitales.
+
+En resumen, si bien ambas licenciaturas ofrecen oportunidades profesionales valiosas, se dirigen a diferentes intereses y áreas de especialización, permitiendo a los estudiantes elegir un camino que se alinee con sus objetivos y habilidades.","La Licenciatura en Ciencias del Comportamiento ofrece cuatro orientaciones profesionales o 'Áreas de aplicación': **comportamiento del consumidor, comportamiento político-social, comportamiento en las organizaciones, e investigación académica** . Las materias optativas para estas áreas incluyen temas como Psicología de la personalidad, Marketing, Gestión de Recursos Humanos, Diseño y evaluación de políticas públicas, Comunicación política, y Fundamentos de la Inteligencia Artificial, entre otras . Por su parte, la Licenciatura en Negocios Digitales organiza sus materias optativas en siete 'tracks' : **Marketing, Finanzas, Datos, Productos Digitales, Economía, Innovación y emprendedurismo, y Herramientas digitales** . Estos tracks incluyen materias como Marketing cuantitativo, Finanzas cuantitativas, Analítica Cognitiva, Escalabilidad de proyectos, Macroeconomía, Innovación y disrupción, y Prototipos digitales .",0.0,0.7157168388366699,0.7462949752807617,0.7306861281394958
+6,¿De qué manera el Profesorado en Educación Primaria y la Licenciatura en Negocios Digitales integran el aprendizaje práctico en sus planes de estudio?,"### Integración del Aprendizaje Práctico en el Profesorado en Educación Primaria y la Licenciatura en Negocios Digitales
+
+#### Profesorado en Educación Primaria
+El plan de estudios del **Profesorado en Educación Primaria** de UdeSA se enfoca en una formación interdisciplinaria que incluye una fuerte componente práctica. Entre las características destacadas se encuentran:
+
+- **ARPE (Análisis y Reflexión de la Práctica Educativa)**: Se ofrece en varios años, donde los estudiantes analizan en profundidad su experiencia en prácticas reales. Esto incluye materias como ARPE I, ARPE II, ARPE III y ARPE IV, que están diseñadas para reflexionar sobre la práctica docente y los desafíos educativos reales en la escuela primaria.
+- **Red de Escuelas**: A través de esta red, los estudiantes realizan prácticas profesionales en diferentes escuelas, donde pueden aplicar lo aprendido y recibir formación de docentes en ejercicio. Esto les permite enfrentar desafíos reales en un entorno de enseñanza.
+- **Metodologías Innovadoras**: El programa incorpora nuevas metodologías de enseñanza que incluyen el uso de tecnología y enfoques centrados en el estudiante, promoviendo la innovación en el aula.
+
+#### Licenciatura en Negocios Digitales
+Por otro lado, la **Licenciatura en Negocios Digitales** también integra aprendizaje práctico de manera significativa:
+
+- **Proyectos Reales**: Los estudiantes trabajan en proyectos que abordan problemas y oportunidades actuales en el mercado, lo que les permite aplicar sus conocimientos en un contexto real y práctico.
+- **Trabajo colaborativo e interdisciplinario**: Fomenta el trabajo en equipo entre alumnos y profesores, creando una experiencia de aprendizaje dinámica y aplicada.
+- **Materias de especialización**: Incluye asignaturas como ""Digital Product Management"" y ""Data Analytics"", así como talleres prácticos donde los alumnos desarrollan habilidades tecnológicas y de gestión de datos aplicadas a escenarios empresariales reales.
+
+### Comparación
+Ambos programas comparten un enfoque en la práctica profesional, aunque en contextos diferentes:
+
+- **Prácticas en el aula**: El Profesorado en Educación Primaria se centra en la formación docente a través de experiencias en escuelas, mientras que la Licenciatura en Negocios Digitales aplica prácticas en el ámbito empresarial y tecnológico.
+- **Metodologías**: Ambos programas incluyen metodologías innovadoras. Sin embargo, el profesor tiene un enfoque más pedagógico y reflexivo, mientras que la licenciatura se orienta hacia la aplicación de tecnología y el emprendimiento.
+  
+### Conclusión
+Ambas carreras de UdeSA ofrecen una valiosa integración del aprendizaje práctico, preparándolos para enfrentar los desafíos en sus respectivas áreas de forma efectiva y con un enfoque práctico que les permitirá desarrollarse profesionalmente.","El Profesorado en Educación Primaria pone un fuerte énfasis en la **práctica profesional**  con instancias de formación en la **racionalidad científica para ser investigador en el aula** , y destaca la importancia de la **práctica en escuelas con grandes desafíos** a través de su red de escuelas y la 'clínica de clases' . Su plan de estudios incluye los espacios de **Análisis y Reflexión de la Práctica Educativa (ARPE)** que van desde la reflexión sobre problemas centrales (ARPE I) hasta la residencia docente (ARPE IV) [26-29]. La Licenciatura en Negocios Digitales promueve un modelo de **'Aprendé haciendo'** , donde los alumnos identifican necesidades y oportunidades de mercado, analizan modelos de negocios y aplican conocimientos de marketing digital y análisis de datos . También enfatiza el **trabajo en equipo e interdisciplinario** con espacios dinámicos para consultas y desarrollo de proyectos, en lo que llaman 'Aprendé de forma colaborativa' .",1.0,0.7196623086929321,0.7541075348854065,0.7364823818206787
+6,¿Cuáles son las disciplinas troncales de humanidades y ciencias sociales incluidas en el Ciclo de Fundamentos de la Licenciatura en Ciencias de la Educación y la Licenciatura en Relaciones Internacionales?,"Aquí están las disciplinas troncales de humanidades y ciencias sociales incluidas en el Ciclo de Fundamentos de las Licenciaturas en Ciencias de la Educación y Relaciones Internacionales de la Universidad de San Andrés:
+
+### Licenciatura en Ciencias de la Educación
+En el Ciclo de Fundamentos, las materias que se consideran fundamentales son:
+- **Ciencias**
+- **Arte**
+- **Filosofía**
+- **Historia**
+- **Literatura**
+- **Matemáticas**
+- **Política**
+- **Economía**
+- **Oratoria**
+- **Escritura**
+
+### Licenciatura en Relaciones Internacionales
+Las materias del Ciclo de Fundamentos incluyen:
+- **Política**
+- **Escritura y Oratoria**
+- **Electiva de Historia**
+- **Economía I**
+- **Derechos Fundamentales**
+- **Electiva de Literatura**
+- **Fundamentos Matemáticos I**
+- **Historia Económica I** o **Historia Argentina Contemporánea**
+- **Filosofía Política Clásica**
+- **Ciencias**
+- **Fundamentos Matemáticos II**
+- **Introducción al Pensamiento Computacional**
+
+Ambos ciclos buscan proporcionar una formación interdisciplinaria sólida que permita un amplio entendimiento de diversas problemáticas en sus respectivas áreas. Si necesitas más información o detalles específicos sobre alguna materia, no dudes en preguntar.","Para la Licenciatura en Ciencias de la Educación, el Ciclo de Fundamentos incluye materias de **Ciencias, Arte, Filosofía, Historia, Literatura, Matemáticas, Política, Economía, Oratoria y Escritura** . Específicamente se mencionan: Electiva de Historia, Electiva de Literatura, Electiva de Filosofía, Fundamentos Matemáticos para las Ciencias Sociales, Escritura y Oratoria, Economía I, Electiva de Ciencias o Electiva de Arte, Introducción a la Psicología, Política y Fundamentos de Administración [32, 33]. Por su parte, la Licenciatura en Relaciones Internacionales en su Ciclo de Fundamentos abarca: **Política, Escritura y Oratoria, Electiva de Historia, Economía I, Derechos Fundamentales, Electiva de Literatura, Fundamentos Matemáticos I y II, Historia Económica I o Historia Argentina Contemporánea, Filosofía Política Clásica, Ciencias e Introducción al Pensamiento Computacional** . Ambas carreras comparten un fuerte componente en Historia, Filosofía, Literatura, Economía, Política y Escritura/Oratoria [1, 31-33].",1.0,0.7373365759849548,0.764327883720398,0.7505897283554077
+6,¿Cómo se diferencia el enfoque en el análisis de datos y la tecnología entre la Licenciatura en Ciencias del Comportamiento y la Licenciatura en Negocios Digitales?,"### Análisis Comparativo: Licenciatura en Ciencias del Comportamiento vs. Licenciatura en Negocios Digitales
+
+**1. Enfoque en el Análisis de Datos:**
+
+- **Ciencias del Comportamiento:** Esta carrera prepara a los estudiantes para ser *analistas de datos*, otorgándoles habilidades en técnicas de medición del comportamiento y en el diseño de estudios para analizar y predecir patrones de consumo. Las materias relacionadas incluyen estadística, análisis de datos y técnicas de modificación del comportamiento, lo cual permite a los graduados entender y hacer uso de datos en contextos relacionados con el comportamiento humano, consumo, y políticas públicas.
+
+- **Negocios Digitales:** Este programa enfatiza el uso de datos en el contexto empresarial, formando *data analysts* con habilidades en gestión y arquitectura de datos, ciencia de datos, y análisis aplicado a los negocios. Se busca que los graduados sean capaces de extraer y analizar datos para guiar decisiones estratégicas en diversas áreas como marketing y finanzas. La inclusión de materias como analítica de datos y ciencia de datos es central para el programa.
+
+**Diferencia clave:** Mientras que la Licenciatura en Ciencias del Comportamiento se centra en el análisis de datos desde una perspectiva de comportamiento humano, la Licenciatura en Negocios Digitales lo aborda desde una necesidad organizacional y empresarial.
+
+---
+
+**2. Enfoque en la Tecnología:**
+
+- **Ciencias del Comportamiento:** Aunque la carrera incluye materias como programación y ciencia de datos, su enfoque principal no es la tecnología en sí misma, sino cómo utilizarla para comprender y modificar comportamientos. Hay un uso de técnicas tecnológicas para realizar estudios, pero no es el eje central del aprendizaje.
+
+- **Negocios Digitales:** Esta carrera está fuertemente orientada hacia la transformación digital de los negocios. Incluye un amplio rango de técnicas y herramientas digitales, tales como desarrollo front-end, marketing digital, y experiencia de usuario. Se busca que los estudiantes comprendan y lideren la adopción de nuevas tecnologías en entornos empresariales.
+
+**Diferencia clave:** La Licenciatura en Negocios Digitales tiene un enfoque mucho más marcado en la tecnología y su aplicación en las organizaciones, preparándose para liderar la transformación digital. En contraste, la Licenciatura en Ciencias del Comportamiento utiliza la tecnología como una herramienta para apoyar el análisis y la comprensión de la conducta humana.
+
+---
+
+### Resumen de las Diferencias
+
+- **Análisis de Datos:**
+  - **Ciencias del Comportamiento:** Centrado en el comportamiento humano y técnicas de intervención.
+  - **Negocios Digitales:** Orientado a la aplicación de datos para la toma de decisiones empresariales y estratégicas.
+
+- **Tecnología:**
+  - **Ciencias del Comportamiento:** Uso de tecnología como apoyo para estudios y análisis conductuales.
+  - **Negocios Digitales:** Integración de herramientas digitales y tecnológicas para la innovación y gestión en el ámbito empresarial. 
+
+Esta comparación muestra cómo cada carrera aborda el análisis de datos y la tecnología desde ángulos diferentes, cada una adaptada a su propio ámbito profesional.","La Licenciatura en Ciencias del Comportamiento se enfoca en **herramientas de análisis para relevar, procesar, analizar y visualizar información sobre cómo las personas actúan, deciden o forman sus preferencias, así como evaluar el impacto de intervenciones para generar cambios en el comportamiento humano** . Sus materias incluyen Estadística, Programación, Ciencias de Datos y Diseños experimentales y cuasi-experimentales . Los egresados serán 'ANALISTAS DE DATOS' capacitados para medir y predecir comportamientos en consumo, trayectorias laborales/educativas, decisiones financieras, hábitos de salud, preferencias políticas, etc. , y podrán trabajar en el desarrollo de técnicas y modelos de análisis de datos e innovaciones tecnológicas . La Licenciatura en Negocios Digitales, por otro lado, integra la tecnología para **liderar la innovación en los negocios** , con materias como Ciencia de Datos, Programación e Inteligencia Artificial que permiten cambiar las reglas del juego en operaciones comerciales, marketing, logística y servicio al cliente . Se forma a 'expertos en data analytics' y 'consultores de business intelligence' [39, 40], con un 'Track Datos' específico para el análisis de grandes volúmenes de datos .",1.0,0.7045434713363647,0.7114248871803284,0.7079674601554871
+6,¿Cuáles son los principales objetivos o el perfil de estudiante buscado para la Licenciatura en Ciencias del Comportamiento y la Licenciatura en Relaciones Internacionales?,"Aquí tienes un resumen de los principales objetivos y el perfil de estudiante buscado para cada carrera:
+
+### Licenciatura en Ciencias del Comportamiento
+
+**Objetivos:**
+- Comprender los factores que influyen en las decisiones y el comportamiento humano.
+- Desarrollar intervenciones basadas en evidencia que mejoren productos, servicios y políticas públicas.
+- Capacitar a los graduados para aplicar técnicas de análisis de datos y estudiar la psicología del comportamiento en múltiples contextos.
+
+**Perfil del Estudiante:**
+- Interés en la comprensión científica del comportamiento humano.
+- Deseo de influir positivamente en la sociedad a través de la investigación y el diseño de políticas.
+- Aptitudes para el análisis crítico y la innovación en campos como el marketing, la experiencia del usuario y el desarrollo de productos.
+
+### Licenciatura en Relaciones Internacionales
+
+**Objetivos:**
+- Formar profesionales capacitados para analizar la realidad internacional y sus complejidades.
+- Desarrollar habilidades analíticas en el ámbito de la política exterior, la seguridad y el comercio internacional.
+- Preparar a los graduados para intervenir en temas de cooperación internacional y desarrollo sostenible.
+
+**Perfil del Estudiante:**
+- Interés en asuntos globales y problemáticas contemporáneas, como el cambio climático y las migraciones.
+- Habilidades comunicativas y de debate, con compromiso hacia la realidad política y social.
+- Aspiración a trabajar en organizaciones internacionales, ONGs, y ámbitos gubernamentales relacionados con la política internacional.
+
+### Comparación
+Ambas carreras buscan estudiantes con una fuerte motivación por entender factores complejos que afectan a individuos y sociedades. Mientras que la Licenciatura en Ciencias del Comportamiento está más centrada en la aplicación de conocimientos sobre el comportamiento humano para influir en productos y políticas, la Licenciatura en Relaciones Internacionales se enfoca en la interacción y análisis de relaciones políticas a nivel global. 
+
+Los graduados de ambas licenciaturas estarán equipados para desempeñarse en campos en constante evolución, utilizando habilidades analíticas y de comunicación adaptadas a sus respectivas disciplinas.","Para la Licenciatura en Ciencias del Comportamiento, la carrera es para estudiantes **'que quieran comprender, desde una mirada científica, por qué las personas piensan y actúan de determinada manera para, a partir de ese análisis, diseñar, desarrollar y mejorar productos, servicios y procesos que aumenten la calidad de vida de personas y de la sociedad en su conjunto'** . Buscan una carrera única e innovadora para desarrollarse en áreas de constante crecimiento global . La Licenciatura en Relaciones Internacionales es para estudiantes **'curiosos, que les gusta debatir y están interesados y comprometidos con la realidad del país y del mundo'** , que se sienten interpelados por problemáticas internacionales contemporáneas como el cambio climático, migraciones, desigualdad, conflicto y cooperación internacional . Buscan un programa actualizado que desarrolle habilidades técnicas e interpersonales para influir positivamente a nivel global .",1.0,0.6922928094863892,0.7308621406555176,0.711054801940918
+6,"¿Se menciona alguna posibilidad de doble titulación, especialización o estudios complementarios para alguna de las carreras?","La Universidad de San Andrés (UdeSA) ofrece diversas posibilidades en relación con la doble titulación, especializaciones y estudios complementarios a través de sus diferentes carreras. Aquí te detallo la información relevante:
+
+1. **Dobles Carreras**: UdeSA permite a los estudiantes optar por dobles carreras, lo que enriquece su formación con conocimientos complementarios que pueden ser muy atractivos para el mercado laboral. Esto se presenta como una manera de hacer que el perfil profesional sea más competitivo.
+
+2. **Intercambios Internacionales**: Muchos programas ofrecen oportunidades de intercambio con universidades en el exterior, lo cual añade un valor significativo a la formación de los estudiantes, dándoles la posibilidad de adquirir un diploma adicional en prestigiosas instituciones.
+
+Por ejemplo, la **Licenciatura en Negocios Digitales** permite realizar un intercambio en ESCP-Europe, lo que brinda a los estudiantes la oportunidad de acceder a un diploma de Master in Management tras un año de estudios en París. 
+
+Además, hay convenios específicos para otros programas, como la **Licenciatura en Ciencias de la Educación**, que tiene un acuerdo con la Zurich University of Teacher Education en Suiza.
+
+Con esta información, puedes ver que UdeSA se compromete a ofrecer a sus alumnos múltiples vías para enriquecer su educación mediante dobles titulaciones y experiencias internacionales. Si deseas más información específica sobre alguna carrera en particular o sobre el proceso para acceder a estas oportunidades, no dudes en preguntar.","Sí, se mencionan algunas posibilidades. Para la Licenciatura en Negocios Digitales, existe la oportunidad de realizar un **intercambio de un año en ESCP-Europe para acceder al diploma de Master in Management (MIM)**, lo que implica un doble diploma . Para el Profesorado en Educación Primaria, se indica que la formación **'puede complementarse con la Licenciatura en Ciencias de la Educación'** , lo que sugiere la posibilidad de estudios adicionales o concurrentes. Además, para la Licenciatura en Ciencias de la Educación, en los seminarios obligatorios de temática optativa, los estudiantes pueden **'concentrar los seminarios en un área específica de modo de orientar el recorrido de formación en un área en particular'** o seleccionar cualquier espacio curricular de la Escuela de Educación y/o de la oferta de grado o posgrado de la Universidad, respetando la carga horaria .",1.0,0.7109419703483582,0.7423690557479858,0.7263157367706299
+6,"¿Cuál es el requisito de graduación para la Licenciatura en Negocios Digitales, la Licenciatura en Relaciones Internacionales y el Profesorado en Educación Primaria?","Aquí tienes los requisitos de graduación para las carreras solicitadas en la Universidad de San Andrés:
+
+### Licenciatura en Negocios Digitales
+- **Requisito de graduación:** Aprobación del trabajo de graduación.
+
+### Licenciatura en Relaciones Internacionales
+- **Requisito de graduación:** Aprobación del trabajo de graduación.
+
+### Profesorado en Educación Primaria
+- **Requisito de graduación:** Aprobación de la asignatura **APRE IV: Residencia Docente** y aprobación del trabajo de graduación.
+
+Si necesitas más información sobre alguna de estas carreras o cualquier otro tema, no dudes en preguntar.","Para la **Licenciatura en Negocios Digitales**, el requisito de graduación es la **Aprobación del trabajo de graduación** . De manera similar, para la **Licenciatura en Relaciones Internacionales**, el requisito es la **Aprobación del trabajo de graduación** . En contraste, para el **Profesorado en Educación Primaria**, el requisito para la obtención del título es la **realización de la asignatura APRE IV: Residencia Docente** .",0.0,0.7811073064804077,0.8102625608444214,0.7954179048538208
